@@ -22,12 +22,13 @@ OUT = ROOT / "public"
 SITE_NAME = "Sex Abuse Litigation"
 SITE_URL = "https://www.sexabuselitigation.org"
 TAGLINE = ("An index of news reporting on sexual abuse allegations, lawsuits, "
-           "investigations and outcomes involving companies, schools and governments.")
+           "investigations and outcomes involving companies, schools, governments and religious organizations.")
 
 CATEGORIES = {
     "company": "Companies",
     "school": "Schools",
     "government": "Governments",
+    "religious": "Religious organizations",
 }
 STATUSES = {
     "allegation": "Allegation",
@@ -114,7 +115,8 @@ def entry_html(it, show_institution=True):
                 f'{esc(it["institution"])}</a>')
     loc = f'<span class="loc">{esc(it["location"])}</span>' if it.get("location") else ""
     search_blob = " ".join([it["title"], it["institution"], it["summary"],
-                            it["source"], it.get("location", "")]).lower()
+                            it["source"], it.get("location", ""),
+                            STATUSES.get(status, status), CATEGORIES.get(cat, "")]).lower()
     return f"""<li class="entry cat-{cat}" data-cat="{cat}" data-status="{status}" data-q="{esc(search_blob)}">
   <time datetime="{it['date']}">{fmt_date(it['_date'])}</time>
   <div class="body">

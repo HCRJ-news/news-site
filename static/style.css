@@ -8,6 +8,7 @@
   --company: #6a4c9c;
   --school: #2b7a68;
   --government: #2c5c8f;
+  --religious: #8a5a1f;
   --grave: #9a2b2b;
   --resolved: #2e6a40;
   --focus: #c47a00;
@@ -24,6 +25,7 @@
     --company: #a48ad6;
     --school: #5cbfa6;
     --government: #79a7d9;
+    --religious: #d6a464;
     --grave: #e48a8a;
     --resolved: #84c79a;
     --focus: #f0b54a;
@@ -103,6 +105,7 @@ a:hover { text-decoration-thickness: 2px; }
 .cat-company .body { border-left-color: var(--company); }
 .cat-school .body { border-left-color: var(--school); }
 .cat-government .body { border-left-color: var(--government); }
+.cat-religious .body { border-left-color: var(--religious); }
 .entry h3 { margin: 0 0 .35rem; font-size: 1.12rem; line-height: 1.35; font-weight: 700; }
 .entry h3 a { color: var(--ink); text-decoration: none; }
 .entry h3 a:hover { color: var(--link); text-decoration: underline; }
@@ -120,6 +123,7 @@ a:hover { text-decoration-thickness: 2px; }
 .dir.cat-company h2 { border-color: var(--company); }
 .dir.cat-school h2 { border-color: var(--school); }
 .dir.cat-government h2 { border-color: var(--government); }
+.dir.cat-religious h2 { border-color: var(--religious); }
 .dir ul { list-style: none; margin: 0; padding: 0; }
 .dir li { display: flex; justify-content: space-between; gap: 1rem; padding: .4rem 0; border-bottom: 1px solid var(--rule); }
 .dir li span { color: var(--muted); font-variant-numeric: tabular-nums; }

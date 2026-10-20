@@ -12,7 +12,7 @@ from urllib.parse import urlsplit
 
 DATA = Path(__file__).resolve().parent.parent / "data" / "articles.json"
 REQUIRED = ["title", "source", "url", "date", "category", "institution", "summary", "status"]
-CATEGORIES = {"company", "school", "government"}
+CATEGORIES = {"company", "school", "government", "religious"}
 STATUSES = {"allegation", "lawsuit", "investigation", "charges", "settlement",
             "verdict", "conviction", "legislation", "policy"}
 
