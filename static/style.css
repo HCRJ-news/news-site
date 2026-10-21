@@ -197,3 +197,15 @@ a:hover { text-decoration-thickness: 2px; }
 .status-msg.error { color: var(--grave); font-weight: 500; }
 
 .contact[hidden], .note[hidden], form[hidden] { display: none; }
+
+/* Featured ongoing case */
+.featured { border: 2px solid var(--ink); border-radius: 8px; padding: 1.1rem 1.25rem; margin: 0 0 2rem; background: var(--surface); }
+.featured .flag { margin: 0 0 .25rem; font-weight: 700; color: var(--grave); font-size: .9rem; }
+.featured h2 { margin: 0 0 .35rem; font-size: 1.5rem; letter-spacing: -0.02em; }
+.featured h2 a { color: var(--ink); text-decoration: none; }
+.featured > p { margin: 0 0 .75rem; color: var(--muted); max-width: 70ch; }
+.featured ul { list-style: none; margin: 0 0 .75rem; padding: 0; }
+.featured li { padding: .35rem 0; border-top: 1px solid var(--rule); display: flex; gap: 1rem; }
+.featured li time { color: var(--muted); font-size: .9rem; min-width: 6.5rem; font-variant-numeric: tabular-nums; }
+.featured li a { color: var(--ink); font-weight: 500; }
+.featured .more { font-weight: 700; }

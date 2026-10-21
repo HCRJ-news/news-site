@@ -170,6 +170,21 @@ def build_index(items):
                      f'{label} <span>{counts[key]}</span></button>')
     status_opts = "".join(f'<option value="{k}">{v}</option>' for k, v in STATUSES.items())
     updated = fmt_date(items[0]["_date"]) if items else ""
+    featured = ""
+    for slug, meta in CASE_META.items():
+        if not meta.get("featured"):
+            continue
+        its = [i for i in items if i.get("case") == slug]
+        if not its:
+            continue
+        latest = its[:3]
+        lis = "".join(f'<li><time datetime="{i["date"]}">{fmt_date(i["_date"])}</time> '
+                      f'<a href="{esc(i["url"])}" rel="noopener nofollow" target="_blank">{esc(i["title"])}</a></li>'
+                      for i in latest)
+        featured += (f'<section class="featured"><p class="flag">{esc(meta["featured"])}</p>'
+                     f'<h2><a href="/cases/{slug}/">{esc(meta["title"])}</a></h2>'
+                     f'<p>{esc(meta["summary"])}</p><ul>{lis}</ul>'
+                     f'<a class="more" href="/cases/{slug}/">Full timeline, {len(its)} developments</a></section>')
     body = f"""<main id="main">
 <section class="intro">
   <h1>Sexual Abuse Litigation and Resources for Victims</h1>
@@ -183,6 +198,7 @@ def build_index(items):
   </form>
   <p class="count" id="count" aria-live="polite"></p>
 </section>
+{featured}
 <div class="ledger" id="ledger">
 {grouped_list(items)}
 </div>
