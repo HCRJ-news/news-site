@@ -1,5 +1,55 @@
 [
  {
+  "title": "Defence cross-examines youngest complainant over alleged 2009 rape at Brand's home",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-22/russell-brand-trial-hears-from-sixth-accuser/107294572",
+  "date": "2026-10-21",
+  "category": "government",
+  "institution": "Crown Prosecution Service",
+  "summary": "Brand's barrister argued the woman's admiration for him clouded her judgement and that his conduct was not rape; she maintained she did not consent. Brand denies all charges.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "russell-brand",
+  "added": "2026-10-21T19:35:13Z"
+ },
+ {
+  "title": "New Mexico attorney general sues Epstein estate executors, alleging they enabled his abuse",
+  "source": "ABC News",
+  "url": "https://abcnews.com/US/new-mexico-attorney-general-files-suit-executors-jeffrey/story?id=137424892",
+  "date": "2026-10-21",
+  "category": "government",
+  "institution": "State of New Mexico",
+  "summary": "Attorney General Raul Torrez filed a federal civil suit against co-executors Darren Indyke and Richard Kahn, seeking to keep them from profiting and to direct estate assets to survivors. Both have denied involvement in Epstein's crimes.",
+  "status": "lawsuit",
+  "location": "United States, New Mexico",
+  "case": "epstein",
+  "added": "2026-10-21T19:35:13Z"
+ },
+ {
+  "title": "Fortescue fires senior executive after external probe into harassment and bullying claims",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-21/fortescue-executive-sacked-sexual-harassment-bullying/107293046",
+  "date": "2026-10-21",
+  "category": "company",
+  "institution": "Fortescue",
+  "summary": "The iron ore miner said an unnamed executive breached its policies after a MinterEllison investigation into sexual harassment and bullying allegations. The company already faces a separate employee class action over alleged assaults at Pilbara mine sites.",
+  "status": "investigation",
+  "location": "Australia, Western Australia",
+  "added": "2026-10-21T19:35:13Z"
+ },
+ {
+  "title": "Dallas ISD to pay $1 million to settle DOJ claims it failed to report a teacher's alleged misconduct",
+  "source": "KERA News",
+  "url": "https://kera.org/2026/10/20/dallas-isd-settlement-department-justice-allegations-covered-up-teacher-abuse",
+  "date": "2026-10-20",
+  "category": "school",
+  "institution": "Dallas Independent School District",
+  "summary": "Federal prosecutors said the district closed misconduct complaints against a former special education teacher instead of reporting them to state certification officials; most of the money funds reforms. The district disputes the allegations.",
+  "status": "settlement",
+  "location": "United States, Texas",
+  "added": "2026-10-21T19:35:13Z"
+ },
+ {
   "title": "Federal judge dismisses childhood sexual abuse suit against OpenAI CEO Sam Altman with prejudice",
   "source": "Forbes",
   "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/20/judge-dismisses-sexual-abuse-lawsuit-against-sam-altman-brought-by-his-sister/",
@@ -183,6 +233,30 @@
   "status": "lawsuit",
   "location": "United States, Illinois",
   "added": "2026-10-20T20:39:36Z"
+ },
+ {
+  "title": "Il Fornaio agrees to $3 million settlement of EEOC sexual harassment suit",
+  "source": "KFI AM 640",
+  "url": "https://kfiam640.iheart.com/content/2026-10-19-il-fornaio-settles-harassment-lawsuit-for-3-million/",
+  "date": "2026-10-19",
+  "category": "company",
+  "institution": "Il Fornaio",
+  "summary": "The EEOC alleged the restaurant chain ignored harassment of female workers, many of them teenagers, at locations in California and Nevada. The company denied wrongdoing and agreed to an outside monitor and HR reforms.",
+  "status": "settlement",
+  "location": "United States, California",
+  "added": "2026-10-21T19:35:13Z"
+ },
+ {
+  "title": "Albemarle County presses school board after principal and two staffers charged with failing to report abuse",
+  "source": "WMRA (via WHRO)",
+  "url": "https://www.whro.org/2026-10-19/albemarle-county-tries-to-steady-school-district-rocked-by-abuse-allegations",
+  "date": "2026-10-19",
+  "category": "school",
+  "institution": "Albemarle County Public Schools",
+  "summary": "County supervisors asked the school board for more transparency and a whistleblower system after a teacher was charged with abusing elementary students and three administrators were charged with not reporting. The charged teacher denies the allegations.",
+  "status": "charges",
+  "location": "United States, Virginia",
+  "added": "2026-10-21T19:35:13Z"
  },
  {
   "title": "Taunton State Hospital nurse sues Massachusetts agencies over alleged workplace assault and retaliation",
