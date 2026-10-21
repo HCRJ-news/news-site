@@ -172,7 +172,7 @@ def build_index(items):
     updated = fmt_date(items[0]["_date"]) if items else ""
     body = f"""<main id="main">
 <section class="intro">
-  <h1>Who knew, who was sued, and what happened next.</h1>
+  <h1>Sexual Abuse Litigation and Resources for Victims</h1>
   <p class="lede">{TAGLINE} Latest entry {updated}.</p>
   <form class="filters" role="search" onsubmit="return false">
     <label class="search"><span class="sr">Search</span>
