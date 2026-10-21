@@ -108,6 +108,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head="", full_titl
     <a href="/guides/">Get help</a>
     <a href="/cases/">Major cases</a>
     <a href="/institutions/">Institutions</a>
+    <a href="/attorneys/">Attorneys</a>
     <a href="/about/">About &amp; standards</a>
     <a href="/report/">Report</a>
     <a href="/feed.xml">RSS</a>
@@ -391,6 +392,58 @@ RAINN at 800-656-4673.</p></section>
         description="Guides for survivors of sexual assault, rape and sexual harassment: what to do, support, reporting, and legal options."))
 
 
+ATTORNEYS = json.loads((ROOT / "data" / "attorneys.json").read_text()) if (ROOT / "data" / "attorneys.json").exists() else []
+
+
+def build_attorneys():
+    if not ATTORNEYS:
+        return
+    profiles, toc = [], []
+    for a in ATTORNEYS:
+        slug = slugify(a["name"])
+        toc.append(f'<li><a href="#{slug}">{esc(a["name"])}</a></li>')
+        cases = " ".join(f'<a class="case" href="/cases/{c}/">{esc(CASE_META[c]["title"])}</a>'
+                         for c in a.get("cases", []) if c in CASE_META)
+        rows = "".join(
+            f'<li><span class="yr">{esc(o["year"])}</span><div><strong>{esc(o["institution"])}</strong>: '
+            f'{esc(o["result"])}.<br><span class="role">{esc(o["role"])}.</span> '
+            f'<a href="{esc(o["url"])}" rel="noopener nofollow" target="_blank">Reported by {esc(o["source"])}</a></div></li>'
+            for o in sorted(a["outcomes"], key=lambda o: o["year"]))
+        profiles.append(f"""<section class="attorney" id="{slug}">
+  <h2>{esc(a['name'])}</h2>
+  <p class="firm">{esc(a['firm'])} · {esc(a['base'])}</p>
+  <p>{esc(a['summary'])}</p>
+  <h3>Documented outcomes</h3>
+  <ol class="outcomes">{rows}</ol>
+  <p class="meta">{cases}</p>
+</section>""")
+    body = f"""<main id="main">
+<section class="intro narrow">
+  <h1>Survivors' attorneys behind major outcomes</h1>
+  <p class="lede">Profiles of {len(ATTORNEYS)} lawyers who represented survivors in the largest institutional sexual abuse
+  cases in this index, with the settlements and verdicts that news reporting credits to them.</p>
+</section>
+<div class="prose attorneys">
+  <p class="note"><strong>How this list works.</strong> Lawyers are listed alphabetically, not ranked. Each outcome
+  is included only when published reporting names the lawyer or their firm as counsel for survivors, and each links to
+  that reporting. Most large settlements were negotiated by several firms together and shared among many survivors, so
+  a dollar figure is the total for the case, not what one lawyer won or was paid. Past results do not predict future
+  outcomes. No one paid to be included. This site is not a law firm, does not give legal advice and does not endorse or
+  refer to any lawyer. To find an attorney, contact your state bar's lawyer referral service, or read our guide to
+  <a href="/guides/sexual-harassment-lawyer/">finding a lawyer</a>.</p>
+  <ul class="toc">{''.join(toc)}</ul>
+  {''.join(profiles)}
+  <p class="note">See something wrong or missing? Email
+  <a href="mailto:corrections@sexabuselitigation.org">corrections@sexabuselitigation.org</a>.</p>
+</div>
+</main>"""
+    d = OUT / "attorneys"
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "index.html").write_text(page("Survivors' attorneys", body, path="/attorneys/",
+        description="Lawyers who represented survivors in major institutional sexual abuse cases, with the settlements and verdicts reporting credits to them.",
+        full_title="Sexual Abuse Lawyers Behind Major Settlements and Verdicts | " + SITE_NAME))
+
+
 def build_llms(items):
     cases = "\n".join(f"- [{m['title']}]({SITE_URL}/cases/{s}/): {m['summary']}" for s, m in CASE_META.items())
     guides = "\n".join(f"- [{g['h1']}]({SITE_URL}/guides/{s}/): {g['description']}" for s, g in GUIDES.items())
@@ -410,6 +463,7 @@ This site is not a law firm and does not give legal advice. Confidential support
 
 ## Other
 - [All institutions]({SITE_URL}/institutions/)
+- [Survivors' attorneys behind major outcomes]({SITE_URL}/attorneys/)
 - [About and editorial standards]({SITE_URL}/about/)
 - [RSS feed]({SITE_URL}/feed.xml)
 """
@@ -441,7 +495,7 @@ def build_feed(items):
 
 
 def build_sitemap(items):
-    urls = [f"{SITE_URL}/", f"{SITE_URL}/guides/", f"{SITE_URL}/report/", f"{SITE_URL}/institutions/", f"{SITE_URL}/cases/", f"{SITE_URL}/about/"]
+    urls = [f"{SITE_URL}/", f"{SITE_URL}/guides/", f"{SITE_URL}/report/", f"{SITE_URL}/institutions/", f"{SITE_URL}/cases/", f"{SITE_URL}/attorneys/", f"{SITE_URL}/about/"]
     urls += [f"{SITE_URL}/guides/{g}/" for g in GUIDES]
     urls += sorted({f"{SITE_URL}/institutions/{it['_inst_slug']}/" for it in items})
     urls += sorted({f"{SITE_URL}/cases/{it['case']}/" for it in items if it.get("case") in CASE_META})
@@ -465,6 +519,7 @@ def main():
     build_institutions(items)
     build_cases(items)
     build_about()
+    build_attorneys()
     build_guides(items)
     build_llms(items)
     build_report()

@@ -1,0 +1,112 @@
+[
+ {
+  "name": "Gloria Allred",
+  "firm": "Allred, Maroko & Goldberg",
+  "base": "Los Angeles, California",
+  "summary": "Women's rights attorney who has represented accusers in many of the highest-profile sexual misconduct cases of the past four decades.",
+  "cases": ["cosby"],
+  "outcomes": [
+   {"year": "2014", "institution": "University of Connecticut", "result": "About $1.29 million to settle a Title IX suit by five students over the university's handling of their sexual assault reports", "role": "Counsel for the students", "source": "CT Mirror", "url": "https://ctmirror.org/2014/07/18/uconn-pays-1-1m-to-settle-lawsuit-over-sexual-assault-allegations/"},
+   {"year": "2022", "institution": "Bill Cosby", "result": "Civil jury found Cosby sexually abused a teenager in 1975 and awarded $500,000 in compensatory damages", "role": "Counsel for the plaintiff, with partner Nathan Goldberg as trial attorney", "source": "Court TV (Associated Press)", "url": "https://www.courttv.com/news/civil-jury-finds-bill-cosby-sexually-abused-teenager-in-1975/"}
+  ]
+ },
+ {
+  "name": "Jeff Anderson",
+  "firm": "Jeff Anderson & Associates",
+  "base": "St. Paul, Minnesota",
+  "summary": "Began suing the Catholic Church over clergy abuse in the 1980s and has since represented survivors in diocese cases and bankruptcies across the country.",
+  "cases": ["catholic-church-us"],
+  "outcomes": [
+   {"year": "2018", "institution": "Archdiocese of St. Paul and Minneapolis", "result": "$210 million bankruptcy settlement for about 450 survivors", "role": "Survivors' attorney", "source": "MPR News", "url": "https://www.mprnews.org/story/2018/05/31/twin-cities-archdiocese-sex-abuse-victims-bankruptcy"},
+   {"year": "2019", "institution": "Diocese of New Ulm", "result": "$34 million settlement with 93 claimants", "role": "Represented many of the survivors", "source": "WCCO (CBS Minnesota)", "url": "https://www.cbsnews.com/amp/minnesota/news/new-ulm-diocese-reaches-settlement"}
+  ]
+ },
+ {
+  "name": "Anthony T. DiPietro",
+  "firm": "The DiPietro Law Firm",
+  "base": "New York, New York",
+  "summary": "Represented most of the former patients who sued Columbia University and NewYork-Presbyterian over gynecologist Robert Hadden. Columbia's Hadden payouts now total more than $1 billion.",
+  "cases": ["columbia-hadden"],
+  "outcomes": [
+   {"year": "2022", "institution": "Columbia University and NewYork-Presbyterian", "result": "$165 million settlement with 147 former Hadden patients", "role": "Attorney for the patients", "source": "CBS News", "url": "https://cbsnews.com/news/columbia-university-settlement-robert-hadden-doctor-sexual-abuse"},
+   {"year": "2025", "institution": "Columbia University", "result": "$750 million settlement with 576 former Hadden patients", "role": "Handled most of the Columbia claims", "source": "ProPublica", "url": "https://www.propublica.org/article/columbia-university-750-million-settlement-robert-hadden-sexual-assault"}
+  ]
+ },
+ {
+  "name": "Brad Edwards",
+  "firm": "Edwards Henderson (formerly Edwards Pottinger)",
+  "base": "Fort Lauderdale, Florida",
+  "summary": "Has represented Jeffrey Epstein's accusers since 2008, including in suits against the banks that served Epstein. Epstein sued him in 2009 and in 2018 publicly apologized and withdrew his claims.",
+  "cases": ["epstein"],
+  "outcomes": [
+   {"year": "2023", "institution": "Deutsche Bank", "result": "$75 million class settlement with Epstein survivors", "role": "Co-counsel with Boies Schiller Flexner", "source": "NPR", "url": "https://www.npr.org/2023/05/18/1176974676/deutsche-bank-settles-lawsuit-with-epstein-accusers-for-75-million"},
+   {"year": "2023", "institution": "JPMorgan Chase", "result": "$290 million class settlement with Epstein survivors", "role": "Co-counsel with Boies Schiller Flexner", "source": "NBC News", "url": "https://www.nbcnews.com/news/us-news/jpmorgan-chase-reaches-settlement-jeffrey-epstein-victim-rcna88807"},
+   {"year": "2026", "institution": "Bank of America", "result": "$72.5 million settlement with Epstein accusers", "role": "Co-counsel with David Boies", "source": "Malay Mail (Reuters)", "url": "https://www.malaymail.com/news/money/2026/03/28/bank-of-america-settles-epstein-accusers-suit-for-us725m-after-jpmorgan-and-deutsche-bank-paid-larger-sums/214188"}
+  ]
+ },
+ {
+  "name": "Mitchell Garabedian",
+  "firm": "Law Office of Mitchell Garabedian",
+  "base": "Boston, Massachusetts",
+  "summary": "Represented clergy abuse survivors in Boston before and after the 2002 Boston Globe Spotlight investigation, and has continued to bring and settle claims against the archdiocese and religious orders.",
+  "cases": ["catholic-church-us"],
+  "outcomes": [
+   {"year": "2002", "institution": "Archdiocese of Boston", "result": "$10 million settlement with 86 people who said they were abused by priest John Geoghan", "role": "Plaintiffs' attorney", "source": "CNN", "url": "https://www.cnn.com/TRANSCRIPTS/0209/20/ltm.03.html"},
+   {"year": "2003", "institution": "Archdiocese of Boston", "result": "$85 million global settlement covering 552 claimants", "role": "One of several survivors' firms; represented about 120 claimants", "source": "The Boston Globe", "url": "https://graphics.boston.com/globe/spotlight/abuse/print5/102103_deal.htm"}
+  ]
+ },
+ {
+  "name": "John C. Manly",
+  "firm": "Manly, Stewart & Finaldi",
+  "base": "Irvine, California",
+  "summary": "Lead or co-lead counsel in several of the largest institutional abuse settlements in U.S. history, including the cases over Larry Nassar and USC gynecologist George Tyndall.",
+  "cases": ["nassar", "usc-tyndall"],
+  "outcomes": [
+   {"year": "2018", "institution": "Michigan State University", "result": "$500 million settlement with 332 people abused by Larry Nassar", "role": "Lead attorney for the survivors", "source": "NBC San Diego (Associated Press)", "url": "https://www.nbcsandiego.com/news/national-international/michigan-state-settles-nassar-victims/149574/?amp=1"},
+   {"year": "2021", "institution": "University of Southern California", "result": "$852 million global settlement over George Tyndall", "role": "One of several firms; represented 234 plaintiffs", "source": "NBC Los Angeles", "url": "https://www.nbclosangeles.com/news/local/global-settlement-reached-in-lawsuits-over-ex-usc-gynecologist-george-tyndall/2559398/"},
+   {"year": "2021", "institution": "USA Gymnastics and U.S. Olympic & Paralympic Committee", "result": "$380 million settlement with Nassar survivors", "role": "One of several firms; represented dozens of the women", "source": "MPR News", "url": "https://www.mprnews.org/story/2021/12/13/usa-gymnastics-usopc-reach-380m-settlement-with-victims"},
+   {"year": "2024", "institution": "U.S. Justice Department (FBI)", "result": "$138.7 million settlement of 139 claims over the FBI's handling of the Nassar allegations", "role": "One of the lead attorneys", "source": "ClickOnDetroit (Associated Press)", "url": "https://www.clickondetroit.com/sports/2024/04/23/us-government-agrees-to-1387m-settlement-over-fbis-botching-of-larry-nassar-assault-allegations/"}
+  ]
+ },
+ {
+  "name": "Annika K. Martin",
+  "firm": "Lieff Cabraser Heimann & Bernstein",
+  "base": "New York, New York",
+  "summary": "Class action lawyer who co-led the federal class case for former USC student patients of gynecologist George Tyndall.",
+  "cases": ["usc-tyndall"],
+  "outcomes": [
+   {"year": "2020", "institution": "University of Southern California", "result": "$215 million federal class settlement for Tyndall's former patients, given final approval in February 2020", "role": "One of the lead class counsel", "source": "Daily Trojan", "url": "https://dailytrojan.com/2020/01/07/court-to-approve-215-million-class-action-settlement-in-tyndall-case"}
+  ]
+ },
+ {
+  "name": "Sigrid McCawley",
+  "firm": "Boies Schiller Flexner",
+  "base": "Fort Lauderdale, Florida, and New York",
+  "summary": "Managing partner at Boies Schiller Flexner who has represented Epstein survivors, including in the class actions against the banks that served him.",
+  "cases": ["epstein"],
+  "outcomes": [
+   {"year": "2023", "institution": "JPMorgan Chase", "result": "$290 million class settlement with Epstein survivors", "role": "Victims' attorney, with David Boies and co-counsel", "source": "NBC News", "url": "https://www.nbcnews.com/news/us-news/jpmorgan-chase-reaches-settlement-jeffrey-epstein-victim-rcna88807"},
+   {"year": "2023", "institution": "Deutsche Bank", "result": "$75 million class settlement with Epstein survivors", "role": "Her firm was class counsel with Edwards Pottinger", "source": "NPR", "url": "https://www.npr.org/2023/05/18/1176974676/deutsche-bank-settles-lawsuit-with-epstein-accusers-for-75-million"}
+  ]
+ },
+ {
+  "name": "Ken Rothweiler",
+  "firm": "Eisenberg, Rothweiler, Winkler, Eisenberg & Jeck",
+  "base": "Pennsylvania",
+  "summary": "Mass tort lawyer whose firm represented more than 16,000 people who said they were abused in Scouting.",
+  "cases": ["boy-scouts"],
+  "outcomes": [
+   {"year": "2021", "institution": "Boy Scouts of America", "result": "$850 million settlement with the BSA and local councils, later folded into the $2.46 billion reorganization plan confirmed in 2022", "role": "One of three lead negotiators for survivors", "source": "NHPR (NPR)", "url": "https://www.nhpr.org/2021-07-02/boy-scouts-of-america-reaches-historic-settlement-with-sexual-abuse-survivors"}
+  ]
+ },
+ {
+  "name": "Parker Stinar",
+  "firm": "Stinar Lannen (formerly Stinar Gould Grieco & Hensley)",
+  "base": "Birmingham, Michigan",
+  "summary": "Represented former University of Michigan athletes and students who said they were abused by team doctor Robert Anderson.",
+  "cases": ["michigan-anderson"],
+  "outcomes": [
+   {"year": "2022", "institution": "University of Michigan", "result": "$490 million settlement with 1,050 people who said Robert Anderson abused them", "role": "One of several survivors' attorneys", "source": "CBS Detroit", "url": "https://cbsnews.com/amp/detroit/news/university-of-michigan-reaches-490m-settlement-over-dr-anderson-sexual-abuse-case"}
+  ]
+ }
+]
