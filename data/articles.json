@@ -1,5 +1,53 @@
 [
  {
+  "title": "Amazon employee sues, saying company failed to protect her after she reported rape by a senior manager",
+  "source": "KIRO 7",
+  "url": "https://www.kiro7.com/news/local/amazon-employee-sues-alleging-company-failed-protect-her-after-reporting-senior-manager-rape/P57OQV6FF5DCXHAYY5RLRVF3WM/",
+  "date": "2026-10-20",
+  "category": "company",
+  "institution": "Amazon",
+  "summary": "An unnamed Amazon employee alleges in a new suit that the company kept her working alongside a senior manager she reported for raping her on a 2023 company-funded trip and ran an inadequate investigation. Amazon's internal review found insufficient evidence of a policy violation; police closed their inquiry without charges.",
+  "status": "lawsuit",
+  "location": "United States, Washington",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
+  "title": "Mercer Island School District claim over alleged teacher grooming settles for $1.5 million",
+  "source": "Mercer Island Reporter",
+  "url": "https://mi-reporter.com/2026/10/20/former-mihs-students-sex-abuse-tort-claim-resolved",
+  "date": "2026-10-20",
+  "category": "school",
+  "institution": "Mercer Island School District",
+  "summary": "A former Mercer Island High School student's $13.4 million claim, alleging administrators failed to stop a longtime English teacher's grooming and abuse about 15 years ago, was resolved before suit for $1.5 million. The district's insurance pool pays the full amount and there is no admission of liability.",
+  "status": "settlement",
+  "location": "United States, Washington",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
+  "title": "Woman sues Kansas priest, Diocese of Salina and Kansas City archdiocese alleging misconduct cover-up",
+  "source": "Hoodline",
+  "url": "https://hoodline.com/2026/10/kansas-woman-sues-priest-two-dioceses-over-alleged-sexual-misconduct-cover-up/",
+  "date": "2026-10-20",
+  "category": "religious",
+  "institution": "Catholic Diocese of Salina",
+  "summary": "An adult woman alleges Rev. Ryan McCandless, already facing unrelated child sex charges, used a spiritual-counseling relationship to coerce her into sexual contact in 2024, and that the Diocese of Salina, the Kansas City archdiocese and a Manhattan parish concealed her report. The archdiocese says he never served there; Salina declined comment.",
+  "status": "lawsuit",
+  "location": "United States, Kansas",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
+  "title": "Ghana's Obuasi Senior High Technical headmaster arrested as police probe students' abuse allegations",
+  "source": "MyJoyOnline",
+  "url": "https://www.myjoyonline.com/sex-scandal-activists-declare-wednesday-red-wednesday-for-obuasi-shts-girls/",
+  "date": "2026-10-20",
+  "category": "school",
+  "institution": "Obuasi Senior High Technical School",
+  "summary": "Several female students have accused the school's headmaster of sexual misconduct; the education minister ordered him interdicted and police say he was arrested, with one rape docket sent to the Attorney-General for advice. Activists question whether earlier complaints were ignored by school and education authorities.",
+  "status": "investigation",
+  "location": "Ghana, Ashanti",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
   "title": "Judge upholds Maryland Child Victims Act against WWE challenge, letting ring boys suit proceed",
   "source": "The MoCo Show",
   "url": "https://mocoshow.com/2026/10/20/maryland-federal-judge-allows-child-sexual-abuse-lawsuit-against-wwe-and-mcmahons-to-move-forward/",
@@ -75,6 +123,42 @@
   "added": "2026-10-20T20:39:36Z"
  },
  {
+  "title": "Lawsuit says Horry County Schools ignored warning signs before Aynor High teacher's arrest",
+  "source": "WIS News 10",
+  "url": "https://wistv.com/2026/10/19/former-aynor-high-teacher-accused-grooming-student-new-lawsuit",
+  "date": "2026-10-19",
+  "category": "school",
+  "institution": "Horry County Schools",
+  "summary": "A family's suit alleges a former Aynor High School teacher groomed a student and sent explicit material, and that district staff knew or should have known and failed to intervene. The teacher was arrested in 2025 on related criminal charges and resigned; the district has not commented on the suit.",
+  "status": "lawsuit",
+  "location": "United States, South Carolina",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
+  "title": "Vatican upholds Lafayette bishop's excommunication of deacon whose son was abused by a priest",
+  "source": "Acadiana News First (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/vatican-upholds-excommunication-of-deacon-whose-son-was-abused-by-priest/",
+  "date": "2026-10-19",
+  "category": "religious",
+  "institution": "Diocese of Lafayette",
+  "summary": "The Dicastery for the Doctrine of the Faith rejected a former deacon's appeal of his excommunication, which followed his departure from the Church over the abuse of his son by Father Michael Guidry, who confessed and is serving a prison sentence. Critics note the bishop let Guidry remain a priest.",
+  "status": "policy",
+  "location": "United States, Louisiana",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
+  "title": "Reformed Church of Zurich apologizes after review finds it mishandled abuse by a former vicar",
+  "source": "Swissinfo (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/zurich-reformed-church-investigates-abuse-by-vicar/",
+  "date": "2026-10-19",
+  "category": "religious",
+  "institution": "Reformed Church of the Canton of Zurich",
+  "summary": "An external report found at least ten women suffered sexual, physical and psychological abuse by a former vicar between 1992 and 2006, and that the church closed its 2007 inquiry without acknowledging the confirmed abuse. The church council apologized and pledged to handle future cases differently.",
+  "status": "investigation",
+  "location": "Switzerland, Zurich",
+  "added": "2026-10-21T07:41:35Z"
+ },
+ {
   "title": "eXp Realty settles one agent's sexual assault suit as trial against two ex-recruiters begins",
   "source": "RISMedia",
   "url": "https://www.rismedia.com/2026/10/19/breaking-exp-reaches-settlement-in-sexual-assault-case/",
@@ -136,6 +220,18 @@
   "status": "lawsuit",
   "location": "United States, Washington",
   "added": "2026-10-20T20:39:36Z"
+ },
+ {
+  "title": "Georgetown updates clerical abuse page after reporting on a Jesuit's alleged misconduct with students",
+  "source": "The Hoya (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/gu-updates-clerical-sex-abuse-page-after-new-misconduct-allegations/",
+  "date": "2026-10-17",
+  "category": "school",
+  "institution": "Georgetown University",
+  "summary": "After the student paper reported that a late Jesuit priest allegedly harassed at least four students and returned to campus after a 1998 complaint, Georgetown revised its Title IX page to acknowledge a 2010 finding of unwanted touching and disclosed new protocols for sharing Jesuit misconduct reports.",
+  "status": "policy",
+  "location": "United States, District of Columbia",
+  "added": "2026-10-21T07:41:35Z"
  },
  {
   "title": "Second complainant says Brand tried to drag her into toilets at MTV in 2001",
