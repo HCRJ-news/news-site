@@ -769,6 +769,19 @@
   "added": "2026-10-20T20:39:36Z"
  },
  {
+  "title": "Ohio State agrees to roughly $100 million settlement with remaining Strauss plaintiffs",
+  "source": "CBS News / AP",
+  "url": "https://www.cbsnews.com/news/ohio-state-100-million-dollar-settlement-victims-doctor-sexual-abuse-richard-strauss/",
+  "date": "2026-06-03",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State trustees approved a preliminary agreement of about $100 million with all but one of 280 survivors still in litigation.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Ohio State trustees approve about $100M settlement with former athletes over team doctor abuse",
   "source": "Associated Press (ClickOnDetroit)",
   "url": "https://www.clickondetroit.com/sports/2026/06/04/ohio-state-trustees-ok-100m-settlement-with-hundreds-of-former-students-abused-by-doctor/",
@@ -943,6 +956,32 @@
   "added": "2026-10-20T20:39:36Z"
  },
  {
+  "title": "Ohio State settles with 13 Strauss survivors for $1.8 million",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/new-settlements-reached-with-survivors-for-cases-involving-strauss/",
+  "date": "2026-04-15",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "New agreements with 13 survivors brought Ohio State's total to 317 survivors and more than $61 million.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Heaps pleads guilty to 13 counts and is resentenced to 11 years",
+  "source": "Courthouse News Service",
+  "url": "https://courthousenews.com/former-ucla-gynecologist-gets-11-years-in-prison-for-sexually-abusing-patients/",
+  "date": "2026-04-14",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "After his conviction was overturned, Heaps pleaded guilty to 13 felony counts involving five patients and was again sentenced to 11 years.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Cosby seeks new trial, calls $40 million punitive award excessive",
   "source": "Baller Alert",
   "url": "https://balleralert.com/bill-cosby-appeals-verdict/",
@@ -1079,6 +1118,19 @@
   "added": "2026-10-20T20:39:36Z"
  },
  {
+  "title": "Judge orders former Ohio State president Gordon Gee to sit for deposition",
+  "source": "Hoodline",
+  "url": "https://hoodline.com/2026/03/judge-orders-ex-ohio-state-chief-gee-to-face-strauss-sex-abuse-grilling/",
+  "date": "2026-03-19",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A federal judge granted plaintiffs' motion to compel former president E. Gordon Gee to be deposed in the Strauss litigation.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Federal guard at Brooklyn's MDC indicted on sexual abuse charge",
   "source": "New York Post (via AOL)",
   "url": "https://www.aol.com/articles/guard-notorious-nyc-jail-charged-221315228.html",
@@ -1102,6 +1154,19 @@
   "location": "United States, District of Columbia",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "External report confirms Columbia failures; OB-GYN chair and ex-dean step down",
+  "source": "ProPublica",
+  "url": "https://www.propublica.org/article/columbia-university-robert-hadden-obgyn-sexual-abuse-report",
+  "date": "2026-03-11",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A 156-page external report described a culture of silence that let Hadden's abuse continue; OB-GYN chair Mary D'Alton stepped down and former dean Lee Goldman is retiring.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Former students file federal suit alleging Oconto Falls schools ignored staff abuse for years",
@@ -1163,6 +1228,19 @@
   "status": "investigation",
   "location": "United States, Rhode Island",
   "added": "2026-10-20T20:39:36Z"
+ },
+ {
+  "title": "New York attorney general investigates Columbia's handling of Hadden",
+  "source": "The New York Times",
+  "url": "https://www.nytimes.com/2026/03/03/nyregion/columbia-hadden-sexual-assault-investigation.html",
+  "date": "2026-03-03",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "The state attorney general's office opened an investigation into how Columbia handled warnings about Hadden.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Bill Clinton questioned by House investigators about Epstein",
@@ -1278,6 +1356,19 @@
   "added": "2026-10-20T20:39:36Z"
  },
  {
+  "title": "Judge orders former trustee Les Wexner to testify in Strauss case",
+  "source": "WOSU / WYSO",
+  "url": "https://www.wyso.org/2026-02-11/judge-orders-les-wexner-to-testify-in-lawsuit-against-ohio-state-over-richard-strauss-sexual-abuse",
+  "date": "2026-02-11",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A federal judge refused to quash a subpoena and ordered Les Wexner, a former Ohio State board chair, to be deposed about what he knew of Strauss.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Maxwell invokes Fifth Amendment before House committee, seeks clemency",
   "source": "KSAT (Associated Press)",
   "url": "https://www.ksat.com/news/politics/2026/02/09/ghislaine-maxwell-declined-to-answer-questions-from-a-house-committee-citing-5th-amendment-rights/",
@@ -1314,6 +1405,32 @@
   "status": "verdict",
   "location": "United States, Arizona",
   "added": "2026-10-20T20:39:36Z"
+ },
+ {
+  "title": "Ohio State settles with eight more Strauss survivors",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/settlement-agreements-reached-for-cases-involving-strauss/",
+  "date": "2026-02-05",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Eight new settlements totaling $800,000 brought Ohio State's total to 304 survivors and more than $60 million.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Appeals court overturns Heaps conviction and orders retrial",
+  "source": "NPR",
+  "url": "https://www.npr.org/2026/02/03/nx-s1-5697829/appeals-court-overturns-ucla-gynecologist-sex-abuse-conviction",
+  "date": "2026-02-03",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A California appeals court overturned Heaps's 2022 conviction because the trial judge did not share a jury note questioning a juror's English proficiency; prosecutors vowed to retry him.",
+  "status": "verdict",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Irish abuse survivor describes apology from Pope Leo after private audience",
@@ -1835,6 +1952,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "Jim Jordan deposed under oath in Strauss lawsuit",
+  "source": "AP",
+  "url": "https://www.news4jax.com/sports/2025/07/22/republican-jim-jordan-deposed-in-federal-suit-tied-to-sex-abuse-by-late-ohio-state-team-doctor/",
+  "date": "2025-07-22",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Rep. Jim Jordan gave his first sworn testimony in the federal suits, maintaining he never saw or heard of abuse; former athletic director Andy Geiger was also deposed.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Excavation begins at Tuam mother and baby home site",
   "source": "KTVU FOX 2 (with AP)",
   "url": "https://www.ktvu.com/news/ireland-baby-mass-grave",
@@ -1900,6 +2030,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Michigan Senate passes bills extending time for abuse survivors to sue",
+  "source": "Bridge Michigan",
+  "url": "https://bridgemi.com/michigan-government/michigan-senate-give-sexual-assault-survivors-more-time-sue/",
+  "date": "2025-05-20",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Citing the Nassar and Anderson scandals, the state Senate passed bills extending civil deadlines, opening a one-year lookback window and allowing suits against public universities.",
+  "status": "legislation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Third Circuit upholds Boy Scouts bankruptcy plan, saying it is too late to unwind",
   "source": "Bloomberg Law",
   "url": "https://news.bgov.com/bankruptcy-law/boy-scouts-bankruptcy-plan-survives-appeal-over-liability-shield",
@@ -1924,6 +2067,32 @@
   "location": "Vatican City, Vatican City",
   "case": "catholic-church-global",
   "added": "2026-10-21T00:43:02Z"
+ },
+ {
+  "title": "Columbia and NewYork-Presbyterian reach $750 million Hadden settlement",
+  "source": "NY1 / AP",
+  "url": "https://ny1.com/nyc/all-boroughs/news/2025/05/06/columbia--new-york-presbyterian-hospital-settle-hundreds-of-sex-abuse-claims-involving-ex-doctor",
+  "date": "2025-05-06",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A $750 million settlement covering 576 cases pushed total civil payouts related to Hadden above $1 billion.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Documentary on Strauss scandal set for Tribeca premiere and HBO release",
+  "source": "NBC4 (WCMH)",
+  "url": "https://www.nbc4i.com/news/local-news/ohio-state-university/premiere-set-for-clooney-backed-documentary-on-richard-strauss-osu-sex-abuse-scandal/",
+  "date": "2025-04-16",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "The George Clooney-produced documentary Surviving Ohio State was scheduled to premiere at the Tribeca Film Festival before airing on HBO.",
+  "status": "policy",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Defrocked former cardinal Theodore McCarrick dies at 94 without facing trial",
@@ -1963,6 +2132,19 @@
   "location": "United States, District of Columbia",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "Eighty more patients sue Columbia and affiliates over Hadden",
+  "source": "Columbia Daily Spectator",
+  "url": "https://www.columbiaspectator.com/news/2025/02/23/eighty-additional-patients-sue-columbia-and-affiliates-over-hadden-abuses/",
+  "date": "2025-02-23",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "Another 80 former patients filed suit against Columbia and affiliated institutions over Hadden's abuse.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Redress scheme compensates two men over abuse attributed to Pell",
@@ -2069,6 +2251,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Strauss plaintiffs say case could head to trial as judge encourages mediation",
+  "source": "Spectrum News 1",
+  "url": "https://spectrumnews1.com/oh/cleveland/politics/2024/02/29/news--sports--court--case",
+  "date": "2024-03-01",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "At a status conference, attorneys for remaining plaintiffs said the case could go to trial in 2025 while the judge pushed for mediation.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Les Moonves to pay Los Angeles ethics fine over interference in police probe",
   "source": "Spectrum News 1",
   "url": "https://spectrumnews1.com/ca/la/entertainment/2024/02/17/former-cbs-exec-to-pay-fine-for-interference-in-police-probe",
@@ -2160,6 +2355,58 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Columbia announces $100 million fund and notification of 6,500 Hadden patients",
+  "source": "NY1 / AP",
+  "url": "https://ny1.com/nyc/manhattan/news/2023/11/13/columbia-will-set-up-fund-for-victims-of-doctor-convicted-of-sex-crimes--notify-6-500-patients",
+  "date": "2023-11-13",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "Columbia said it would create a $100 million survivors fund, notify about 6,500 former patients, and commission an external investigation.",
+  "status": "policy",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Facing more lawsuits, Ohio State denies covering up Strauss abuse",
+  "source": "NBC News",
+  "url": "https://www.nbcnews.com/news/us-news/faced-lawsuits-ohio-state-denies-covering-sex-abuse-scandal-years-payi-rcna120200",
+  "date": "2023-10-13",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "With five lawsuits from more than 230 men pending, Ohio State denied a cover-up and argued the claims were time-barred.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Columbia apologizes as it confronts revelations about Hadden",
+  "source": "ProPublica",
+  "url": "https://www.propublica.org/article/columbia-obgyn-abuse-university-students-response",
+  "date": "2023-10-12",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "Columbia leadership issued an apology to Hadden's victims amid pressure from students, faculty and survivors following ProPublica's reporting.",
+  "status": "policy",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Former Ohio State wrestlers oppose Jim Jordan's bid for House speaker",
+  "source": "The Guardian",
+  "url": "https://www.theguardian.com/us-news/2023/oct/11/jim-jordan-house-speaker-ohio-state-wrestlers-abuse",
+  "date": "2023-10-11",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Former wrestlers said Jordan was unfit to be speaker because of what they allege he knew about Strauss; Jordan denies the claims.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "George Tyndall found dead at home while awaiting trial",
   "source": "Los Angeles Times",
   "url": "https://www.latimes.com/california/story/2023-10-05/george-tyndall-ex-usc-gynecologist-accused-of-sexual-abuse-found-dead-at-home",
@@ -2173,6 +2420,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Hadden faces hundreds of new abuse claims",
+  "source": "USA Today",
+  "url": "https://www.usatoday.com/story/news/education/2023/10/04/robert-hadden-columbia-university-gynecologist-sexual-abuse/71058727007/",
+  "date": "2023-10-04",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "USA Today reported that hundreds of additional former patients had brought new abuse claims involving Hadden and Columbia.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "JPMorgan settles U.S. Virgin Islands Epstein suit for $75 million",
   "source": "The Guardian",
   "url": "https://www.theguardian.com/business/2023/sep/26/jpmorgan-jeffrey-epstein-lawsuit-settlement-us-virgin-islands",
@@ -2184,6 +2444,19 @@
   "location": "United States, U.S. Virgin Islands",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "ProPublica: Columbia ignored warnings and protected Hadden for two decades",
+  "source": "ProPublica",
+  "url": "https://www.propublica.org/article/columbia-obgyn-sexually-assaulted-patients-for-20-years",
+  "date": "2023-09-12",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A ProPublica and New York Magazine investigation detailed how Columbia failed to act on complaints and let Hadden return to work after his 2012 arrest.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Danny Masterson sentenced to 30 years to life in prison",
@@ -2251,6 +2524,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Hadden sentenced to 20 years in federal prison",
+  "source": "AP",
+  "url": "https://apnews.com/article/gynecologist-sex-abuse-5fdbe07e8367927bb720f7b84ce8a825",
+  "date": "2023-07-25",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A federal judge sentenced Hadden to 20 years in prison for his conviction on enticement charges.",
+  "status": "conviction",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Vatican investigators begin audit of Peru's Sodalitium",
   "source": "Associated Press",
   "url": "https://apnews.com/article/peru-sodalitium-vatican-envoys-abuse-investigation-f52aff3ed499503f688ca104c1571986",
@@ -2314,6 +2600,19 @@
   "location": "United States, New York",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "Supreme Court declines Ohio State appeal, letting Strauss suits proceed",
+  "source": "AP",
+  "url": "https://apnews.com/article/supreme-court-ohio-state-abuse-richard-strauss-57b547932ffeaa015c6f85a994276e32",
+  "date": "2023-06-26",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "The U.S. Supreme Court declined to hear Ohio State's appeal, leaving in place the ruling that allowed the lawsuits to go forward.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Nine more women sue Cosby in Nevada under new law lifting time limits",
@@ -2381,6 +2680,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "Heaps sentenced to 11 years in prison",
+  "source": "AP",
+  "url": "https://www.wsaz.com/2023/04/27/ex-ucla-gynecologist-sentenced-11-years-sexual-abuse-case/",
+  "date": "2023-04-26",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A judge sentenced Heaps to 11 years in state prison and ordered him to register as a sex offender.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Jury selection begins in Danny Masterson rape retrial",
   "source": "Spectrum News 1",
   "url": "https://spectrumlocalnews.com/ca/california/entertainment/2023/04/17/jury-selection-process-begins-in-danny-masterson-s-retrial-in-rape-case",
@@ -2444,6 +2756,32 @@
   "location": "Portugal, Lisbon",
   "case": "catholic-church-global",
   "added": "2026-10-21T00:43:02Z"
+ },
+ {
+  "title": "Judge jails Hadden ahead of sentencing",
+  "source": "AP",
+  "url": "https://www.clickondetroit.com/health/2023/02/02/ny-judge-jails-ex-gynecologist-who-abused-100s-of-women/",
+  "date": "2023-02-01",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A federal judge revoked Hadden's bail and ordered him jailed pending sentencing after victims urged detention.",
+  "status": "conviction",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Federal jury convicts Hadden of luring patients across state lines for abuse",
+  "source": "New York Daily News",
+  "url": "https://www.nydailynews.com/2023/01/24/former-columbia-university-gynecologist-robert-hadden-found-guilty-of-luring-women-to-nyc-for-sexual-abuse/",
+  "date": "2023-01-24",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A federal jury found Hadden guilty of four counts of enticing women to travel to New York for unlawful sexual activity.",
+  "status": "conviction",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Sandusky files new post-conviction appeal in Centre County",
@@ -2537,6 +2875,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Jury convicts Heaps on five counts involving two patients",
+  "source": "FOX 11 Los Angeles",
+  "url": "https://www.foxla.com/news/ex-ucla-gynecologist-convicted-of-sex-related-charges",
+  "date": "2022-10-20",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A jury convicted Heaps on five felony counts, acquitted him on seven and deadlocked on the rest; he was taken into custody.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "IICSA publishes final report on child sexual abuse in England and Wales",
   "source": "Independent Inquiry into Child Sexual Abuse",
   "url": "https://www.iicsa.org.uk/final-report",
@@ -2563,6 +2914,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Columbia and NewYork-Presbyterian to pay $165 million to Hadden accusers",
+  "source": "AP",
+  "url": "https://www.kold.com/2022/10/07/nyc-hospitals-pay-165m-women-abused-by-gynecologist/",
+  "date": "2022-10-07",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "A $165 million settlement with 147 women brought payouts related to Hadden to about $236 million.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "New book by LA Times reporter details how USC scandals nearly went untold",
   "source": "Daily Trojan",
   "url": "https://dailytrojan.com/2022/09/19/new-book-details-how-several-usc-scandals-almost-went-untold/",
@@ -2574,6 +2938,32 @@
   "location": "United States, California",
   "case": "usc-tyndall",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Judge approves fund to distribute Michigan's $490 million Anderson settlement",
+  "source": "Michigan Public / AP",
+  "url": "https://www.michiganpublic.org/criminal-justice-legal-system/2022-09-16/judge-signs-off-on-fund-for-u-of-m-doctors-victims",
+  "date": "2022-09-16",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "A federal judge approved the fund for Anderson survivors, with $30 million reserved for future claimants; regents chair Paul Brown apologized.",
+  "status": "settlement",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Sixth Circuit revives Strauss lawsuits against Ohio State",
+  "source": "NBC News",
+  "url": "https://www.nbcnews.com/news/us-news/lawsuits-ohio-state-alleging-sex-abuse-team-doctor-can-move-forward-rcna47885",
+  "date": "2022-09-15",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A divided federal appeals panel ruled the survivors' Title IX lawsuits could proceed, reversing the dismissal on statute-of-limitations grounds.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Judge confirms $2.46 billion Boy Scouts reorganization plan for more than 80,000 abuse claimants",
@@ -2600,6 +2990,19 @@
   "location": "Canada, Alberta",
   "case": "catholic-church-global",
   "added": "2026-10-21T00:43:02Z"
+ },
+ {
+  "title": "Ohio State settles with seven more Strauss survivors",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/additional-settlements-reached-in-cases-involving-strauss/",
+  "date": "2022-07-22",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Seven additional settlements brought Ohio State's total to 296 survivors and more than $60 million.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Ghislaine Maxwell sentenced to 20 years in prison",
@@ -2639,6 +3042,19 @@
   "location": "United Kingdom, England",
   "case": "hollywood-metoo",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "UCLA agrees to $374.4 million more, bringing Heaps payouts near $700 million",
+  "source": "CBS Los Angeles",
+  "url": "https://www.cbsnews.com/losangeles/news/total-payments-settling-allegations-against-former-ucla-gynecologist-reaches-nearly-700-million",
+  "date": "2022-05-24",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A $374.4 million settlement with 312 plaintiffs brought total Heaps-related payments to nearly $700 million, a record for a public university.",
+  "status": "settlement",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Preliminary hearing continues in Tyndall criminal case",
@@ -2693,6 +3109,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Ohio State reaches two more settlements covering 57 Strauss survivors",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/two-new-settlements-reached-between-ohio-state-strauss-survivors/",
+  "date": "2022-04-15",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Two settlements totaling about $2 million covered 57 survivors whose suits had been dismissed, bringing the total to 289 survivors and $59.8 million.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "U.S. Supreme Court declines to review ruling that freed Cosby",
   "source": "UPI",
   "url": "https://www.upi.com/Top_News/US/2022/03/07/supreme-court-declines-hear-bill-cosby-case/9151646669118/",
@@ -2732,6 +3161,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "UC settles Heaps lawsuits by 200-plus women for $243.6 million",
+  "source": "AP",
+  "url": "https://www.wsls.com/sports/2022/02/08/ucla-settles-gynecologist-sex-abuse-suit-for-246-million/",
+  "date": "2022-02-08",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "The University of California agreed to pay $243.6 million to settle suits by more than 200 women who accused Heaps.",
+  "status": "settlement",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Benedict XVI acknowledges faulty testimony to Munich abuse inquiry",
   "source": "Reuters",
   "url": "https://www.reuters.com/world/europe/ex-pope-benedict-acknowledges-faulty-testimony-german-abuse-case-2022-01-24/",
@@ -2769,6 +3211,19 @@
   "location": "United States, California",
   "case": "hollywood-metoo",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "University of Michigan agrees to $490 million settlement with Anderson survivors",
+  "source": "The New York Times",
+  "url": "https://www.nytimes.com/2022/01/19/sports/ncaafootball/michigan-abuse-settlement-robert-anderson.html",
+  "date": "2022-01-19",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Michigan agreed to pay $490 million to more than 1,000 people who said they were abused by Anderson, one of the largest such settlements by a university.",
+  "status": "settlement",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Prince Andrew stripped of military titles and royal patronages",
@@ -2823,6 +3278,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Columbia and NewYork-Presbyterian agree to $71.5 million fund for Hadden accusers",
+  "source": "AP",
+  "url": "https://www.ksat.com/health/2021/12/01/71m-fund-set-up-for-victims-of-ny-doctor-charged-with-abuse/",
+  "date": "2021-12-01",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "Columbia and NewYork-Presbyterian agreed to a $71.5 million settlement with 79 women who accused Hadden.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Ghislaine Maxwell sex trafficking trial opens in Manhattan",
   "source": "Associated Press",
   "url": "https://apnews.com/article/ghislaine-maxwell-nyc-trial-starts-17f7c28591c1f32c802f3b7bc413bfe0",
@@ -2875,6 +3343,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Former NFL player Jon Vaughn camps outside Michigan president's home",
+  "source": "NPR / KUNC",
+  "url": "https://www.kunc.org/2021-10-15/former-michigan-player-opens-up-about-the-sexual-abuse-behind-his-sit-in-protest",
+  "date": "2021-10-15",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Former Michigan running back Jon Vaughn staged a sit-in outside President Mark Schlissel's residence demanding accountability for Anderson's abuse.",
+  "status": "allegation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Former Cosby Show actress Lili Bernard sues Cosby in New Jersey",
   "source": "theGrio",
   "url": "https://thegrio.com/2021/10/15/cosby-show-lili-benard-sues-bill-cosby-sexual-assault/",
@@ -2886,6 +3367,19 @@
   "location": "United States, New Jersey",
   "case": "cosby",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Complaints of alleged abuse by Anderson surpass 2,100",
+  "source": "The Detroit News",
+  "url": "https://www.detroitnews.com/story/news/local/michigan/2021/10/06/university-of-michigan-doctor-robert-anderson-sexual-assault-complaints-exceed-2000/6025233001/",
+  "date": "2021-10-06",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "The Detroit News reported that complaints of alleged abuse by Anderson had exceeded 2,100.",
+  "status": "allegation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Pope Francis expresses shame over French church abuse findings",
@@ -2925,6 +3419,19 @@
   "location": "France, Paris",
   "case": "catholic-church-global",
   "added": "2026-10-21T00:43:02Z"
+ },
+ {
+  "title": "Federal judge dismisses Strauss lawsuits on statute-of-limitations grounds",
+  "source": "Reuters",
+  "url": "https://www.reuters.com/world/us/judge-dismisses-cases-against-ohio-state-university-over-sex-abuse-2021-09-23/",
+  "date": "2021-09-23",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A federal judge dismissed several lawsuits against Ohio State, ruling the Title IX claims were filed too late; plaintiffs appealed.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Biles, Maroney, Raisman and Nichols testify to Senate about FBI failures",
@@ -3018,6 +3525,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Judge gives final approval to $73 million Heaps class settlement",
+  "source": "Spectrum News 1",
+  "url": "https://spectrumnews1.com/ca/la-west/news/2021/07/12/judge-gives-final-approval-to--73m-settlement-of-ex-ucla-gynecologist-lawsuit",
+  "date": "2021-07-12",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A federal judge granted final approval of the $73 million class-action settlement for former Heaps patients.",
+  "status": "settlement",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Pennsylvania Supreme Court overturns Cosby conviction; he is freed from prison",
   "source": "Philadelphia Inquirer",
   "url": "https://www.inquirer.com/news/bill-cosby-conviction-overturned-appeal-andrea-constand-20210630.html",
@@ -3042,6 +3562,19 @@
   "location": "United States, New York",
   "case": "fox-news",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Former players allege Bo Schembechler knew of Anderson abuse",
+  "source": "The Detroit News",
+  "url": "https://www.detroitnews.com/story/news/local/michigan/2021/06/09/schembechler-son-discuss-anderson-say-he-told-dad-abuse/7622194002/",
+  "date": "2021-06-09",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "At a news conference, accusers including a Schembechler family member alleged the late coach was told of the abuse and did not act; other family members denied he knew.",
+  "status": "allegation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Parole board denies Cosby release after he refuses sex offender treatment",
@@ -3070,6 +3603,19 @@
   "added": "2026-10-21T00:42:55Z"
  },
  {
+  "title": "Grand jury indicts Heaps on 21 counts",
+  "source": "NBC Palm Springs / City News Service",
+  "url": "https://www.nbcpalmsprings.com/public-safety/2021/05/24/former-ucla-gynecologist-indicted-on-21-counts",
+  "date": "2021-05-24",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A Los Angeles County grand jury indicted Heaps on 21 sex-related felony counts involving seven patients.",
+  "status": "charges",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Guards in Epstein death case reach deal sparing them jail",
   "source": "The Guardian",
   "url": "https://www.theguardian.com/us-news/2021/may/22/jeffrey-epstein-prison-guards-manhattan-prosecutors",
@@ -3081,6 +3627,32 @@
   "location": "United States, New York",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "WilmerHale report finds Michigan missed many chances to stop Anderson",
+  "source": "AP",
+  "url": "https://www.wsls.com/news/national/2021/05/11/report-u-of-michigan-missed-chances-to-stop-doctors-abuse/",
+  "date": "2021-05-11",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "The university-commissioned WilmerHale report found staff were told about Anderson's conduct on at least 20 occasions, including complaints allegedly relayed to Bo Schembechler and Don Canham.",
+  "status": "investigation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Ohio State launches individual settlement program for remaining Strauss cases",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/ohio-state-announces-new-settlement-program-for-survivors-in-remaining-strauss-cases/",
+  "date": "2021-05-07",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State opened a 120-day individual settlement program for survivors in five active cases, targeting average awards comparable to earlier settlements.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Tyndall settlement leaves some survivors bitter over payout disparities",
@@ -3159,6 +3731,19 @@
   "location": "United States, Delaware",
   "case": "weinstein",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Pilots allege abuse by Anderson during FAA physicals",
+  "source": "MLive",
+  "url": "https://www.mlive.com/news/ann-arbor/2021/02/pilots-allege-abuse-by-late-university-of-michigan-doctor-who-performed-more-than-4000-physicals-for-faa.html",
+  "date": "2021-02-06",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Pilots came forward alleging abuse by Anderson, who performed more than 4,000 FAA medical exams.",
+  "status": "allegation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Bankruptcy judge approves Weinstein Company plan with about $17 million for accusers",
@@ -3291,6 +3876,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "University of California agrees to $73 million class settlement over Heaps",
+  "source": "AP",
+  "url": "https://www.ksat.com/news/national/2020/11/16/university-of-california-agrees-to-73m-sex-abuse-settlement/",
+  "date": "2020-11-16",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "The UC system proposed a $73 million class-action settlement covering thousands of Heaps's former patients plus reforms such as a chaperone policy.",
+  "status": "settlement",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "DOJ review finds Acosta used poor judgment in Epstein deal",
   "source": "CNN",
   "url": "https://www.cnn.com/2020/11/12/politics/department-of-justice-alex-acosta-epstein/index.html",
@@ -3330,6 +3928,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Detroit News investigation details decades of missed warnings about Anderson",
+  "source": "The Detroit News",
+  "url": "https://www.detroitnews.com/in-depth/news/local/michigan/2020/10/21/how-university-michigan-failed-doctor-robert-anderson-alleged-sex-abuse/4894925002/",
+  "date": "2020-10-22",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "An in-depth Detroit News report described how the university failed for decades to heed warnings about Anderson.",
+  "status": "investigation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Apollo board orders review of Leon Black's ties to Epstein",
   "source": "The New York Times",
   "url": "https://www.nytimes.com/2020/10/20/business/leon-black-jeffrey-epstein-apollo.html",
@@ -3341,6 +3952,32 @@
   "location": "United States, New York",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "Ohio State reaches $5.8 million settlement with 23 more Strauss survivors",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/ohio-state-reaches-additional-settlements-in-strauss-cases/",
+  "date": "2020-10-13",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A second settlement of $5.8 million with 23 survivors brought the total to $46.7 million for 185 survivors.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Federal prosecutors indict Hadden on enticement charges",
+  "source": "NPR / WAMC",
+  "url": "https://www.wamc.org/2020-09-09/ex-columbia-university-gynecologist-accused-of-abusing-dozens-of-patients-is-indicted",
+  "date": "2020-09-09",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "Hadden was arrested on a federal indictment accusing him of abusing dozens of patients from 1993 to 2012 and luring victims across state lines.",
+  "status": "charges",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Queensland law requires priests to report abuse disclosed in confession",
@@ -3367,6 +4004,19 @@
   "location": "United Kingdom, England",
   "case": "catholic-church-global",
   "added": "2026-10-21T00:43:02Z"
+ },
+ {
+  "title": "Heaps now faces 20 felony counts involving seven patients",
+  "source": "ABC7 Los Angeles",
+  "url": "https://abc7.com/ucla-gynecologist-sex-assault-battery-dr-james-heaps/6353651/",
+  "date": "2020-08-04",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "Prosecutors expanded the case against Heaps to 20 felony counts involving seven patients from 2011 to 2018; he pleaded not guilty.",
+  "status": "charges",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "N.L. Court of Appeal rules Archdiocese of St. John's liable for Mount Cashel abuse",
@@ -3512,6 +4162,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Judge orders Michigan to halt mass alumni outreach in Anderson case",
+  "source": "AP / WGVU",
+  "url": "https://www.wgvunews.org/post/judge-rejects-broad-outreach-u-michigan-doctor-case",
+  "date": "2020-06-23",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "A federal judge ordered the university to stop contacting more than 300,000 alumni, finding it improperly communicated with potential class members.",
+  "status": "lawsuit",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Danny Masterson charged with raping three women",
   "source": "CNN",
   "url": "https://edition.cnn.com/2020/06/17/entertainment/danny-masterson/index.html",
@@ -3536,6 +4199,19 @@
   "location": "United States, Michigan",
   "case": "nassar",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Ohio State to pay $40.9 million to 162 men abused by Strauss",
+  "source": "NBC News",
+  "url": "https://www.nbcnews.com/news/us-news/ohio-state-university-will-pay-41m-162-men-who-say-n1203401",
+  "date": "2020-05-08",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State finalized a $40.9 million settlement with 162 survivors across 12 lawsuits.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Unredacted royal commission findings say Pell knew of abuse",
@@ -3564,6 +4240,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "University of Michigan says it hopes to settle Anderson lawsuits",
+  "source": "AP / WGVU",
+  "url": "https://www.wgvunews.org/post/university-michigan-hopes-settle-doctor-abuse-lawsuits",
+  "date": "2020-04-28",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Michigan's president and regents chair said the university wanted to resolve claims from hundreds of Anderson accusers.",
+  "status": "lawsuit",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "High Court of Australia overturns Pell's convictions",
   "source": "NBC News",
   "url": "https://www.nbcnews.com/news/world/cardinal-george-pell-be-released-prison-after-australia-s-high-n1178036",
@@ -3590,6 +4279,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Michigan regents chair Ron Weiser says Anderson abused him",
+  "source": "Michigan Public",
+  "url": "https://www.michiganpublic.org/news/2020-03-12/chair-of-u-m-board-of-regents-says-he-too-was-abused-by-dr-robert-anderson",
+  "date": "2020-03-12",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Board of Regents chair Ron Weiser said he was abused by Anderson as a student athlete in the 1960s and declined to recuse himself.",
+  "status": "allegation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Weinstein sentenced to 23 years in prison",
   "source": "WGBH (AP)",
   "url": "https://www.wgbh.org/news/national/2020-03-11/harvey-weinstein-sentenced-to-23-years-in-prison",
@@ -3601,6 +4303,71 @@
   "location": "United States, New York",
   "case": "weinstein",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Ohio State announces settlements in 11 of 18 Strauss lawsuits",
+  "source": "Ohio State University",
+  "url": "https://news.osu.edu/ohio-state-announces-settlement-of-11-of-18-lawsuits-brought-by-survivors-of-deceased-sex-abuser-richard-strauss/",
+  "date": "2020-03-06",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State said it reached monetary settlements covering 11 of 18 pending Strauss lawsuits, with mediation continuing on the rest.",
+  "status": "settlement",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Six former wrestlers tell CNN that Jim Jordan knew about Strauss",
+  "source": "CNN",
+  "url": "https://edition.cnn.com/2020/03/06/politics/jordan-osu-wrestlers-strauss-invs/index.html",
+  "date": "2020-03-06",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Six former wrestlers told CNN that Jordan was aware of Strauss's conduct, which Jordan continues to deny.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Former football and hockey players sue Michigan over Anderson",
+  "source": "AP / The Washington Times",
+  "url": "https://www.washingtontimes.com/news/2020/mar/5/ex-football-hockey-players-sue-university-of-michi/",
+  "date": "2020-03-05",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Additional lawsuits were filed by former football and hockey players alleging abuse by Anderson.",
+  "status": "lawsuit",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "AG Nessel sets conditions for any state probe of Michigan's Anderson response",
+  "source": "Michigan Department of Attorney General",
+  "url": "https://www.michigan.gov/ag/news/press-releases/2020/03/05/nessel-responds-to-call-for-investigation-into-sexual-abuse-allegations-against-u-m-doctor",
+  "date": "2020-03-05",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Attorney General Dana Nessel said a state investigation would require the university to waive privilege and the Legislature to fund it.",
+  "status": "investigation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Former wrestler files first lawsuit against Michigan over Anderson",
+  "source": "AP",
+  "url": "https://cdapress.com/news/2020/mar/04/ex-wrestler-sues-university-of-michigan-over-5/",
+  "date": "2020-03-04",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "A former Michigan wrestler filed the first lawsuit alleging the university failed to stop Anderson's abuse.",
+  "status": "lawsuit",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Education Department finds USC failed students in Tyndall case; reforms required",
@@ -3629,6 +4396,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Records show Michigan officials were warned about Anderson decades ago",
+  "source": "AP",
+  "url": "https://kstp.com/sports/university-of-michigan-officials-told-of-abuse-decades-ago/5653365/",
+  "date": "2020-02-22",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "AP-obtained records show Anderson was pushed out as health service director in 1980 after complaints but continued working with athletes until 2003.",
+  "status": "allegation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Penn State resolves outstanding disputes with the Paterno family",
   "source": "CBS News Philadelphia",
   "url": "https://www.cbsnews.com/philadelphia/news/penn-state-resolves-outstanding-issues-with-joe-paterno-family-following-jerry-sandusky-scandal/",
@@ -3642,6 +4422,19 @@
   "added": "2026-10-21T00:42:55Z"
  },
  {
+  "title": "University of Michigan investigates abuse claims against late doctor Robert Anderson",
+  "source": "PBS NewsHour / AP",
+  "url": "https://www.pbs.org/newshour/nation/university-of-michigan-investigates-doctor-sex-abuse-claims",
+  "date": "2020-02-19",
+  "category": "school",
+  "institution": "University of Michigan",
+  "summary": "Michigan announced an outside investigation into allegations that late physician Robert Anderson abused patients during exams for decades, and opened a hotline; prosecutors said no charges were possible.",
+  "status": "investigation",
+  "location": "United States, Michigan",
+  "case": "michigan-anderson",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Boy Scouts of America files for Chapter 11 bankruptcy amid wave of abuse lawsuits",
   "source": "FOX 13 (AP)",
   "url": "https://www.fox13news.com/news/boy-scouts-of-america-files-for-bankruptcy-due-to-sex-abuse-lawsuits",
@@ -3653,6 +4446,19 @@
   "location": "United States, Delaware",
   "case": "boy-scouts",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Former wrestler testifies Jordan pressed him to deny abuse claims",
+  "source": "USA Today",
+  "url": "https://www.usatoday.com/story/news/politics/2020/02/12/adam-disabato-rep-jordan-begged-him-deny-osu-abuse-claims/4741555002/",
+  "date": "2020-02-13",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A former Ohio State wrestler testified at a state legislative hearing that Jordan had called pleading with him to dispute his brother's allegations; Jordan denies wrongdoing.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "USA Gymnastics settlement proposal includes Twistars and Geddert contributions",
@@ -3705,6 +4511,19 @@
   "location": "United States, Michigan",
   "case": "nassar",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Evelyn Yang says she was assaulted by gynecologist Robert Hadden",
+  "source": "The New York Times",
+  "url": "https://www.nytimes.com/2020/01/16/us/andrew-evelyn-yang-dr-robert-hadden.html",
+  "date": "2020-01-16",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "Evelyn Yang, wife of presidential candidate Andrew Yang, said publicly that Hadden assaulted her while she was pregnant, renewing scrutiny of the case.",
+  "status": "allegation",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Cosby asks Pennsylvania Supreme Court to review his conviction",
@@ -3850,6 +4669,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "Lawsuit says referee warned Jim Jordan about Strauss",
+  "source": "CNBC",
+  "url": "https://www.cnbc.com/2019/11/08/referee-told-rep-jim-jordan-about-ohio-state-dr-richard-strauss-sex-abuse-suit-says.html",
+  "date": "2019-11-08",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A retired wrestling referee alleged in a lawsuit that he told Jordan and head coach Russ Hellickson about Strauss's conduct; Jordan called the claim ridiculous.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Penn State investigates new abuse allegation against Sandusky",
   "source": "CBS News Philadelphia",
   "url": "https://www.cbsnews.com/philadelphia/news/penn-state-investigates-new-sexual-abuse-allegations-against-jerry-sandusky/",
@@ -3861,6 +4693,19 @@
   "location": "United States, Pennsylvania",
   "case": "penn-state",
   "added": "2026-10-21T00:42:55Z"
+ },
+ {
+  "title": "19 women accused Columbia gynecologist Robert Hadden; plea deal spared prison",
+  "source": "The New York Times",
+  "url": "https://www.nytimes.com/2019/10/22/nyregion/robert-hadden-gynecologist-sexual-abuse.html",
+  "date": "2019-10-22",
+  "category": "school",
+  "institution": "Columbia University",
+  "summary": "The Times reported that despite accusations from 19 women, former Columbia OB-GYN Robert Hadden received a 2016 plea deal with no prison time.",
+  "status": "allegation",
+  "location": "United States, New York",
+  "case": "columbia-hadden",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Los Angeles prosecutors decline Kevin Spacey case after accuser's death",
@@ -3900,6 +4745,32 @@
   "location": "United States, California",
   "case": "usc-tyndall",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Ohio State's annual safety report lists nearly 1,500 Strauss-related incidents",
+  "source": "The Columbus Dispatch",
+  "url": "https://web.archive.org/web/20191207075138/https://www.dispatch.com/news/20191001/strauss-sex-abuse-reports-total-nearly-1500-ohio-state-says",
+  "date": "2019-10-01",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State's annual campus safety report attributed nearly 1,500 sexual offense reports to Strauss.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Former patients urge UC regents to order independent Heaps investigation",
+  "source": "ABC7 Los Angeles",
+  "url": "https://abc7.com/former-patients-tell-story-of-alleged-abuse-by-ex-ucla-gynecologist/5550235/",
+  "date": "2019-09-19",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "Former patients, including ex-UCLA gymnast Jeanette Antolin, asked the UC Board of Regents for an independent investigation into Heaps.",
+  "status": "allegation",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "MIT Media Lab director Joi Ito resigns over Epstein ties",
@@ -4110,6 +4981,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "UCLA was told of allegations against Heaps in 2014, years before firing",
+  "source": "Los Angeles Times",
+  "url": "https://www.pressreader.com/usa/los-angeles-times/20190711/281479277983986",
+  "date": "2019-07-11",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "The Times reported UCLA Medical Center received a complaint about Heaps in 2014 but did not move to fire him until 2018; the chancellor apologized and appointed a review committee.",
+  "status": "allegation",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Judge lowers Tyndall's bail to $1.6 million",
   "source": "CBS Los Angeles",
   "url": "https://losangeles.cbslocal.com/2019/07/09/bail-lowered-for-usc-gynecologist-george-tyndall-accused-of-sexually-assaulting-patients/",
@@ -4201,6 +5085,32 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Patient sues Heaps and UC regents",
+  "source": "KQED",
+  "url": "https://www.kqed.org/news/11754307/woman-alleges-ucla-gynecologist-sexually-assaulted-her-sues-physician-university-regents",
+  "date": "2019-06-12",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "A former patient sued Heaps and the University of California regents alleging misconduct during a 2017 appointment; Heaps denied wrongdoing.",
+  "status": "lawsuit",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Former UCLA gynecologist James Heaps charged with sexual battery",
+  "source": "Los Angeles Times",
+  "url": "https://www.latimes.com/local/lanow/la-me-ucla-gynecologist-accusations-20190610-story.html",
+  "date": "2019-06-10",
+  "category": "school",
+  "institution": "University of California, Los Angeles",
+  "summary": "James Heaps, who worked at UCLA for over 30 years, pleaded not guilty to charges involving two patients, and UCLA disclosed it had moved to fire him in 2018.",
+  "status": "charges",
+  "location": "United States, California",
+  "case": "ucla-heaps",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Independent commission on French church abuse opens",
   "source": "France 24",
   "url": "https://www.france24.com/en/20190603-commission-french-church-sex-abuse-claims-opens",
@@ -4225,6 +5135,32 @@
   "location": "United States, California",
   "case": "usc-tyndall",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Gov. DeWine orders review of medical board's handling of Strauss complaints",
+  "source": "AP",
+  "url": "https://apnews.com/a79a404e8989447baa3fdd0f452c544f",
+  "date": "2019-05-20",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio Gov. Mike DeWine created a working group to examine why the State Medical Board never disciplined Strauss after its 1996 investigation.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Independent report finds Strauss abused at least 177 students; officials knew",
+  "source": "AP",
+  "url": "https://apnews.com/8100ceaf06c44dc2a85bea4c5daff04f",
+  "date": "2019-05-17",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "The Perkins Coie report found Strauss abused at least 177 male students from 1979 to 1998 and that university personnel knew of complaints but failed to act.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Poland proposes tougher penalties for child sex abuse amid church crisis",
@@ -4565,6 +5501,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "State Medical Board confirms it holds complaint records on Strauss",
+  "source": "AP",
+  "url": "https://apnews.com/0736e642f13f4941bd1989232f894b32",
+  "date": "2018-12-18",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "The State Medical Board of Ohio confirmed it had records of complaints about Strauss from its 1996 investigation, which never led to discipline.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "CBS denies Les Moonves $120 million severance after board investigation",
   "source": "ABC7 New York",
   "url": "https://abc7ny.com/amp/post/cbs-denies-former-ceo-les-moonves-$120-million-severance-pay/4919130/",
@@ -4667,6 +5616,19 @@
   "location": "United States, Michigan",
   "case": "nassar",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Accusers say more than 20 Ohio State staff knew of Strauss concerns",
+  "source": "AP",
+  "url": "https://apnews.com/7661d6fbe4dc467a9ad37f780513e9a0",
+  "date": "2018-11-14",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Plaintiffs alleged in court filings that more than 20 university employees were aware of concerns about Strauss.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "U.S. Olympic Committee moves to revoke USA Gymnastics' governing status",
@@ -4916,6 +5878,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Federal civil rights office opens review of Ohio State's Strauss response",
+  "source": "AP",
+  "url": "https://apnews.com/bd65009bf7254e3cb70da041cc7226fc/Feds-to-review-Ohio-State-response-to-claims-of-abuse-by-doc",
+  "date": "2018-08-16",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "The U.S. Education Department's Office for Civil Rights opened an investigation into how Ohio State handled complaints about Strauss under Title IX.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Olympians Kyla Ross and Madison Kocian say Nassar abused them",
   "source": "Time",
   "url": "https://time.com/5368423/gymnasts-kyla-ross-madison-kocian-abused-larry-nassar/",
@@ -4968,6 +5943,32 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Texts show former Ohio State coach urged Jordan accusers to recant",
+  "source": "NBC News",
+  "url": "https://www.nbcnews.com/news/us-news/former-ohio-state-wrestling-coach-urged-rep-jim-jordan-s-n896551",
+  "date": "2018-08-02",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "NBC News reported text messages in which former head wrestling coach Russ Hellickson urged former wrestlers to retract statements about Jordan.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Ten more former students sue Ohio State over Strauss",
+  "source": "AP",
+  "url": "https://apnews.com/46fe2a447178437c8afef3dded1350d0",
+  "date": "2018-07-27",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ten additional former students filed suit alleging Ohio State failed to stop abuse by Strauss.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "New Yorker reports misconduct allegations against CBS chief Les Moonves",
   "source": "WAMC / NPR",
   "url": "https://www.wamc.org/2018-07-27/longtime-cbs-ceo-les-moonves-facing-sexual-misconduct-allegations",
@@ -4994,6 +5995,32 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Jim Jordan interviewed by investigators in Strauss inquiry",
+  "source": "AP",
+  "url": "https://apnews.com/b1e9d2ed4111444ca9e0516fa8bfe88d",
+  "date": "2018-07-18",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Rep. Jim Jordan was interviewed by the Perkins Coie investigators examining Strauss's conduct.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "New lawsuit against Ohio State over Strauss names Jim Jordan",
+  "source": "Rolling Stone",
+  "url": "https://www.rollingstone.com/politics/politics-news/jim-jordan-ohio-state-700578/",
+  "date": "2018-07-18",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "A federal lawsuit by former students over Strauss's alleged abuse referenced Jordan among coaches who allegedly knew of complaints.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Tyndall retains high-profile criminal defense attorney",
   "source": "Los Angeles Times",
   "url": "https://www.latimes.com/local/lanow/la-me-ln-usc-gynecologist-defense-lawyer-20180713-story.html",
@@ -5005,6 +6032,45 @@
   "location": "United States, California",
   "case": "usc-tyndall",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "House Speaker Paul Ryan defends Jim Jordan amid Strauss allegations",
+  "source": "AP",
+  "url": "https://apnews.com/e736321c638341cf857c9f19984d6166/House-speaker-defends-Ohio-congressman-as-%27man-of-integrity%27",
+  "date": "2018-07-11",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Speaker Paul Ryan called Jordan a man of integrity and discouraged a House Ethics inquiry into whether he knew of the abuse.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Ex-athletes describe years of alleged misconduct by Ohio State doctor",
+  "source": "AP",
+  "url": "https://apnews.com/355629efdd91432aadfca6d6b28c170c",
+  "date": "2018-07-06",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Former Ohio State athletes described alleged abuse by Strauss spanning years, and said complaints were widely known in athletic facilities.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "New voyeurism claims at Ohio State facility test Jordan's denials",
+  "source": "Politico",
+  "url": "https://www.politico.com/story/2018/07/06/jim-jordan-harassment-ohio-state-wrestling-699192",
+  "date": "2018-07-06",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Former wrestlers described a pattern of harassment and voyeurism at Larkins Hall, adding pressure on Rep. Jim Jordan's denials.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Former Fox executive Bill Shine named White House communications chief",
@@ -5020,6 +6086,32 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Jim Jordan denies knowing of Strauss abuse",
+  "source": "AP",
+  "url": "https://apnews.com/3b0b5b895a2b471c98f3c4044429e116",
+  "date": "2018-07-04",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Rep. Jim Jordan said no athlete ever reported abuse to him and denied any knowledge of misconduct by Strauss.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
+  "title": "Former wrestlers allege Rep. Jim Jordan ignored Strauss abuse as assistant coach",
+  "source": "NBC News",
+  "url": "https://www.nbcnews.com/news/us-news/powerful-gop-rep-jim-jordan-accused-turning-blind-eye-sexual-n888386",
+  "date": "2018-07-03",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Former Ohio State wrestlers alleged that U.S. Rep. Jim Jordan, an assistant wrestling coach from 1986 to 1994, knew of Strauss's conduct and did not act. Jordan has denied the allegations.",
+  "status": "allegation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Weinstein indicted on additional charges involving a third woman",
   "source": "Boston.com (AP)",
   "url": "https://www.boston.com/culture/entertainment/2018/07/02/harvey-weinstein-accused-of-forcible-sex-act-by-a-3rd-woman/",
@@ -5031,6 +6123,19 @@
   "location": "United States, New York",
   "case": "weinstein",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Strauss inquiry expanded to include examinations of high school students",
+  "source": "AP",
+  "url": "https://apnews.com/d6f9958f802a4a2f8f7d0ced948b1029/Sex-abuse-inquiry-on-Ohio-State-doc-now-includes-high-school",
+  "date": "2018-06-29",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Investigators broadened the Strauss probe to cover examinations he performed on high school students.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Spanier loses state appeal of child endangerment conviction",
@@ -5228,6 +6333,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Ohio State president emails alumni seeking information on Strauss",
+  "source": "AP",
+  "url": "https://apnews.com/a5d0d6e0b3dc447cb7b311cf35d07568/Ohio-State-president-seeks-info-about-alleged-misconduct",
+  "date": "2018-05-22",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "President Michael Drake contacted more than 100,000 alumni asking anyone with information about Strauss to contact the investigators.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Archbishop Philip Wilson found guilty of concealing child sexual abuse",
   "source": "ABC News",
   "url": "http://www.abc.net.au/news/2018-05-22/adelaide-archbishop-found-guilty-of-concealing-child-abuse/9783612",
@@ -5358,6 +6476,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Strauss investigation widens as more former athletes from several sports come forward",
+  "source": "AP",
+  "url": "https://apnews.com/e659a521d8f74b3582539f78f4cbd279/More-sexual-misconduct-allegations-against-ex-Ohio-St-doctor",
+  "date": "2018-05-03",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State said additional allegations against Strauss had emerged from athletes in multiple sports, and outside law firm Perkins Coie was leading the independent investigation.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
+ },
+ {
   "title": "Temple University rescinds Bill Cosby's honorary degree after conviction",
   "source": "Philadelphia Magazine",
   "url": "https://www.phillymag.com/news/2018/04/27/temple-bill-cosby-degree/",
@@ -5408,6 +6539,19 @@
   "location": "Vatican City, Vatican City",
   "case": "catholic-church-global",
   "added": "2026-10-21T00:43:02Z"
+ },
+ {
+  "title": "Ohio State opens investigation into abuse claims against late team doctor Richard Strauss",
+  "source": "AP",
+  "url": "https://apnews.com/a9c3bec4553047868145cba01c58b6b0",
+  "date": "2018-04-05",
+  "category": "school",
+  "institution": "Ohio State University",
+  "summary": "Ohio State announced an investigation into allegations of sexual misconduct by Richard Strauss, a former wrestling team physician who died in 2005, and asked former students and coaches to come forward.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "case": "ohio-state-strauss",
+  "added": "2026-10-21T00:59:40Z"
  },
  {
   "title": "Weinstein Company files for bankruptcy and releases accusers from nondisclosure agreements",

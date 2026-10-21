@@ -151,3 +151,49 @@ a:hover { text-decoration-thickness: 2px; }
 .cases li a { font-weight: 700; font-size: 1.15rem; }
 .cases li p { margin: .3rem 0; }
 .cases li span { color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; }
+
+/* Report invite + form */
+.report-band {
+  max-width: 64rem; margin: 0 auto 0; padding: .9rem 1rem; display: flex; flex-wrap: wrap;
+  gap: .75rem 1.5rem; align-items: center; justify-content: space-between;
+  background: var(--ink); color: var(--paper); border-radius: 8px;
+}
+.report-band p { margin: 0; max-width: 60ch; }
+.report-btn {
+  display: inline-block; font: inherit; font-weight: 700; text-decoration: none; cursor: pointer;
+  padding: .6rem 1.1rem; border-radius: 6px; border: 0;
+  background: var(--paper); color: var(--ink);
+}
+.report-btn:hover { text-decoration: underline; }
+.report-btn.big { background: var(--ink); color: var(--paper); font-size: 1.05rem; padding: .8rem 1.4rem; }
+.report-btn[disabled] { opacity: .6; cursor: wait; }
+@media (min-width: 64rem) { .report-band { margin-top: 0; } }
+@media (max-width: 64rem) { .report-band { margin-left: 1rem; margin-right: 1rem; } }
+
+.report-layout { display: grid; gap: 2rem; grid-template-columns: minmax(0, 1fr); padding-bottom: 3rem; }
+@media (min-width: 52rem) { .report-layout { grid-template-columns: 20rem minmax(0, 1fr); } }
+.note { background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; padding: 1rem 1.15rem; margin-bottom: 1rem; }
+.note h2 { font-size: 1rem; margin: 0 0 .4rem; }
+.note p, .note ul { margin: 0 0 .5rem; font-size: .95rem; }
+.note ul { padding-left: 1.1rem; }
+.note.urgent { border-color: var(--grave); border-width: 2px; }
+.note.sent { border-color: var(--resolved); border-width: 2px; }
+.report-form { display: grid; gap: 1.25rem; max-width: 40rem; }
+.report-form .row { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); }
+.field { display: grid; gap: .35rem; border: 0; padding: 0; margin: 0; }
+.field label, .field legend { font-weight: 700; }
+.field .req { font-weight: 400; color: var(--muted); font-size: .85rem; margin-left: .4rem; }
+.hint { margin: 0; color: var(--muted); font-size: .9rem; }
+.report-form input[type=text], .report-form textarea, .report-form select {
+  font: inherit; padding: .65rem .8rem; border: 1px solid var(--rule); border-radius: 6px;
+  background: var(--surface); color: var(--ink); width: 100%;
+}
+.report-form textarea { resize: vertical; line-height: 1.5; }
+.choice { display: flex; gap: .55rem; align-items: baseline; font-weight: 400 !important; }
+.contact { margin-top: .5rem; }
+.consent { font-size: .95rem; }
+.hp { position: absolute; left: -9999px; }
+.status-msg { margin: 0; min-height: 1.4em; }
+.status-msg.error { color: var(--grave); font-weight: 500; }
+
+.contact[hidden], .note[hidden], form[hidden] { display: none; }

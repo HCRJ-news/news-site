@@ -95,9 +95,15 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
     <a href="/cases/">Major cases</a>
     <a href="/institutions/">Institutions</a>
     <a href="/about/">About &amp; standards</a>
+    <a href="/report/">Report</a>
     <a href="/feed.xml">RSS</a>
   </nav>
 </header>
+<aside class="report-band" aria-label="Report anonymously">
+  <p><strong>Experienced abuse at a company, school, church or agency?</strong>
+  You can tell the Hollywood Council for Restorative Justice what happened, anonymously.</p>
+  <a class="report-btn" href="/report/">Report anonymously</a>
+</aside>
 {body}
 <footer class="site-foot">
   <p>Every entry links to the original reporting. Summaries are written by this site; allegations are
@@ -262,6 +268,15 @@ litigation and reforms. Each development links to the reporting at the time.</p>
     (d / "index.html").write_text(page("Major cases", body, path="/cases/"))
 
 
+def build_report():
+    src = (ROOT / "report.html").read_text()
+    d = OUT / "report"
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "index.html").write_text(page("Report anonymously", src, path="/report/",
+        description="Anonymously and confidentially report sexual abuse or misconduct to the Hollywood Council for Restorative Justice.",
+        extra_head='<script src="/report.js" defer></script>'))
+
+
 def build_about():
     src = (ROOT / "about.html").read_text()
     d = OUT / "about"
@@ -287,7 +302,7 @@ def build_feed(items):
 
 
 def build_sitemap(items):
-    urls = [f"{SITE_URL}/", f"{SITE_URL}/institutions/", f"{SITE_URL}/about/"]
+    urls = [f"{SITE_URL}/", f"{SITE_URL}/report/", f"{SITE_URL}/institutions/", f"{SITE_URL}/about/"]
     urls += sorted({f"{SITE_URL}/institutions/{it['_inst_slug']}/" for it in items})
     urls += sorted({f"{SITE_URL}/cases/{it['case']}/" for it in items if it.get("case") in CASE_META})
     body = "".join(f"<url><loc>{u}</loc></url>" for u in urls)
@@ -307,6 +322,7 @@ def main():
     build_institutions(items)
     build_cases(items)
     build_about()
+    build_report()
     build_feed(items)
     build_sitemap(items)
     print(f"Built {len(items)} entries into {OUT}")

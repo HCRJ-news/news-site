@@ -1,0 +1,88 @@
+<main id="main">
+<section class="intro narrow">
+  <h1>Tell someone what happened, without giving your name</h1>
+  <p class="lede">If you experienced sexual abuse, assault or harassment connected to a company, school,
+  religious organization or government agency, you can report it here. Your report goes confidentially to the
+  Hollywood Council for Restorative Justice.</p>
+</section>
+
+<div class="report-layout">
+  <div class="report-notes">
+    <div class="note urgent">
+      <h2>If you are in danger right now</h2>
+      <p>Call 911. This form is not monitored around the clock and does not contact police.</p>
+    </div>
+    <div class="note">
+      <h2>How your privacy is protected</h2>
+      <ul>
+        <li>We never ask for your name. Contact details are optional.</li>
+        <li>Reports are not saved on this website and are not published here.</li>
+        <li>Your report is sent over an encrypted connection and delivered only to the
+          Hollywood Council for Restorative Justice. We don't record your IP address.</li>
+        <li>To stay anonymous, leave out details that would identify you, such as your name, job title
+          or the exact date.</li>
+      </ul>
+    </div>
+    <div class="note">
+      <h2>What this is and isn't</h2>
+      <p>Reporting here does not file a police report or a lawsuit, and it doesn't create an attorney-client
+      relationship. If you want to report a crime, contact your local police. Time limits for lawsuits vary by
+      state, so talk to a lawyer if you're considering legal action.</p>
+      <p>For free, confidential support 24/7, call the
+      <a href="https://rainn.org">RAINN National Sexual Assault Hotline</a> at 800-656-4673.</p>
+    </div>
+  </div>
+
+  <form class="report-form" id="report-form" method="post" action="/api/report" novalidate>
+    <div class="field">
+      <label for="what">What happened <span class="req">required</span></label>
+      <p class="hint">Share as much or as little as you're comfortable with.</p>
+      <textarea id="what" name="what" rows="9" required maxlength="10000"></textarea>
+    </div>
+    <div class="field">
+      <label for="org">Organization involved</label>
+      <p class="hint">For example a studio, production, agency, school, church or employer.</p>
+      <input id="org" name="org" type="text" maxlength="300" autocomplete="off">
+    </div>
+    <div class="row">
+      <div class="field">
+        <label for="when">When it happened</label>
+        <input id="when" name="when" type="text" maxlength="120" placeholder="e.g. 2019, or summer 2024" autocomplete="off">
+      </div>
+      <div class="field">
+        <label for="where">Where</label>
+        <input id="where" name="where" type="text" maxlength="200" placeholder="City, state or country" autocomplete="off">
+      </div>
+    </div>
+    <div class="field">
+      <label for="reported">Have you reported this anywhere else?</label>
+      <select id="reported" name="reported">
+        <option value="">Prefer not to say</option>
+        <option>No</option>
+        <option>Yes, to police</option>
+        <option>Yes, to the organization (HR, school, church leadership)</option>
+        <option>Yes, to a lawyer</option>
+        <option>Yes, somewhere else</option>
+      </select>
+    </div>
+    <fieldset class="field">
+      <legend>Would you like the Hollywood Council for Restorative Justice to contact you?</legend>
+      <label class="choice"><input type="radio" name="contact_ok" value="no" checked> No, keep me anonymous</label>
+      <label class="choice"><input type="radio" name="contact_ok" value="yes"> Yes, you can contact me</label>
+      <div class="field contact" id="contact-wrap" hidden>
+        <label for="contact">Email or phone</label>
+        <p class="hint">Only the Council will see this. Sharing it means your report is no longer anonymous to them.</p>
+        <input id="contact" name="contact" type="text" maxlength="200" autocomplete="off">
+      </div>
+    </fieldset>
+    <div class="hp" aria-hidden="true">
+      <label for="website">Leave this empty</label>
+      <input id="website" name="website" type="text" tabindex="-1" autocomplete="off">
+    </div>
+    <label class="choice consent"><input type="checkbox" name="consent" id="consent" required>
+      I understand this report goes to the Hollywood Council for Restorative Justice and is not a police report.</label>
+    <button type="submit" class="report-btn big">Send report</button>
+    <p class="status-msg" id="report-status" role="status" aria-live="polite"></p>
+  </form>
+</div>
+</main>
