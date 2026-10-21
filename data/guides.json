@@ -1,0 +1,35 @@
+{
+ "sexual-assault": {
+  "title": "Sexual Assault: What It Is, What to Do, and Your Legal Options",
+  "h1": "Sexual assault: what it is and what to do",
+  "description": "What counts as sexual assault, what to do afterward, how to get a free forensic exam, your reporting options, and how survivors hold institutions accountable in court.",
+  "faqs": [
+   ["What is sexual assault?", "Sexual assault is any sexual contact or behavior without clear, freely given consent, including rape, attempted rape, unwanted touching, and sexual contact with someone who cannot consent because of age, intoxication, unconsciousness or threats."],
+   ["Do I have to report to the police to get a rape kit?", "No. In the United States, states must provide sexual assault forensic exams free of charge, and you do not have to report to law enforcement to get one."],
+   ["How long after a sexual assault can evidence be collected?", "Forensic evidence is usually best collected within about 72 to 120 hours, but you can seek medical care and support at any time."],
+   ["Can I sue an employer or school for a sexual assault?", "Often, yes. Institutions can be held liable when they ignored complaints, failed to supervise, or covered up abuse. Deadlines vary by state, so speak to a lawyer promptly."],
+   ["Who can I talk to confidentially?", "The RAINN National Sexual Assault Hotline is free, confidential and available 24/7 at 800-656-4673."]
+  ]
+ },
+ "rape": {
+  "title": "What to Do After a Rape: Medical Care, Evidence, Support and Legal Options",
+  "h1": "What to do after a rape",
+  "description": "Step-by-step guidance after a rape: getting safe, free medical care and forensic exams without a police report, preserving evidence, confidential support, and holding institutions accountable.",
+  "faqs": [
+   ["What should I do right after being raped?", "Get to a safe place, consider medical care for injuries, infections and pregnancy prevention, ask about a free forensic exam, and contact the RAINN hotline at 800-656-4673 for confidential support."],
+   ["Is it too late to report a rape that happened years ago?", "Not necessarily. Many states have extended or removed time limits for rape, and some have opened lookback windows for older civil claims. Support is available at any time."],
+   ["Can an institution be responsible for a rape?", "Yes. Employers, schools, churches, hospitals, youth programs and government agencies have been held liable for ignoring warnings, failing to supervise, or concealing abuse."]
+  ]
+ },
+ "sexual-harassment-lawyer": {
+  "title": "How to Find a Sexual Harassment Lawyer: Deadlines, Fees and What to Ask",
+  "h1": "Finding a sexual harassment lawyer",
+  "description": "When to talk to a sexual harassment lawyer, EEOC and state deadlines, how contingency fees work, how to find an attorney, and questions to ask in a first consultation.",
+  "faqs": [
+   ["How much does a sexual harassment lawyer cost?", "Most work on contingency, meaning no upfront fee; the lawyer receives a percentage of any settlement or verdict, often 33 to 40 percent."],
+   ["What is the deadline to file a sexual harassment claim?", "Under federal law, workplace claims generally require an EEOC charge within 180 days, or 300 days in states with their own fair-employment agency. State laws and sexual abuse claims can have different, often longer, deadlines."],
+   ["Can I sue my employer for sexual harassment?", "Employers can be liable for harassment by supervisors and for failing to address harassment they knew about, and retaliation for reporting is separately illegal."],
+   ["Is this site a law firm?", "No. Sex Abuse Litigation is an informational news index and does not provide legal advice. Contact your state bar's lawyer referral service to find an attorney."]
+  ]
+ }
+}

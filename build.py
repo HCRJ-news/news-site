@@ -67,8 +67,16 @@ def load():
     return items
 
 
-def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
-    full_title = f"{title} | {SITE_NAME}" if title != SITE_NAME else SITE_NAME
+def jsonld(obj):
+    return '<script type="application/ld+json">' + json.dumps(obj, ensure_ascii=False).replace("</", "<\\/") + "</script>"
+
+
+ORG = {"@type": "Organization", "name": SITE_NAME, "url": SITE_URL + "/",
+       "description": TAGLINE}
+
+
+def page(title, body, *, description=TAGLINE, path="/", extra_head="", full_title=None, og_type="website"):
+    full_title = full_title or (f"{title} | {SITE_NAME}" if title != SITE_NAME else SITE_NAME)
     return f"""<!doctype html>
 <html lang="en">
 <head>
@@ -78,13 +86,15 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
 <meta name="description" content="{esc(description)}">
 <link rel="canonical" href="{SITE_URL}{path}">
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="/feed.xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,500;0,700;0,800;1,400&display=swap" rel="stylesheet">
+<link rel="preload" href="/public-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/style.css">
 <meta property="og:title" content="{esc(full_title)}">
 <meta property="og:description" content="{esc(description)}">
-<meta property="og:type" content="website">
+<meta property="og:type" content="{og_type}">
+<meta property="og:url" content="{SITE_URL}{path}">
+<meta property="og:site_name" content="{SITE_NAME}">
+<meta name="twitter:card" content="summary">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 {extra_head}
 </head>
 <body>
@@ -92,6 +102,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
 <header class="site-head">
   <a class="brand" href="/">{SITE_NAME}</a>
   <nav>
+    <a href="/guides/">Get help</a>
     <a href="/cases/">Major cases</a>
     <a href="/institutions/">Institutions</a>
     <a href="/about/">About &amp; standards</a>
@@ -110,6 +121,8 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
   described as allegations until a court or prosecutor says otherwise.</p>
   <p>If you need support, the <a href="https://rainn.org">RAINN National Sexual Assault Hotline</a>
   is available 24/7 at 800-656-4673.</p>
+  <p><a href="/guides/sexual-assault/">Sexual assault</a> · <a href="/guides/rape/">What to do after a rape</a> ·
+  <a href="/guides/sexual-harassment-lawyer/">Finding a sexual harassment lawyer</a> · <a href="/report/">Report anonymously</a></p>
   <p><a href="/about/#corrections">Request a correction or removal</a></p>
 </footer>
 </body>
@@ -227,7 +240,13 @@ def build_index(items):
 </div>
 </main>
 <script src="/filter.js" defer></script>"""
-    return page(SITE_NAME, body)
+    ld = jsonld({"@context": "https://schema.org", "@graph": [
+        {"@type": "WebSite", "name": SITE_NAME, "url": SITE_URL + "/", "description": TAGLINE},
+        ORG,
+        {"@type": "CollectionPage", "name": "Sexual Abuse Litigation and Resources for Victims", "url": SITE_URL + "/",
+         "about": ["Sexual assault", "Rape", "Sexual harassment", "Sexual abuse lawsuits"]}]})
+    return page(SITE_NAME, body, extra_head=ld,
+                full_title="Sexual Assault, Rape & Sexual Harassment Lawsuits and Help for Victims | " + SITE_NAME)
 
 
 def build_institutions(items):
@@ -315,6 +334,76 @@ def build_report():
         extra_head='<script src="/report.js" defer></script>'))
 
 
+GUIDES = json.loads((ROOT / "data" / "guides.json").read_text())
+
+
+def build_guides(items):
+    today = date.today().isoformat()
+    cards = []
+    for slug, g in GUIDES.items():
+        body_html = (ROOT / "guides" / f"{slug}.html").read_text()
+        faq_html = "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in g["faqs"])
+        others = "".join(f'<li><a href="/guides/{o}/">{esc(GUIDES[o]["h1"])}</a></li>' for o in GUIDES if o != slug)
+        body = f"""<main id="main">
+<article class="guide">
+  <p class="crumb"><a href="/guides/">Help and resources</a></p>
+  <h1>{esc(g['h1'])}</h1>
+  <p class="updated">Updated <time datetime="{today}">{fmt_date(date.today())}</time></p>
+  {body_html}
+  <h2>Frequently asked questions</h2>
+  <div class="faqs">{faq_html}</div>
+  <h2>More help</h2>
+  <ul>{others}<li><a href="/report/">Report anonymously to the Hollywood Council for Restorative Justice</a></li></ul>
+</article>
+</main>"""
+        ld = jsonld({"@context": "https://schema.org", "@graph": [
+            {"@type": "Article", "headline": g["title"], "description": g["description"],
+             "dateModified": today, "url": f"{SITE_URL}/guides/{slug}/", "publisher": ORG, "author": ORG},
+            {"@type": "FAQPage", "mainEntity": [
+                {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in g["faqs"]]}]})
+        d = OUT / "guides" / slug
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "index.html").write_text(page(g["h1"], body, path=f"/guides/{slug}/", description=g["description"],
+                                           extra_head=ld, full_title=g["title"], og_type="article"))
+        cards.append(f'<li><a href="/guides/{slug}/">{esc(g["h1"])}</a><p>{esc(g["description"])}</p></li>')
+    body = f"""<main id="main">
+<section class="intro narrow"><h1>Help and resources for survivors</h1>
+<p class="lede">Plain-language guides for people who have experienced sexual assault, rape or sexual harassment, including
+what to do, where to get support, and how legal action works. If you're in danger, call 911. For confidential support, call
+RAINN at 800-656-4673.</p></section>
+<ul class="cases">{''.join(cards)}<li><a href="/report/">Report anonymously</a><p>Tell the Hollywood Council for Restorative Justice what happened, without giving your name.</p></li></ul>
+</main>"""
+    d = OUT / "guides"
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "index.html").write_text(page("Help and resources", body, path="/guides/",
+        description="Guides for survivors of sexual assault, rape and sexual harassment: what to do, support, reporting, and legal options."))
+
+
+def build_llms(items):
+    cases = "\n".join(f"- [{m['title']}]({SITE_URL}/cases/{s}/): {m['summary']}" for s, m in CASE_META.items())
+    guides = "\n".join(f"- [{g['h1']}]({SITE_URL}/guides/{s}/): {g['description']}" for s, g in GUIDES.items())
+    txt = f"""# {SITE_NAME}
+
+> {TAGLINE} {len(items)} entries, each summarizing and linking to original news reporting. Updated several times a day.
+
+Editorial standards: allegations are described as allegations; survivors who are private individuals are never named.
+This site is not a law firm and does not give legal advice. Confidential support: RAINN 800-656-4673.
+
+## Guides for survivors
+{guides}
+- [Report anonymously]({SITE_URL}/report/): send a confidential report to the Hollywood Council for Restorative Justice.
+
+## Major cases (full timelines)
+{cases}
+
+## Other
+- [All institutions]({SITE_URL}/institutions/)
+- [About and editorial standards]({SITE_URL}/about/)
+- [RSS feed]({SITE_URL}/feed.xml)
+"""
+    (OUT / "llms.txt").write_text(txt)
+
+
 def build_about():
     src = (ROOT / "about.html").read_text()
     d = OUT / "about"
@@ -340,10 +429,12 @@ def build_feed(items):
 
 
 def build_sitemap(items):
-    urls = [f"{SITE_URL}/", f"{SITE_URL}/report/", f"{SITE_URL}/institutions/", f"{SITE_URL}/about/"]
+    urls = [f"{SITE_URL}/", f"{SITE_URL}/guides/", f"{SITE_URL}/report/", f"{SITE_URL}/institutions/", f"{SITE_URL}/cases/", f"{SITE_URL}/about/"]
+    urls += [f"{SITE_URL}/guides/{g}/" for g in GUIDES]
     urls += sorted({f"{SITE_URL}/institutions/{it['_inst_slug']}/" for it in items})
     urls += sorted({f"{SITE_URL}/cases/{it['case']}/" for it in items if it.get("case") in CASE_META})
-    body = "".join(f"<url><loc>{u}</loc></url>" for u in urls)
+    lm = date.today().isoformat()
+    body = "".join(f"<url><loc>{u}</loc><lastmod>{lm}</lastmod></url>" for u in urls)
     (OUT / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>')
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
@@ -362,6 +453,8 @@ def main():
     build_institutions(items)
     build_cases(items)
     build_about()
+    build_guides(items)
+    build_llms(items)
     build_report()
     build_feed(items)
     build_sitemap(items)

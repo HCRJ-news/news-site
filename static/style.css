@@ -1,3 +1,9 @@
+@font-face { font-family: "Public Sans"; font-style: normal; font-weight: 400 800; font-display: swap;
+  src: url(/public-sans-latin-ext.woff2) format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Public Sans"; font-style: normal; font-weight: 400 800; font-display: swap;
+  src: url(/public-sans-latin.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 :root {
   --paper: #f4f6f8;
   --surface: #ffffff;
@@ -232,3 +238,17 @@ a:hover { text-decoration-thickness: 2px; }
   .with-wall { grid-template-columns: minmax(0, 1fr) 19rem; }
   .wall { position: sticky; top: 1rem; align-self: start; max-height: calc(100vh - 2rem); overflow-y: auto; padding-right: .25rem; }
 }
+
+/* Guides */
+.guide { max-width: 44rem; padding: 2.5rem 0 3rem; }
+.guide h1 { font-weight: 800; font-size: clamp(2rem, 4.5vw, 3rem); line-height: 1.08; letter-spacing: -0.03em; margin: 0 0 .5rem; }
+.guide .updated { color: var(--muted); font-size: .9rem; margin: 0 0 1.5rem; }
+.guide h2 { font-size: 1.35rem; margin: 2.25rem 0 .6rem; letter-spacing: -0.01em; }
+.guide .answer { font-size: 1.15rem; line-height: 1.6; background: var(--surface); border-left: 4px solid var(--ink); padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; }
+.guide .disclaimer { color: var(--muted); font-size: .95rem; }
+.guide li { margin-bottom: .55rem; }
+.guide .steps { padding-left: 1.25rem; }
+.guide .note { margin: 1.5rem 0; }
+.faqs details { border-bottom: 1px solid var(--rule); padding: .75rem 0; }
+.faqs summary { font-weight: 700; cursor: pointer; }
+.faqs details p { margin: .5rem 0 0; }
