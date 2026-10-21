@@ -21,6 +21,15 @@ export default {
     const r = {};
     for (const [k, max] of Object.entries(LIMITS)) r[k] = clean(body[k], max);
     if (!r.what || body.consent !== "on") return json({ ok: false, error: "missing" }, 400);
+    // Turnstile spam check (active once the TURNSTILE_SECRET secret is set on this Worker)
+    if (env.TURNSTILE_SECRET) {
+      const form = new FormData();
+      form.append("secret", env.TURNSTILE_SECRET);
+      form.append("response", String(body["cf-turnstile-response"] || ""));
+      const v = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", { method: "POST", body: form });
+      const out = await v.json();
+      if (!out.success) return json({ ok: false, error: "verify" }, 403);
+    }
     const contact = body.contact_ok === "yes" && r.contact ? r.contact : "None (reporter chose to stay anonymous)";
     const text = [
       "New anonymous report submitted through sexabuselitigation.org",

@@ -34,6 +34,7 @@
       body: JSON.stringify(data)
     }).then(function (r) {
       if (!r.ok) throw new Error("send failed");
+      if (window.turnstile) { try { window.turnstile.reset(); } catch (e) {} }
       form.reset();
       contactWrap.hidden = true;
       form.hidden = true;
@@ -46,6 +47,7 @@
       done.setAttribute("tabindex", "-1");
       done.focus();
     }).catch(function () {
+      if (window.turnstile) { try { window.turnstile.reset(); } catch (e) {} }
       button.disabled = false;
       status.textContent = "Your report didn't send. Nothing was saved. Check your connection and try again.";
       status.className = "status-msg error";

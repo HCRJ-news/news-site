@@ -93,7 +93,10 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head="", full_titl
 <meta property="og:type" content="{og_type}">
 <meta property="og:url" content="{SITE_URL}{path}">
 <meta property="og:site_name" content="{SITE_NAME}">
-<meta name="twitter:card" content="summary">
+<meta property="og:image" content="{SITE_URL}/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 {extra_head}
 </head>
@@ -340,7 +343,7 @@ def build_report():
     d.mkdir(parents=True, exist_ok=True)
     (d / "index.html").write_text(page("Report anonymously", src, path="/report/",
         description="Anonymously and confidentially report sexual abuse or misconduct to the Hollywood Council for Restorative Justice.",
-        extra_head='<script src="/report.js" defer></script>'))
+        extra_head='<script src="/report.js" defer></script><script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>'))
 
 
 GUIDES = json.loads((ROOT / "data" / "guides.json").read_text())
