@@ -159,6 +159,25 @@ def grouped_list(items, show_institution=True, show_case=True, year_only=False):
     return "\n".join(out)
 
 
+def logo_wall(items):
+    counts = defaultdict(int)
+    for it in items:
+        counts[it["institution"]] += 1
+    tiles = []
+    for name, n in sorted(counts.items(), key=lambda kv: -kv[1]):
+        slug = slugify(name)
+        if not (ROOT / "logos" / f"{slug}.png").exists():
+            continue
+        tiles.append(f'<a class="logo" href="/institutions/{slug}/" title="{esc(name)}: {n} {"report" if n == 1 else "reports"}">'
+                     f'<img src="/logos/{slug}.png" alt="{esc(name)}" width="64" height="64" loading="lazy"></a>')
+    return f"""<aside class="wall" aria-label="Institutions in the index">
+  <h2>Named in sexual abuse cases</h2>
+  <p>Every organization here appears in reporting on abuse, lawsuits or investigations. Select one to see its record.</p>
+  <div class="tiles">{''.join(tiles)}</div>
+  <a class="all" href="/institutions/">All institutions</a>
+</aside>"""
+
+
 def build_index(items):
     counts = defaultdict(int)
     for it in items:
@@ -199,10 +218,13 @@ def build_index(items):
   <p class="count" id="count" aria-live="polite"></p>
 </section>
 {featured}
+<div class="with-wall">
 <div class="ledger" id="ledger">
 {grouped_list(items)}
-</div>
 <p class="empty" id="empty" hidden>No entries match. Clear the search or pick a different stage.</p>
+</div>
+{logo_wall(items)}
+</div>
 </main>
 <script src="/filter.js" defer></script>"""
     return page(SITE_NAME, body)
@@ -333,6 +355,8 @@ def main():
     OUT.mkdir()
     for f in STATIC.iterdir():
         shutil.copy(f, OUT / f.name)
+    if (ROOT / "logos").exists():
+        shutil.copytree(ROOT / "logos", OUT / "logos")
     items = load()
     (OUT / "index.html").write_text(build_index(items))
     build_institutions(items)
