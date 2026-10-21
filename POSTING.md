@@ -23,3 +23,9 @@
 - No graphic detail. No copying article text.
 - Do not post individual crimes with no institutional angle (e.g. a stranger assault with no employer,
   school, agency or organization implicated).
+
+## Major ongoing trials and stories
+When a major case is in trial or dominating the news (e.g. Russell Brand, October 2026), add an entry for each
+significant reported day (openings, each witness, verdicts, sentencing) with the right `case` slug from
+data/cases.json, rather than one entry for the whole trial. Add a new slug to data/cases.json for any new
+major case (title + one-sentence neutral summary).

@@ -1,39 +1,154 @@
 {
- "usc-tyndall": {"title": "USC and Dr. George Tyndall", "summary": "Decades of complaints about a University of Southern California campus gynecologist, the 2018 investigation that exposed them, and the criminal case and record civil settlements that followed."},
- "usc-other": {"title": "Other USC cases", "summary": "Additional sexual abuse cases involving the University of Southern California."},
- "weinstein": {"title": "Harvey Weinstein and The Weinstein Company", "summary": "The 2017 reporting that launched the #MeToo movement, the collapse of The Weinstein Company, and Weinstein's criminal trials, convictions, appeals and retrial."},
- "hollywood-metoo": {"title": "Hollywood and the #MeToo movement", "summary": "How #MeToo reshaped the entertainment and media industry: major cases at studios and networks, lawsuits, criminal trials, and new laws and workplace rules."},
- "cosby": {"title": "Bill Cosby", "summary": "Allegations spanning decades, the 2018 conviction and its 2021 reversal, and the civil suits that continued afterward."},
- "r-kelly": {"title": "R. Kelly", "summary": "Two decades of allegations, the 2008 acquittal, renewed reporting, and the federal convictions in New York and Chicago."},
- "sean-combs": {"title": "Sean Combs", "summary": "A 2023 lawsuit, the wave of civil claims that followed, and the federal criminal case against the music mogul."},
- "fox-news": {"title": "Fox News", "summary": "Sexual harassment suits that ended the careers of Roger Ailes and Bill O'Reilly and led to settlements and workplace reforms at Fox."},
- "wynn-resorts": {"title": "Steve Wynn and Wynn Resorts", "summary": "Misconduct allegations against the casino founder and the regulatory fines, shareholder suits and settlements that followed."},
- "activision-blizzard": {"title": "Activision Blizzard", "summary": "California's lawsuit over harassment and discrimination at the video game company, and the settlements that followed."},
- "corporate-misconduct": {"title": "Corporate workplace misconduct", "summary": "Major sexual harassment and misconduct cases at large companies with significant litigation."},
- "catholic-church-us": {"title": "Catholic Church abuse crisis (United States)", "summary": "From the first cases in the 1980s and the Boston Globe's 2002 investigation to grand jury reports, diocese bankruptcies and multibillion-dollar settlements."},
- "catholic-church-global": {"title": "Catholic Church abuse crisis (worldwide)", "summary": "Government inquiries, prosecutions and Vatican reforms in Ireland, Australia, Chile, Germany, France and beyond."},
- "nassar": {"title": "Larry Nassar, USA Gymnastics and Michigan State", "summary": "The sports doctor who abused hundreds of athletes, the institutions that failed to stop him, and the record settlements and reforms that followed."},
- "penn-state": {"title": "Penn State and Jerry Sandusky", "summary": "The 2011 grand jury case against the former assistant coach, the cover-up charges against university leaders, and the sanctions and settlements that followed."},
- "epstein": {"title": "Jeffrey Epstein", "summary": "The financier's 2008 plea deal, 2019 arrest and death, the Ghislaine Maxwell case, and the banks and institutions that settled claims afterward."},
- "boy-scouts": {"title": "Boy Scouts of America", "summary": "Decades of abuse documented in the organization's own files, tens of thousands of claims, and the bankruptcy that created a $2.4 billion trust."},
- "youth-organizations": {"title": "Youth sports and camps", "summary": "Abuse cases at youth sports organizations and camps with major litigation."},
- "ohio-state-strauss": {"title": "Ohio State and Dr. Richard Strauss", "summary": "Allegations from hundreds of former athletes against a university doctor, and the long fight over the university's liability."},
- "michigan-anderson": {"title": "University of Michigan and Dr. Robert Anderson", "summary": "Decades of abuse by a university doctor and the $490 million settlement that followed."},
- "ucla-heaps": {"title": "UCLA and Dr. James Heaps", "summary": "A university gynecologist's criminal conviction and more than $700 million in settlements."},
- "columbia-hadden": {"title": "Columbia University and Dr. Robert Hadden", "summary": "A Columbia gynecologist's federal conviction and nearly $1 billion in settlements with former patients."},
- "university-doctors": {"title": "Other university and hospital doctors", "summary": "Additional abuse cases involving physicians at universities and hospitals."},
- "southern-baptist": {"title": "Southern Baptist Convention", "summary": "Reporting on abuse in Southern Baptist churches, the 2022 independent investigation, and the denomination's fight over reforms."},
- "lds-church": {"title": "Church of Jesus Christ of Latter-day Saints", "summary": "Lawsuits over how church leaders handled reports of child abuse."},
- "jehovahs-witnesses": {"title": "Jehovah's Witnesses", "summary": "Government inquiries and lawsuits over the organization's handling of abuse reports."},
- "religious-other": {"title": "Other religious organizations", "summary": "Abuse cases at churches, ministries and religious bodies with major litigation or inquiries."},
- "savile-bbc": {"title": "Jimmy Savile and the BBC", "summary": "The revelations about the broadcaster, Operation Yewtree's prosecutions, and the reviews into the BBC and NHS."},
- "uk-grooming-gangs": {"title": "UK grooming gangs", "summary": "Child sexual exploitation in Rotherham, Rochdale, Telford and other towns, the official reports, prosecutions and national inquiry."},
- "uk-iicsa": {"title": "UK Independent Inquiry into Child Sexual Abuse", "summary": "The seven-year statutory inquiry into how institutions in England and Wales failed children, and the response to its findings."},
- "harrods-al-fayed": {"title": "Mohamed Al Fayed and Harrods", "summary": "Allegations against the former Harrods owner and the store's compensation scheme."},
- "la-county-juvenile": {"title": "Los Angeles County juvenile facilities", "summary": "Thousands of claims of abuse in county juvenile halls and foster facilities, and the record $4 billion settlement."},
- "new-hampshire-ydc": {"title": "New Hampshire Youth Development Center", "summary": "Criminal charges, more than 1,000 lawsuits and a state settlement fund over abuse at the state's youth detention center."},
- "maryland-cva": {"title": "Maryland Child Victims Act", "summary": "The 2023 law ending time limits on child abuse suits and the wave of claims against the state that followed."},
- "illinois-juvenile": {"title": "Illinois youth detention", "summary": "Mass lawsuits over abuse in Illinois juvenile detention facilities."},
- "fci-dublin": {"title": "FCI Dublin federal prison", "summary": "Widespread staff abuse at a federal women's prison, criminal convictions including the warden, closure and settlements."},
- "military-academies": {"title": "U.S. military sexual assault", "summary": "From Tailhook to the Vanessa Guillén case and the 2021 overhaul of how the military prosecutes sexual assault."}
+ "usc-tyndall": {
+  "title": "USC and Dr. George Tyndall",
+  "summary": "Decades of complaints about a University of Southern California campus gynecologist, the 2018 investigation that exposed them, and the criminal case and record civil settlements that followed."
+ },
+ "usc-other": {
+  "title": "Other USC cases",
+  "summary": "Additional sexual abuse cases involving the University of Southern California."
+ },
+ "weinstein": {
+  "title": "Harvey Weinstein and The Weinstein Company",
+  "summary": "The 2017 reporting that launched the #MeToo movement, the collapse of The Weinstein Company, and Weinstein's criminal trials, convictions, appeals and retrial."
+ },
+ "hollywood-metoo": {
+  "title": "Hollywood and the #MeToo movement",
+  "summary": "How #MeToo reshaped the entertainment and media industry: major cases at studios and networks, lawsuits, criminal trials, and new laws and workplace rules."
+ },
+ "cosby": {
+  "title": "Bill Cosby",
+  "summary": "Allegations spanning decades, the 2018 conviction and its 2021 reversal, and the civil suits that continued afterward."
+ },
+ "r-kelly": {
+  "title": "R. Kelly",
+  "summary": "Two decades of allegations, the 2008 acquittal, renewed reporting, and the federal convictions in New York and Chicago."
+ },
+ "sean-combs": {
+  "title": "Sean Combs",
+  "summary": "A 2023 lawsuit, the wave of civil claims that followed, and the federal criminal case against the music mogul."
+ },
+ "fox-news": {
+  "title": "Fox News",
+  "summary": "Sexual harassment suits that ended the careers of Roger Ailes and Bill O'Reilly and led to settlements and workplace reforms at Fox."
+ },
+ "wynn-resorts": {
+  "title": "Steve Wynn and Wynn Resorts",
+  "summary": "Misconduct allegations against the casino founder and the regulatory fines, shareholder suits and settlements that followed."
+ },
+ "activision-blizzard": {
+  "title": "Activision Blizzard",
+  "summary": "California's lawsuit over harassment and discrimination at the video game company, and the settlements that followed."
+ },
+ "corporate-misconduct": {
+  "title": "Corporate workplace misconduct",
+  "summary": "Major sexual harassment and misconduct cases at large companies with significant litigation."
+ },
+ "catholic-church-us": {
+  "title": "Catholic Church abuse crisis (United States)",
+  "summary": "From the first cases in the 1980s and the Boston Globe's 2002 investigation to grand jury reports, diocese bankruptcies and multibillion-dollar settlements."
+ },
+ "catholic-church-global": {
+  "title": "Catholic Church abuse crisis (worldwide)",
+  "summary": "Government inquiries, prosecutions and Vatican reforms in Ireland, Australia, Chile, Germany, France and beyond."
+ },
+ "nassar": {
+  "title": "Larry Nassar, USA Gymnastics and Michigan State",
+  "summary": "The sports doctor who abused hundreds of athletes, the institutions that failed to stop him, and the record settlements and reforms that followed."
+ },
+ "penn-state": {
+  "title": "Penn State and Jerry Sandusky",
+  "summary": "The 2011 grand jury case against the former assistant coach, the cover-up charges against university leaders, and the sanctions and settlements that followed."
+ },
+ "epstein": {
+  "title": "Jeffrey Epstein",
+  "summary": "The financier's 2008 plea deal, 2019 arrest and death, the Ghislaine Maxwell case, and the banks and institutions that settled claims afterward."
+ },
+ "boy-scouts": {
+  "title": "Boy Scouts of America",
+  "summary": "Decades of abuse documented in the organization's own files, tens of thousands of claims, and the bankruptcy that created a $2.4 billion trust."
+ },
+ "youth-organizations": {
+  "title": "Youth sports and camps",
+  "summary": "Abuse cases at youth sports organizations and camps with major litigation."
+ },
+ "ohio-state-strauss": {
+  "title": "Ohio State and Dr. Richard Strauss",
+  "summary": "Allegations from hundreds of former athletes against a university doctor, and the long fight over the university's liability."
+ },
+ "michigan-anderson": {
+  "title": "University of Michigan and Dr. Robert Anderson",
+  "summary": "Decades of abuse by a university doctor and the $490 million settlement that followed."
+ },
+ "ucla-heaps": {
+  "title": "UCLA and Dr. James Heaps",
+  "summary": "A university gynecologist's criminal conviction and more than $700 million in settlements."
+ },
+ "columbia-hadden": {
+  "title": "Columbia University and Dr. Robert Hadden",
+  "summary": "A Columbia gynecologist's federal conviction and nearly $1 billion in settlements with former patients."
+ },
+ "university-doctors": {
+  "title": "Other university and hospital doctors",
+  "summary": "Additional abuse cases involving physicians at universities and hospitals."
+ },
+ "southern-baptist": {
+  "title": "Southern Baptist Convention",
+  "summary": "Reporting on abuse in Southern Baptist churches, the 2022 independent investigation, and the denomination's fight over reforms."
+ },
+ "lds-church": {
+  "title": "Church of Jesus Christ of Latter-day Saints",
+  "summary": "Lawsuits over how church leaders handled reports of child abuse."
+ },
+ "jehovahs-witnesses": {
+  "title": "Jehovah's Witnesses",
+  "summary": "Government inquiries and lawsuits over the organization's handling of abuse reports."
+ },
+ "religious-other": {
+  "title": "Other religious organizations",
+  "summary": "Abuse cases at churches, ministries and religious bodies with major litigation or inquiries."
+ },
+ "savile-bbc": {
+  "title": "Jimmy Savile and the BBC",
+  "summary": "The revelations about the broadcaster, Operation Yewtree's prosecutions, and the reviews into the BBC and NHS."
+ },
+ "uk-grooming-gangs": {
+  "title": "UK grooming gangs",
+  "summary": "Child sexual exploitation in Rotherham, Rochdale, Telford and other towns, the official reports, prosecutions and national inquiry."
+ },
+ "uk-iicsa": {
+  "title": "UK Independent Inquiry into Child Sexual Abuse",
+  "summary": "The seven-year statutory inquiry into how institutions in England and Wales failed children, and the response to its findings."
+ },
+ "harrods-al-fayed": {
+  "title": "Mohamed Al Fayed and Harrods",
+  "summary": "Allegations against the former Harrods owner and the store's compensation scheme."
+ },
+ "la-county-juvenile": {
+  "title": "Los Angeles County juvenile facilities",
+  "summary": "Thousands of claims of abuse in county juvenile halls and foster facilities, and the record $4 billion settlement."
+ },
+ "new-hampshire-ydc": {
+  "title": "New Hampshire Youth Development Center",
+  "summary": "Criminal charges, more than 1,000 lawsuits and a state settlement fund over abuse at the state's youth detention center."
+ },
+ "maryland-cva": {
+  "title": "Maryland Child Victims Act",
+  "summary": "The 2023 law ending time limits on child abuse suits and the wave of claims against the state that followed."
+ },
+ "illinois-juvenile": {
+  "title": "Illinois youth detention",
+  "summary": "Mass lawsuits over abuse in Illinois juvenile detention facilities."
+ },
+ "fci-dublin": {
+  "title": "FCI Dublin federal prison",
+  "summary": "Widespread staff abuse at a federal women's prison, criminal convictions including the warden, closure and settlements."
+ },
+ "military-academies": {
+  "title": "U.S. military sexual assault",
+  "summary": "From Tailhook to the Vanessa Guillén case and the 2021 overhaul of how the military prosecutes sexual assault."
+ },
+ "russell-brand": {
+  "title": "Russell Brand",
+  "summary": "The 2023 investigation into the comedian and broadcaster, the BBC and Channel 4 reviews that followed, and the criminal case in London, where he denies rape and sexual assault charges."
+ }
 }
