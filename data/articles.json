@@ -362,6 +362,19 @@
   "added": "2026-10-20T20:39:36Z"
  },
  {
+  "title": "Weinstein sentenced to 15 years in prison in New York retrial case",
+  "source": "ABC7 New York (AP)",
+  "url": "https://abc7ny.com/post/harvey-weinstein-faces-25-years-new-york-sentencing/19860389/",
+  "date": "2026-09-23",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A Manhattan judge sentenced Weinstein to 15 years for the 2006 sexual assault of Miriam Haley; he maintains his innocence and still awaits resentencing in Los Angeles.",
+  "status": "conviction",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "New lawsuit seeks to block Epstein advisers from inheriting millions",
   "source": "WPTV (Scripps News)",
   "url": "https://www.wptv.com/us-news/crime/epstein-files/new-lawsuit-could-block-epstein-advisers-from-receiving-millions",
@@ -448,6 +461,19 @@
   "location": "United Kingdom, England",
   "case": "harrods-al-fayed",
   "added": "2026-10-21T01:03:23Z"
+ },
+ {
+  "title": "Appeals court tosses Dan Schneider's 'Quiet on Set' defamation suit",
+  "source": "Variety",
+  "url": "https://au.variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-40189/",
+  "date": "2026-09-10",
+  "category": "company",
+  "institution": "Nickelodeon",
+  "summary": "A California appellate panel unanimously ruled for the docuseries' makers under the anti-SLAPP law, finding the show did not defamatorily imply Schneider abused children.",
+  "status": "verdict",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Lawsuit alleges Genesis Health Clubs trainer groomed and abused a teenage member",
@@ -1070,6 +1096,32 @@
   "added": "2026-10-21T01:00:56Z"
  },
  {
+  "title": "California appeals court upholds Weinstein's Los Angeles conviction but orders resentencing",
+  "source": "CP24 (AP)",
+  "url": "https://www.cp24.com/news/entertainment/2026/06/26/california-court-upholds-harvey-weinsteins-rape-conviction-but-says-he-must-be-resentenced/",
+  "date": "2026-06-26",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A California appellate court affirmed Weinstein's 2022 rape conviction but vacated his 16-year sentence and sent the case back for resentencing.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
+  "title": "Prosecutors drop unresolved rape charge against Weinstein, avoiding fourth trial",
+  "source": "KSL (AP)",
+  "url": "https://www.ksl.com/article/news/utah/police-and-courts/prosecutors-to-drop-harvey-weinsteins-unresolved-rape-charge-other-convictions-stand/51546381",
+  "date": "2026-06-25",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Manhattan prosecutors dropped the remaining rape charge after Jessica Mann said she would not proceed with a fourth trial; the judge dismissed the count while Weinstein's other convictions stand.",
+  "status": "charges",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Maryland Supreme Court rules public schools immune from pre-1971 abuse claims",
   "source": "The Daily Record",
   "url": "https://thedailyrecord.com/2026/06/25/child-victims-act-schools-maryland-supreme-court/",
@@ -1284,6 +1336,19 @@
   "added": "2026-10-21T00:44:52Z"
  },
  {
+  "title": "Weinstein's third New York trial ends in mistrial after jury deadlock",
+  "source": "KSL (Reuters)",
+  "url": "https://www.ksl.com/article/harvey-weinsteins-third-new-york-rape-trial-ends-in-mistrial/51498218",
+  "date": "2026-05-15",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A Manhattan judge declared a mistrial after jurors said they were hopelessly deadlocked on the rape charge involving Jessica Mann.",
+  "status": "verdict",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Special magistrate appointed for Child Victims Act cases against Maryland",
   "source": "The Daily Record",
   "url": "https://thedailyrecord.com/2026/05/15/child-victims-act-magistrate-maryland/",
@@ -1397,6 +1462,19 @@
   "location": "United States, District of Columbia",
   "case": "epstein",
   "added": "2026-10-21T00:44:52Z"
+ },
+ {
+  "title": "Weinstein's third New York trial opens on remaining rape charge",
+  "source": "DZRH (Reuters)",
+  "url": "https://www.dzrh.com.ph/post/harvey-weinsteins-third-new-york-rape-trial-set-for-opening-statements",
+  "date": "2026-04-21",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Opening statements were set in Manhattan in a third trial on the rape charge involving Jessica Mann, with Weinstein held at Rikers Island amid reports of declining health.",
+  "status": "charges",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Uber found liable in second federal bellwether trial over driver misconduct",
@@ -3184,6 +3262,32 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Judge declares mistrial on remaining rape count in Weinstein retrial",
+  "source": "The National Desk",
+  "url": "https://thenationaldesk.com/news/entertainment/ex-studio-boss-harvey-weinstein-case-judge-declares-mistrial-on-rape-charge-as-jury-foreperson-wont-deliberate-metoo-era-split-verdict-sexual-assault-conviction",
+  "date": "2025-06-12",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "The judge declared a mistrial on the third-degree rape charge involving actress Jessica Mann after the jury foreperson refused to continue deliberating.",
+  "status": "verdict",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
+  "title": "Retrial jury convicts Weinstein on one count, acquits on another",
+  "source": "WAFF (AP)",
+  "url": "https://www.waff.com/2025/06/11/jury-convicts-harvey-weinstein-top-charge-retrial-his-landmark-metoo-sex-crimes-case",
+  "date": "2025-06-11",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A Manhattan jury convicted Weinstein of a first-degree criminal sexual act involving former production assistant Miriam Haley and acquitted him of a charge involving actress Kaja Sokola, continuing to deliberate on a rape count.",
+  "status": "conviction",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Seven clergy to face discipline over Smyth abuse failures",
   "source": "The Times (via BishopAccountability.org)",
   "url": "https://www.bishop-accountability.org/2025/06/seven-priests-face-discipline/",
@@ -3327,6 +3431,19 @@
   "added": "2026-10-21T01:00:56Z"
  },
  {
+  "title": "Weinstein's New York sex crimes retrial opens",
+  "source": "Euronews",
+  "url": "https://www.euronews.com/news/2025/04/23/disgraced-movie-mogul-harvey-weinsteins-rape-retrial-opens-in-new-york-court",
+  "date": "2025-04-23",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Opening statements began in Manhattan in Weinstein's retrial on charges involving three women, after the 2020 conviction was overturned.",
+  "status": "charges",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Child Victims Act overhaul with lower caps signed into law",
   "source": "Maryland Matters",
   "url": "https://marylandmatters.org/2025/04/22/court-likely-next-stop-as-overhaul-of-child-victims-act-is-signed-into-law/",
@@ -3364,6 +3481,19 @@
   "location": "United States, Maryland",
   "case": "maryland-cva",
   "added": "2026-10-21T01:00:56Z"
+ },
+ {
+  "title": "Jury awards $1.68 billion to 40 women who accused James Toback of sexual abuse",
+  "source": "KPBS (AP)",
+  "url": "https://www.kpbs.org/news/2025/04/09/jury-awards-1-68-billion-to-women-who-accused-director-toback-of-sexual-abuse",
+  "date": "2025-04-09",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "A Manhattan civil jury found Toback liable and awarded about $1.68 billion in damages to 40 women in the Adult Survivors Act case; he did not participate in the trial.",
+  "status": "verdict",
+  "location": "United States, New York",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "New York judge refuses to pause Arthur lawsuit; Warner Bros offers film outtakes",
@@ -4133,6 +4263,19 @@
   "added": "2026-10-21T01:03:23Z"
  },
  {
+  "title": "Weinstein indicted on additional sex crime charges ahead of New York retrial",
+  "source": "PBS NewsHour (AP)",
+  "url": "https://www.pbs.org/newshour/nation/ahead-of-new-york-retrial-harvey-weinstein-is-indicted-on-additional-sex-crimes-charges",
+  "date": "2024-09-12",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A Manhattan grand jury indicted Weinstein on a new criminal sexual act charge involving a third woman, to be tried alongside the retried counts.",
+  "status": "charges",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Nevada Supreme Court ends Steve Wynn's defamation suit against the AP",
   "source": "KOLO (AP)",
   "url": "https://www.kolotv.com/2024/09/06/nevada-high-court-ends-casino-mogul-steve-wynns-defamation-suit-against-associated-press/",
@@ -4144,6 +4287,19 @@
   "location": "United States, Nevada",
   "case": "wynn-resorts",
   "added": "2026-10-21T02:07:03Z"
+ },
+ {
+  "title": "UK prosecutors drop indecent assault case against Weinstein",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2024/9/5/uk-prosecutors-drop-charges-against-harvey-weinstein",
+  "date": "2024-09-05",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "The Crown Prosecution Service discontinued the London indecent assault charges, saying there was no longer a realistic prospect of conviction.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Mistrial declared after jury deadlocks in first YDC criminal case",
@@ -4367,6 +4523,19 @@
   "added": "2026-10-21T01:00:56Z"
  },
  {
+  "title": "Dan Schneider sues 'Quiet on Set' producers for defamation",
+  "source": "Boston Globe (AP)",
+  "url": "https://www.bostonglobe.com/2024/05/01/nation/ex-nickelodeon-producer-schneider-sues-quiet-set-makers-defamation-sex-abuse-implications/",
+  "date": "2024-05-01",
+  "category": "company",
+  "institution": "Nickelodeon",
+  "summary": "Schneider sued Warner Bros. Discovery, Sony and the docuseries producers, alleging the series falsely implied he sexually abused children.",
+  "status": "lawsuit",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Appeals court upholds R. Kelly's 20-year Chicago sentence",
   "source": "NBC Chicago (AP)",
   "url": "https://nbcchicago.com/news/local/chicago-appeals-court-rejects-r-kelly-s-challenge-of-20-year-sentence/3421917",
@@ -4378,6 +4547,19 @@
   "location": "United States, Illinois",
   "case": "r-kelly",
   "added": "2026-10-21T02:08:24Z"
+ },
+ {
+  "title": "New York's highest court overturns Weinstein's 2020 rape conviction",
+  "source": "Court TV",
+  "url": "https://www.courttv.com/news/ny-appeals-court-overturns-harvey-weinsteins-2020-rape-conviction/",
+  "date": "2024-04-25",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "The New York Court of Appeals ruled 4-3 that the trial judge improperly allowed testimony about uncharged allegations, vacating Weinstein's conviction and ordering a new trial.",
+  "status": "verdict",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Justice Department agrees to $138.7 million settlement over FBI's Nassar failures",
@@ -4458,6 +4640,19 @@
   "added": "2026-10-21T01:25:12Z"
  },
  {
+  "title": "Former Nickelodeon producer Dan Schneider apologizes after 'Quiet on Set' backlash",
+  "source": "Scripps News",
+  "url": "https://scrippsnews.com/stories/ex-nickelodeon-producer-dan-schneider-apologizes-after-quiet-on-set/",
+  "date": "2024-03-20",
+  "category": "company",
+  "institution": "Nickelodeon",
+  "summary": "Schneider released a video apologizing for some workplace behavior depicted in the series while not admitting to sexual misconduct.",
+  "status": "policy",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Judge will appoint special master to oversee FCI Dublin",
   "source": "Associated Press (via News4Jax)",
   "url": "https://www.news4jax.com/news/national/2024/03/15/judge-will-appoint-special-master-to-oversee-california-federal-womens-prison-after-rampant-abuse/",
@@ -4482,6 +4677,19 @@
   "location": "United States, California",
   "case": "fci-dublin",
   "added": "2026-10-21T01:00:56Z"
+ },
+ {
+  "title": "Drake Bell to reveal childhood abuse by Nickelodeon dialogue coach in 'Quiet on Set'",
+  "source": "WDBJ7 (CNN)",
+  "url": "https://www.wdbj7.com/2024/03/07/drake-bell-reveal-he-was-sexually-abused-by-nickelodeon-dialogue-coach-new-docuseries",
+  "date": "2024-03-07",
+  "category": "company",
+  "institution": "Nickelodeon",
+  "summary": "Former Nickelodeon star Drake Bell said he would publicly identify himself as the victim of dialogue coach Brian Peck, convicted in 2004, in the docuseries examining alleged toxic conditions on Nickelodeon sets.",
+  "status": "allegation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Prince George's judge rules Child Victims Act constitutional",
@@ -4599,6 +4807,19 @@
   "location": "United Kingdom, England",
   "case": "uk-grooming-gangs",
   "added": "2026-10-21T01:03:23Z"
+ },
+ {
+  "title": "Hollywood Commission finds culture shift but weak accountability seven years after Weinstein",
+  "source": "News4JAX (AP)",
+  "url": "https://www.news4jax.com/entertainment/2024/01/11/7-years-after-weinstein-commission-finds-cultural-shift-in-hollywood-but-less-accountability/",
+  "date": "2024-01-11",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "A new Hollywood Commission survey found workers more aware of harassment and reporting options but still skeptical that powerful offenders face consequences.",
+  "status": "investigation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Wisconsin judge suspends criminal case against McCarrick, finding him unfit for trial",
@@ -4796,6 +5017,19 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Wave of celebrity abuse lawsuits filed before Adult Survivors Act window closes",
+  "source": "The Hollywood Reporter",
+  "url": "https://www.hollywoodreporter.com/news/general-news/wave-high-profile-sexual-assault-lawsuits-filed-ahead-key-deadline-1235675740/",
+  "date": "2023-11-22",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "Lawsuits against entertainment figures including Axl Rose and Jamie Foxx were filed as New York's one-year lookback window expired; the defendants denied the claims.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Brand reportedly interviewed under caution by police over three non-recent sexual offences",
   "source": "News4Jax (AP)",
   "url": "https://www.news4jax.com/entertainment/2023/11/19/reports-say-russell-brand-interviewed-by-british-police-over-claims-of-sexual-offenses/",
@@ -4976,6 +5210,19 @@
   "location": "United States, California",
   "case": "usc-tyndall",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Julia Ormond sues Weinstein, accusing CAA, Disney and Miramax of enabling him",
+  "source": "News4JAX (AP)",
+  "url": "https://www.news4jax.com/entertainment/2023/10/04/julia-ormond-sues-harvey-weinstein-saying-he-assaulted-her-accuses-caa-disney-miramax-of-enabling/",
+  "date": "2023-10-04",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Actress Julia Ormond filed a lawsuit under New York's Adult Survivors Act alleging Weinstein assaulted her in 1995 and that her agency CAA, Disney and Miramax failed to protect her.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Hadden faces hundreds of new abuse claims",
@@ -5654,6 +5901,32 @@
   "added": "2026-10-21T00:43:02Z"
  },
  {
+  "title": "Weinstein sentenced to 16 years in Los Angeles case",
+  "source": "ABC News 4 (Sinclair)",
+  "url": "https://abcnews4.com/news/nation-world/harvey-weinstein-gets-16-years-for-rape-sexual-assault-los-angeles-hollywood-california-italian-model-raped-actor-judge-lisa-b-lench",
+  "date": "2023-02-23",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A Los Angeles judge sentenced Weinstein to 16 years in prison for his California rape and sexual assault conviction, to be served after his New York sentence.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
+  "title": "California law opens three-year window for adult survivors' time-barred claims",
+  "source": "Ms. Magazine",
+  "url": "https://msmagazine.com/2023/02/23/california-law-rape-sexual-assault-statute-of-limitations/",
+  "date": "2023-02-23",
+  "category": "government",
+  "institution": "State of California",
+  "summary": "AB 2777, effective Jan. 1, 2023, revived expired civil claims by adult sexual assault survivors against entities alleged to have covered up abuse, through 2026.",
+  "status": "legislation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "R. Kelly sentenced to 20 years in Chicago case, mostly concurrent",
   "source": "CBS News",
   "url": "https://www.cbsnews.com/miami/news/r-kelly-sentence-20-years-concurrent-chicago-child-pornography-enticement/",
@@ -5732,6 +6005,19 @@
   "added": "2026-10-21T00:59:40Z"
  },
  {
+  "title": "Time's Up halts operations and shifts resources to legal defense fund",
+  "source": "KSAT (AP)",
+  "url": "https://www.ksat.com/entertainment/2023/01/21/times-up-to-halt-operations-shift-resources-to-legal-fund/",
+  "date": "2023-01-21",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "Time's Up said it would cease operations and lay off staff, transferring remaining funds to its legal defense fund after a period of turmoil.",
+  "status": "policy",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Sandusky files new post-conviction appeal in Centre County",
   "source": "CBS News Pittsburgh",
   "url": "https://www.cbsnews.com/pittsburgh/news/jerry-sandusky-files-new-appeal-in-centre-county/",
@@ -5797,6 +6083,19 @@
   "added": "2026-10-21T01:00:56Z"
  },
  {
+  "title": "Los Angeles jury convicts Weinstein of rape and sexual assault",
+  "source": "LBC",
+  "url": "https://www.lbc.co.uk/news/harvey-weinstein-guilty-rape-sexual-assault-la-trial",
+  "date": "2022-12-19",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "A Los Angeles jury found Weinstein guilty of rape and two other sexual offenses involving one woman, acquitted him on one count and deadlocked on others.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Senate report details widespread sexual abuse of women in federal prisons",
   "source": "UPI",
   "url": "https://www.upi.com/Top_News/US/2022/12/13/Senate-report-details-rampant-sexual-abuse-of-federal-female-prisoners/5561670969285/",
@@ -5821,6 +6120,32 @@
   "location": "United States, California",
   "case": "fci-dublin",
   "added": "2026-10-21T01:00:56Z"
+ },
+ {
+  "title": "38 women sue James Toback and the Harvard Club under Adult Survivors Act",
+  "source": "Hawaii News Now (AP)",
+  "url": "https://www.hawaiinewsnow.com/2022/12/07/38-women-accuse-filmmaker-james-toback-sexual-misconduct-lawsuit/",
+  "date": "2022-12-07",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "Dozens of women filed suit in New York alleging sexual misconduct by Toback over decades and naming the Harvard Club as a defendant.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
+  "title": "Five women sue Bill Cosby and NBCUniversal under New York's Adult Survivors Act",
+  "source": "ABC7 (AP)",
+  "url": "https://abc7.com/bill-cosby-sexual-assault-adult-survivors-act-new-lawsuit/12534491/",
+  "date": "2022-12-06",
+  "category": "company",
+  "institution": "NBC",
+  "summary": "Five women, including former Cosby Show actors Lili Bernard and Eden Tirl, sued Cosby and accused NBCUniversal and production companies of negligence; Cosby denied the allegations.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Five women sue Cosby and NBCUniversal under New York Adult Survivors Act",
@@ -5899,6 +6224,19 @@
   "location": "United States, Pennsylvania",
   "case": "jehovahs-witnesses",
   "added": "2026-10-21T02:13:03Z"
+ },
+ {
+  "title": "Weinstein's Los Angeles sex crimes trial opens",
+  "source": "WLRN (NPR)",
+  "url": "https://www.wlrn.org/news/2022-10-24/harvey-weinsteins-second-sex-crimes-trial-begins-in-los-angeles",
+  "date": "2022-10-24",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Opening statements began in Weinstein's second criminal trial, in Los Angeles, where he faced rape and sexual assault charges involving multiple women.",
+  "status": "charges",
+  "location": "United States, California",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Final IICSA report recommends mandatory reporting and national redress scheme",
@@ -6185,6 +6523,32 @@
   "location": "United States, California",
   "case": "southern-baptist",
   "added": "2026-10-21T02:13:03Z"
+ },
+ {
+  "title": "UK prosecutors authorize indecent assault charges against Weinstein",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2022/6/8/uk-authorises-indecent-assault-charges-against-weinstein",
+  "date": "2022-06-08",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Britain's Crown Prosecution Service authorized two counts of indecent assault against Weinstein over allegations involving a woman in London in 1996.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
+  "title": "New York appeals court upholds Weinstein's rape conviction",
+  "source": "CNN",
+  "url": "https://edition.cnn.com/2022/06/02/us/harvey-weinstein-appeal-ruling",
+  "date": "2022-06-02",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "An intermediate New York appellate court rejected Weinstein's appeal and affirmed his 2020 conviction and 23-year sentence, finding the trial judge's rulings were proper.",
+  "status": "conviction",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "New Hampshire governor signs $100 million settlement fund for youth center abuse victims",
@@ -6720,6 +7084,19 @@
   "added": "2026-10-21T02:13:03Z"
  },
  {
+  "title": "California's Silenced No More Act widens limits on workplace NDAs",
+  "source": "Malay Mail (AFP)",
+  "url": "https://www.malaymail.com/news/money/2021/10/09/california-restricts-gagging-for-employee-complaints/2011946",
+  "date": "2021-10-09",
+  "category": "government",
+  "institution": "State of California",
+  "summary": "California enacted SB 331, extending the ban on nondisclosure provisions in settlements beyond sexual harassment to all forms of workplace harassment and discrimination.",
+  "status": "legislation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Complaints of alleged abuse by Anderson surpass 2,100",
   "source": "The Detroit News",
   "url": "https://www.detroitnews.com/story/news/local/michigan/2021/10/06/university-of-michigan-doctor-robert-anderson-sexual-assault-complaints-exceed-2000/6025233001/",
@@ -6876,6 +7253,19 @@
   "added": "2026-10-21T01:03:23Z"
  },
  {
+  "title": "Time's Up CEO resigns amid fallout over Cuomo scandal",
+  "source": "NPR",
+  "url": "https://www.npr.org/2021/08/26/1031521703/tina-tchen-times-up-ceo-resigns-cuomo",
+  "date": "2021-08-26",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "Tina Tchen stepped down as Time's Up chief executive after reports that group leaders had advised New York Gov. Andrew Cuomo's team as he faced harassment allegations.",
+  "status": "policy",
+  "location": "United States, New York",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Jury selection begins in R. Kelly's Brooklyn sex trafficking trial",
   "source": "Revolt",
   "url": "https://www.revolt.tv/article/2021-08-09/47502/jury-selection-for-r-kellys-sex-trafficking-trial-begins/",
@@ -7030,6 +7420,19 @@
   "location": "United States, California",
   "case": "activision-blizzard",
   "added": "2026-10-21T02:07:03Z"
+ },
+ {
+  "title": "Weinstein extradited from New York to Los Angeles to face sex crime charges",
+  "source": "Al Jazeera",
+  "url": "https://www.aljazeera.com/news/2021/7/20/harvey-weinstein-extradited-to-california-to-face-rape-charges",
+  "date": "2021-07-20",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "Weinstein was transferred from a New York prison to Los Angeles County custody to face charges of rape and sexual assault involving several women in California.",
+  "status": "charges",
+  "location": "United States, California",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Judge gives final approval to $73 million Heaps class settlement",
@@ -7578,6 +7981,19 @@
   "added": "2026-10-21T00:59:40Z"
  },
  {
+  "title": "Anita Hill-led Hollywood Commission survey finds harassment persists",
+  "source": "Spectrum News 1 (LA Times Today)",
+  "url": "https://spectrumnews1.com/ca/la-west/la-times-today/2020/10/08/anita-hill-leads-a-survey-on-hollywood-harassment-",
+  "date": "2020-10-08",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "A survey by the Hollywood Commission found that many entertainment workers still experience harassment and that most doubt perpetrators will be held accountable.",
+  "status": "investigation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Inquiry finds Church of England was 'a hiding place for abusers'",
   "source": "Church Times",
   "url": "https://www.churchtimes.co.uk/articles/2020/9-october/news/uk/iicsa-report-church-was-a-hiding-place-for-abusers",
@@ -7810,6 +8226,19 @@
   "location": "United States, New York",
   "case": "fox-news",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "New York AG announces proposed $18.9 million settlement for Weinstein accusers",
+  "source": "CNN",
+  "url": "https://edition.cnn.com/2020/06/30/us/harvey-weinstein-victims-settlement",
+  "date": "2020-06-30",
+  "category": "company",
+  "institution": "The Weinstein Company",
+  "summary": "New York Attorney General Letitia James announced a proposed settlement of about $18.9 million with Weinstein, his former studio and its board to compensate women who alleged misconduct, a deal some accusers criticized.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "weinstein",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Australia's PM condemns Jehovah's Witnesses and others refusing to join redress scheme",
@@ -8213,6 +8642,19 @@
   "location": "United States, Indiana",
   "case": "nassar",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "SAG-AFTRA issues industry standards for intimacy coordinators",
+  "source": "Fortune",
+  "url": "https://fortune.com/2020/01/29/sag-aftra-intimacy-coordinators-guidelines",
+  "date": "2020-01-29",
+  "category": "company",
+  "institution": "SAG-AFTRA",
+  "summary": "The actors' union released standards and protocols for intimacy coordinators to oversee nude and simulated sex scenes, part of its response to on-set harassment.",
+  "status": "policy",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Judge rejects Sandusky's request for shorter sentence",
@@ -9814,6 +10256,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "California bans secret settlements in sexual harassment and assault cases",
+  "source": "KSBY",
+  "url": "https://ksby.com/news/2018/09/30/gov-jerry-brown-signs-bill-that-bans-secret-settlements-related-to-sexual-misconduct",
+  "date": "2018-09-30",
+  "category": "government",
+  "institution": "State of California",
+  "summary": "Gov. Jerry Brown signed SB 820 and other #MeToo-era bills, barring confidentiality provisions that hide facts about sexual assault and harassment in settlement agreements.",
+  "status": "legislation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Vatican defrocks Chilean priest Fernando Karadima",
   "source": "BBC News",
   "url": "https://www.bbc.com/news/world-middle-east-45677534",
@@ -10659,6 +11114,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Warner Bros. declines to renew $450 million co-financing deal with Ratner's RatPac",
+  "source": "/Film",
+  "url": "https://www.slashfilm.com/557538/brett-ratner-warner-bros/",
+  "date": "2018-04-13",
+  "category": "company",
+  "institution": "Warner Bros.",
+  "summary": "Warner Bros. let its co-financing agreement with RatPac Entertainment expire and said it had no plans to work with Ratner again.",
+  "status": "policy",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Inquiry publishes report on Rochdale and Cyril Smith-era institutions",
   "source": "IICSA",
   "url": "https://www.iicsa.org.uk/news/inquiry-publishes-rochdale-report.html",
@@ -11088,6 +11556,19 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Hollywood women launch Time's Up initiative and legal defense fund",
+  "source": "WSVN (AP)",
+  "url": "https://wsvn.com/entertainment/witherspoon-rhimes-among-founders-of-anti-harassment-group/",
+  "date": "2018-01-01",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "More than 300 women in entertainment launched Time's Up, an initiative against workplace sexual harassment that included a legal defense fund for workers in many industries.",
+  "status": "policy",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Maroney lawsuit says USA Gymnastics used a confidentiality deal to silence her",
   "source": "Los Angeles Times",
   "url": "https://www.latimes.com/local/lanow/la-me-maroney-gynnastics-settlement-20171220-story.html",
@@ -11309,6 +11790,32 @@
   "added": "2026-10-21T00:41:18Z"
  },
  {
+  "title": "Brett Ratner steps away from Warner Bros. projects after allegations",
+  "source": "NME",
+  "url": "https://www.nme.com/?p=2155674",
+  "date": "2017-11-02",
+  "category": "company",
+  "institution": "Warner Bros.",
+  "summary": "Ratner said he and his RatPac-Dune company would step back from Warner Bros.-related activity, and a planned Hugh Hefner biopic was put on hold.",
+  "status": "policy",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
+  "title": "Six women accuse director Brett Ratner of sexual harassment and misconduct",
+  "source": "CNN",
+  "url": "https://edition.cnn.com/2017/11/01/entertainment/brett-ratner-harassment",
+  "date": "2017-11-01",
+  "category": "company",
+  "institution": "Warner Bros.",
+  "summary": "A Los Angeles Times report detailed allegations by six women, including actresses Olivia Munn and Natasha Henstridge, against director and producer Brett Ratner, who denied them through his attorney.",
+  "status": "allegation",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
+ },
+ {
   "title": "Kevin Spacey accused by Anthony Rapp of advance when Rapp was 14; Spacey apologizes",
   "source": "ABC7 Chicago",
   "url": "https://abc7chicago.com/post/kevin-spacey-apologizes-after-sexual-advance-accusation-by-joliet-native/2583951/",
@@ -11320,6 +11827,19 @@
   "location": "United States, New York",
   "case": "hollywood-metoo",
   "added": "2026-10-21T00:41:18Z"
+ },
+ {
+  "title": "Dozens of women accuse director James Toback of sexual harassment",
+  "source": "KTVU (AP)",
+  "url": "https://www.ktvu.com/news/38-accuse-writer-director-james-toback-of-sexual-harassment",
+  "date": "2017-10-23",
+  "category": "company",
+  "institution": "Hollywood industry",
+  "summary": "Following a Los Angeles Times report, 38 women accused writer-director James Toback of sexual harassment spanning decades; he denied the allegations.",
+  "status": "allegation",
+  "location": "United States, New York",
+  "case": "hollywood-metoo",
+  "added": "2026-10-21T03:24:49Z"
  },
  {
   "title": "Report: O'Reilly settled analyst's harassment claim for $32 million before contract renewal",
