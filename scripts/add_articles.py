@@ -57,6 +57,8 @@ def main(paths):
             seen.add(key)
             keep = {k: str(e[k]).strip() for k in REQUIRED}
             keep["location"] = str(e.get("location", "")).strip()
+            if e.get("case"):
+                keep["case"] = str(e["case"]).strip()
             keep["added"] = stamp
             existing.append(keep)
             added += 1

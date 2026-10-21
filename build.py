@@ -16,6 +16,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 DATA = ROOT / "data" / "articles.json"
+CASES = ROOT / "data" / "cases.json"
 STATIC = ROOT / "static"
 OUT = ROOT / "public"
 
@@ -54,6 +55,9 @@ def fmt_date(d):
     return d.strftime("%b %-d, %Y")
 
 
+CASE_META = json.loads(CASES.read_text()) if CASES.exists() else {}
+
+
 def load():
     items = json.loads(DATA.read_text())
     for it in items:
@@ -88,6 +92,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
 <header class="site-head">
   <a class="brand" href="/">{SITE_NAME}</a>
   <nav>
+    <a href="/cases/">Major cases</a>
     <a href="/institutions/">Institutions</a>
     <a href="/about/">About &amp; standards</a>
     <a href="/feed.xml">RSS</a>
@@ -106,7 +111,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head=""):
 """
 
 
-def entry_html(it, show_institution=True):
+def entry_html(it, show_institution=True, show_case=True):
     cat = it["category"]
     status = it.get("status", "allegation")
     inst = ""
@@ -114,30 +119,35 @@ def entry_html(it, show_institution=True):
         inst = (f'<a class="inst" href="/institutions/{it["_inst_slug"]}/">'
                 f'{esc(it["institution"])}</a>')
     loc = f'<span class="loc">{esc(it["location"])}</span>' if it.get("location") else ""
+    case = ""
+    if show_case and it.get("case") and it["case"] in CASE_META:
+        case = f'<a class="case" href="/cases/{it["case"]}/">{esc(CASE_META[it["case"]]["title"])}</a>'
+
     search_blob = " ".join([it["title"], it["institution"], it["summary"],
                             it["source"], it.get("location", ""),
-                            STATUSES.get(status, status), CATEGORIES.get(cat, "")]).lower()
+                            STATUSES.get(status, status), CATEGORIES.get(cat, ""),
+                            CASE_META.get(it.get("case", ""), {}).get("title", "")]).lower()
     return f"""<li class="entry cat-{cat}" data-cat="{cat}" data-status="{status}" data-q="{esc(search_blob)}">
   <time datetime="{it['date']}">{fmt_date(it['_date'])}</time>
   <div class="body">
     <h3><a href="{esc(it['url'])}" rel="noopener nofollow" target="_blank">{esc(it['title'])}</a></h3>
     <p class="summary">{esc(it['summary'])}</p>
     <p class="meta"><span class="status s-{status}">{STATUSES.get(status, status.title())}</span>
-      {inst}{loc}<span class="src">Reported by {esc(it['source'])}</span></p>
+      {inst}{case}{loc}<span class="src">Reported by {esc(it['source'])}</span></p>
   </div>
 </li>"""
 
 
-def grouped_list(items, show_institution=True):
+def grouped_list(items, show_institution=True, show_case=True, year_only=False):
     out, current = [], None
     for it in items:
-        month = it["_date"].strftime("%B %Y")
+        month = it["_date"].strftime("%Y" if year_only else "%B %Y")
         if month != current:
             if current is not None:
                 out.append("</ol></section>")
             out.append(f'<section class="month"><h2>{month}</h2><ol class="entries">')
             current = month
-        out.append(entry_html(it, show_institution))
+        out.append(entry_html(it, show_institution, show_case))
     if current is not None:
         out.append("</ol></section>")
     return "\n".join(out)
@@ -216,6 +226,42 @@ def build_institutions(items):
     (d / "index.html").write_text(page("Institutions", body, path="/institutions/"))
 
 
+def build_cases(items):
+    by_case = defaultdict(list)
+    for it in items:
+        if it.get("case") in CASE_META:
+            by_case[it["case"]].append(it)
+    rows = []
+    for slug, meta in sorted(CASE_META.items(), key=lambda kv: kv[1]["title"].lower()):
+        its = sorted(by_case.get(slug, []), key=lambda i: i["_date"])
+        if not its:
+            continue
+        span = f"{its[0]['_date'].year}" + (f"–{its[-1]['_date'].year}" if its[-1]['_date'].year != its[0]['_date'].year else "")
+        body = f"""<main id="main">
+<section class="intro narrow">
+  <p class="crumb"><a href="/cases/">All major cases</a></p>
+  <h1>{esc(meta['title'])}</h1>
+  <p class="lede">{esc(meta['summary'])}</p>
+  <p class="count">{len(its)} developments, {span}, oldest first.</p>
+</section>
+<div class="ledger timeline">{grouped_list(its, show_case=False, year_only=True)}</div>
+</main>"""
+        d = OUT / "cases" / slug
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "index.html").write_text(page(meta["title"], body, path=f"/cases/{slug}/", description=meta["summary"]))
+        rows.append(f'<li><a href="/cases/{slug}/">{esc(meta["title"])}</a>'
+                    f'<p>{esc(meta["summary"])}</p><span>{len(its)} developments · {span}</span></li>')
+    body = f"""<main id="main">
+<section class="intro narrow"><h1>Major cases</h1>
+<p class="lede">The full history of the largest scandals, from first reports through criminal cases, civil
+litigation and reforms. Each development links to the reporting at the time.</p></section>
+<ul class="cases">{''.join(rows)}</ul>
+</main>"""
+    d = OUT / "cases"
+    d.mkdir(parents=True, exist_ok=True)
+    (d / "index.html").write_text(page("Major cases", body, path="/cases/"))
+
+
 def build_about():
     src = (ROOT / "about.html").read_text()
     d = OUT / "about"
@@ -243,6 +289,7 @@ def build_feed(items):
 def build_sitemap(items):
     urls = [f"{SITE_URL}/", f"{SITE_URL}/institutions/", f"{SITE_URL}/about/"]
     urls += sorted({f"{SITE_URL}/institutions/{it['_inst_slug']}/" for it in items})
+    urls += sorted({f"{SITE_URL}/cases/{it['case']}/" for it in items if it.get("case") in CASE_META})
     body = "".join(f"<url><loc>{u}</loc></url>" for u in urls)
     (OUT / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>')
@@ -258,6 +305,7 @@ def main():
     items = load()
     (OUT / "index.html").write_text(build_index(items))
     build_institutions(items)
+    build_cases(items)
     build_about()
     build_feed(items)
     build_sitemap(items)

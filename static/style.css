@@ -143,3 +143,11 @@ a:hover { text-decoration-thickness: 2px; }
   .entry { grid-template-columns: 1fr; gap: .35rem; }
   .entry .body { padding-left: .85rem; }
 }
+
+/* Major cases */
+.case { font-weight: 500; }
+.cases { list-style: none; margin: 0; padding: 0 0 3rem; display: grid; gap: 0; }
+.cases li { padding: 1.1rem 0; border-bottom: 1px solid var(--rule); max-width: 46rem; }
+.cases li a { font-weight: 700; font-size: 1.15rem; }
+.cases li p { margin: .3rem 0; }
+.cases li span { color: var(--muted); font-size: .9rem; font-variant-numeric: tabular-nums; }
