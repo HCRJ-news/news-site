@@ -173,21 +173,31 @@ def grouped_list(items, show_institution=True, show_case=True, year_only=False):
 
 
 def logo_wall(items):
-    counts = defaultdict(int)
+    """Left menu: logos of institutions at the center of each major case, linking to the case timeline."""
+    by_case = defaultdict(lambda: defaultdict(int))
     for it in items:
-        counts[it["institution"]] += 1
-    tiles = []
-    for name, n in sorted(counts.items(), key=lambda kv: -kv[1]):
-        slug = slugify(name)
-        if not (ROOT / "logos" / f"{slug}.png").exists():
+        if it.get("case") in CASE_META:
+            by_case[it["case"]][it["institution"]] += 1
+    inst_cat = {it["institution"]: it["category"] for it in items}
+    rank = {"company": 0, "school": 1, "religious": 2, "government": 3}
+    cands = []
+    for case, insts in by_case.items():
+        for inst, n in insts.items():
+            cands.append((rank.get(inst_cat.get(inst), 4), -n, inst, case))
+    seen, tiles = set(), []
+    for _, _, inst, case in sorted(cands):
+        slug = slugify(inst)
+        if slug in seen or not (ROOT / "logos" / f"{slug}.png").exists():
             continue
-        tiles.append(f'<a class="logo" href="/institutions/{slug}/" title="{esc(name)}: {n} {"report" if n == 1 else "reports"}">'
-                     f'<img src="/logos/{slug}.png" alt="{esc(name)}" width="64" height="64" loading="lazy"></a>')
-    return f"""<aside class="wall" aria-label="Institutions in the index">
-  <h2>Named in sexual abuse cases</h2>
-  <p>Every organization here appears in reporting on abuse, lawsuits or investigations. Select one to see its record.</p>
+        seen.add(slug)
+        title = CASE_META[case]["title"]
+        tiles.append(f'<a class="logo" href="/cases/{case}/" title="{esc(inst)}: {esc(title)}">'
+                     f'<img src="/logos/{slug}.png" alt="{esc(inst)}" width="64" height="64" loading="lazy"></a>')
+    return f"""<aside class="wall" aria-label="Major cases by institution">
+  <h2>Major cases</h2>
+  <p>Organizations at the center of the biggest sexual abuse cases. Select a logo for the full history.</p>
   <div class="tiles">{''.join(tiles)}</div>
-  <a class="all" href="/institutions/">All institutions</a>
+  <a class="all" href="/cases/">All major cases</a>
 </aside>"""
 
 
@@ -220,11 +230,10 @@ def build_index(items):
     body = f"""<main id="main">
 <section class="intro">
   <h1>Sexual Abuse Litigation and Resources for Victims</h1>
-  <p class="lede">{TAGLINE} Latest entry {updated}.</p>
+  <p class="lede">{TAGLINE}</p>
   <form class="filters" role="search" onsubmit="return false">
     <label class="search"><span class="sr">Search</span>
       <input type="search" id="q" placeholder="Search by institution, place or keyword" autocomplete="off"></label>
-    <div class="chips" role="group" aria-label="Institution type">{''.join(chips)}</div>
     <label class="status-filter">Stage
       <select id="status"><option value="">Any stage</option>{status_opts}</select></label>
   </form>
@@ -232,11 +241,11 @@ def build_index(items):
 </section>
 {featured}
 <div class="with-wall">
+{logo_wall(items)}
 <div class="ledger" id="ledger">
 {grouped_list(items)}
 <p class="empty" id="empty" hidden>No entries match. Clear the search or pick a different stage.</p>
 </div>
-{logo_wall(items)}
 </div>
 </main>
 <script src="/filter.js" defer></script>"""
