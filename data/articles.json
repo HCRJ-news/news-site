@@ -1,5 +1,55 @@
 [
  {
+  "title": "Jury hears from sixth complainant as Brand trial turns to alleged assault at his home",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-21/russell-brand-trial-hears-more-evidence-in-week-two/107290296",
+  "date": "2026-10-20",
+  "category": "government",
+  "institution": "Crown Prosecution Service",
+  "summary": "Prosecutors began presenting the allegations of a sixth woman, playing parts of her police interview in which she says an encounter at Brand's home turned non-consensual a week after consensual contact. Brand denies all seven charges.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "russell-brand",
+  "added": "2026-10-21T13:36:20Z"
+ },
+ {
+  "title": "Lawsuit accuses Alpha Delta Phi and University of Chicago of ignoring years of assault reports at chapter",
+  "source": "CBS News Chicago",
+  "url": "https://www.cbsnews.com/chicago/news/woman-sues-alpha-delta-phi-university-of-chicago-rape-frat-party/",
+  "date": "2026-10-20",
+  "category": "school",
+  "institution": "University of Chicago",
+  "summary": "An anonymous student's Cook County suit alleges she was assaulted at a February fraternity party and that the fraternity and university knew of sexual assault reports at the chapter dating to 2009 but required no safeguards. The fraternity says it suspended the member; police are still investigating.",
+  "status": "lawsuit",
+  "location": "United States, Illinois",
+  "added": "2026-10-21T13:36:20Z"
+ },
+ {
+  "title": "Seventeen Democratic attorneys general urge Congress to pass second Epstein files bill",
+  "source": "Spectrum News",
+  "url": "https://spectrumnews1.com/ky/louisville/news/2026/10/20/democratic-state-ags-epstein",
+  "date": "2026-10-20",
+  "category": "government",
+  "institution": "U.S. Congress",
+  "summary": "In a letter to congressional leaders, state attorneys general backed Rep. Thomas Massie's bill requiring the Justice Department to share unredacted Epstein records with state and local prosecutors. The department says withheld files are duplicates, unrelated or privileged.",
+  "status": "legislation",
+  "location": "United States, District of Columbia",
+  "case": "epstein",
+  "added": "2026-10-21T13:36:20Z"
+ },
+ {
+  "title": "Massachusetts AG meets clergy abuse survivors, renews push to end statute of limitations",
+  "source": "GBH News",
+  "url": "https://www.wgbh.org/news/local/2026-10-20/survivors-meet-privately-with-ag-after-release-of-clergy-abuse-investigation",
+  "date": "2026-10-20",
+  "category": "religious",
+  "institution": "Dioceses of Worcester, Springfield and Fall River",
+  "summary": "Weeks after her report on three dioceses, Attorney General Andrea Campbell met privately with survivors and described her office's push to lift time limits, remove the charitable immunity cap and open a lookback window. Some survivors said investigators never contacted them.",
+  "status": "legislation",
+  "location": "United States, Massachusetts",
+  "added": "2026-10-21T13:36:20Z"
+ },
+ {
   "title": "Amazon employee sues, saying company failed to protect her after she reported rape by a senior manager",
   "source": "KIRO 7",
   "url": "https://www.kiro7.com/news/local/amazon-employee-sues-alleging-company-failed-protect-her-after-reporting-senior-manager-rape/P57OQV6FF5DCXHAYY5RLRVF3WM/",
@@ -121,6 +171,18 @@
   "status": "lawsuit",
   "location": "United States, Illinois",
   "added": "2026-10-20T20:39:36Z"
+ },
+ {
+  "title": "Taunton State Hospital nurse sues Massachusetts agencies over alleged workplace assault and retaliation",
+  "source": "Boston.com",
+  "url": "https://boston.com/news/local-news/2026/10/19/taunton-state-hospital-nurse-lawsuit-sexual-assault",
+  "date": "2026-10-19",
+  "category": "government",
+  "institution": "Massachusetts Department of Mental Health",
+  "summary": "A nurse alleges the state kept a coworker on the job despite two earlier complaints before he allegedly assaulted her in 2025, then tried to reassign her while colleagues retaliated. The coworker faces criminal charges and has pleaded not guilty; the department says it acted promptly and later fired him.",
+  "status": "lawsuit",
+  "location": "United States, Massachusetts",
+  "added": "2026-10-21T13:36:20Z"
  },
  {
   "title": "Lawsuit says Horry County Schools ignored warning signs before Aynor High teacher's arrest",
