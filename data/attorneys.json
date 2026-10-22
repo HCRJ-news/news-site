@@ -79,6 +79,17 @@
   ]
  },
  {
+  "name": "Rus Rilee",
+  "firm": "Rilee & Associates",
+  "base": "Bedford, New Hampshire",
+  "summary": "His small firm led the wave of lawsuits, beginning in 2020, by people who say they were abused as children at New Hampshire's Youth Development Center, later working alongside Nixon Peabody.",
+  "cases": ["new-hampshire-ydc"],
+  "outcomes": [
+   {"year": "2024", "institution": "State of New Hampshire", "result": "$38 million jury verdict for a former Youth Development Center resident in the first YDC abuse trial", "role": "Trial counsel for the plaintiff, with Nixon Peabody", "source": "NHPR", "url": "https://www.nhpr.org/nh-news/2024-05-03/jury-awards-38m-to-plaintiff-in-landmark-nh-child-abuse-lawsuit"},
+   {"year": "2024", "institution": "State of New Hampshire", "result": "A judge cut the $38 million award to $475,000 under the state's damages cap; the plaintiff appealed, and the New Hampshire Supreme Court heard arguments in November 2025", "role": "Counsel for the plaintiff", "source": "InDepthNH", "url": "https://indepthnh.org/2024/11/12/miscarriage-of-justice-judge-upholds-cap-in-ydc-abuse-trial-award-reduced-from-38m-to-475000/"}
+  ]
+ },
+ {
   "name": "Ken Rothweiler",
   "firm": "Eisenberg, Rothweiler, Winkler, Eisenberg & Jeck",
   "base": "Pennsylvania",
