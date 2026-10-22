@@ -1,5 +1,30 @@
 [
  {
+  "title": "Lawsuit accuses late Providence bishop Louis Gelineau of abusing an altar boy in the 1980s",
+  "source": "NBC 10 WJAR",
+  "url": "https://turnto10.com/news/local/lawsuit-accuses-former-roman-catholic-diocese-of-providence-bishop-louis-gelineau-abuse-priest-barrington-rhode-island-october-21-2026",
+  "date": "2026-10-21",
+  "category": "religious",
+  "institution": "Diocese of Providence",
+  "summary": "An anonymous plaintiff alleges he was abused at a Barrington parish by a credibly accused priest and by the former bishop, who died in 2024, and that the diocese ignored warning signs. It is one of dozens of suits filed since a June Rhode Island law reopened older claims; the diocese says it will respond in court.",
+  "status": "lawsuit",
+  "location": "United States, Rhode Island",
+  "case": "catholic-church-us",
+  "added": "2026-10-22T01:34:09Z"
+ },
+ {
+  "title": "Records show Oregon's Central School District received months of warnings before teacher's sex-crime charges",
+  "source": "KPTV",
+  "url": "https://www.kptv.com/2026/10/21/nobody-listened-records-show-oregon-school-ignored-warnings-months-about-teacher-facing-sex-crimes/",
+  "date": "2026-10-21",
+  "category": "school",
+  "institution": "Central School District (Central High School)",
+  "summary": "District records show parents and students raised concerns about former teacher and coach Ian Imamura for about a year before the district opened an investigation in May 2026. Imamura has pleaded not guilty to felony sex charges involving a student; the district says every complaint was investigated.",
+  "status": "investigation",
+  "location": "United States, Oregon",
+  "added": "2026-10-22T01:34:09Z"
+ },
+ {
   "title": "Defence cross-examines youngest complainant over alleged 2009 rape at Brand's home",
   "source": "ABC News (Australia)",
   "url": "https://www.abc.net.au/news/2026-10-22/russell-brand-trial-hears-from-sixth-accuser/107294572",
@@ -36,6 +61,18 @@
   "status": "investigation",
   "location": "Australia, Western Australia",
   "added": "2026-10-21T19:35:13Z"
+ },
+ {
+  "title": "Cornell disputes Jane Doe's account that president questioned her delay in reporting alleged gang rape",
+  "source": "ABC News",
+  "url": "https://abcnews.com/US/jane-doe-felt-unsupported-disbelieved-cornell-president/story?id=137427708",
+  "date": "2026-10-20",
+  "category": "school",
+  "institution": "Cornell University",
+  "summary": "In a letter to the faculty senate, the former student suing Cornell over an alleged 2024 fraternity gang rape said she felt disbelieved by President Michael Kotlikoff; the university says the remark was misreported. The letter surfaced as faculty weigh a no-confidence resolution and the state attorney general takes over as special prosecutor.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "added": "2026-10-22T01:34:09Z"
  },
  {
   "title": "Dallas ISD to pay $1 million to settle DOJ claims it failed to report a teacher's alleged misconduct",
