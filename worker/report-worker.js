@@ -7,7 +7,7 @@ import { EmailMessage } from "cloudflare:email";
 
 const FROM = "reports@sexabuselitigation.org";
 const TO = "report@hollywoodjustice.org";
-const LIMITS = { what: 10000, org: 300, when: 120, where: 200, reported: 120, contact: 200 };
+const LIMITS = { what: 10000, org: 300, when: 120, where: 200, reported: 120, contact: 200, came_from: 120, landing: 200 };
 const clean = (v, max) => String(v ?? "").replace(/\r\n?/g, "\n").trim().slice(0, max);
 const json = (obj, status = 200) =>
   new Response(JSON.stringify(obj), { status, headers: { "Content-Type": "application/json" } });
@@ -44,6 +44,8 @@ export default {
       r.what,
       "",
       "---",
+      "Found the site via: " + (r.came_from || "Not recorded"),
+      "First page opened: " + (r.landing || "Not recorded"),
       "This report was not stored on the website. The sender's IP address was not recorded.",
     ].join("\r\n");
     const raw = [

@@ -88,6 +88,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head="", full_titl
 <link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="/feed.xml">
 <link rel="preload" href="/public-sans-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/style.css">
+<script src="/src.js" defer></script>
 <meta property="og:title" content="{esc(full_title)}">
 <meta property="og:description" content="{esc(description)}">
 <meta property="og:type" content="{og_type}">

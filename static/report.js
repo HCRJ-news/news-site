@@ -28,6 +28,10 @@
     status.textContent = "Sending your report…";
     var data = {};
     new FormData(form).forEach(function (v, k) { data[k] = v; });
+    try {
+      var src = JSON.parse(sessionStorage.getItem("sal_src") || "null");
+      if (src) { data.came_from = src.from; data.landing = src.landing; }
+    } catch (e) {}
     fetch("/api/report", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
