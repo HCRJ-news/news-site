@@ -1,16 +1,5 @@
 [
  {
-  "name": "Gloria Allred",
-  "firm": "Allred, Maroko & Goldberg",
-  "base": "Los Angeles, California",
-  "summary": "Women's rights attorney who has represented accusers in many of the highest-profile sexual misconduct cases of the past four decades.",
-  "cases": ["cosby"],
-  "outcomes": [
-   {"year": "2014", "institution": "University of Connecticut", "result": "About $1.29 million to settle a Title IX suit by five students over the university's handling of their sexual assault reports", "role": "Counsel for the students", "source": "CT Mirror", "url": "https://ctmirror.org/2014/07/18/uconn-pays-1-1m-to-settle-lawsuit-over-sexual-assault-allegations/"},
-   {"year": "2022", "institution": "Bill Cosby", "result": "Civil jury found Cosby sexually abused a teenager in 1975 and awarded $500,000 in compensatory damages", "role": "Counsel for the plaintiff, with partner Nathan Goldberg as trial attorney", "source": "Court TV (Associated Press)", "url": "https://www.courttv.com/news/civil-jury-finds-bill-cosby-sexually-abused-teenager-in-1975/"}
-  ]
- },
- {
   "name": "Jeff Anderson",
   "firm": "Jeff Anderson & Associates",
   "base": "St. Paul, Minnesota",
