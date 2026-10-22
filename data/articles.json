@@ -1,5 +1,53 @@
 [
  {
+  "title": "Lawsuits say Florida church and Christian academy hired youth pastor despite warnings about him",
+  "source": "WFTV 9",
+  "url": "https://www.wftv.com/news/local/volusia-county/two-lawsuits-filed-against-volusia-county-church-groups-over-alleged-sexual-abuse/N64ARCXKEJHAVEYH4PQESBI2XY/",
+  "date": "2026-10-21",
+  "category": "religious",
+  "institution": "Edgewater Alliance Church",
+  "summary": "Two civil suits accuse the Christian and Missionary Alliance, Edgewater Alliance Church and Warner Christian Academy of giving a youth pastor access to children in 2004 despite an alleged warning from a relative about his conduct with boys. The man was investigated by police but never charged; the institutions had not commented in the report.",
+  "status": "lawsuit",
+  "location": "United States, Florida",
+  "added": "2026-10-22T07:41:33Z"
+ },
+ {
+  "title": "Ghana parliamentary committee demands probe of Obuasi school officials who allegedly ignored complaints",
+  "source": "The Ghanaian Chronicle",
+  "url": "https://thechronicle.com.gh/parliament-demands-action-on-obuasi-sectech-sex-scandal",
+  "date": "2026-10-21",
+  "category": "school",
+  "institution": "Obuasi Senior High Technical School",
+  "summary": "Parliament's human rights committee urged police and the attorney-general to speed up the case against the arrested headmaster and to investigate staff who may have received earlier complaints without acting. It also asked education and gender ministries to support students and protect them from retaliation; the allegations remain unproven.",
+  "status": "investigation",
+  "location": "Ghana, Ashanti",
+  "added": "2026-10-22T07:41:33Z"
+ },
+ {
+  "title": "Former KIPP University Prep assistant teacher indicted on charges involving a student",
+  "source": "KSAT 12",
+  "url": "https://www.ksat.com/news/local/2026/10/21/former-san-antonio-teacher-indicted-on-child-sex-abuse-charges-records-show/",
+  "date": "2026-10-21",
+  "category": "school",
+  "institution": "KIPP University Prep High School",
+  "summary": "A Bexar County grand jury indicted a former assistant teacher at the San Antonio charter high school on indecency with a child and improper educator-student relationship charges over alleged conduct during school hours in 2025. The report did not include a response from the school.",
+  "status": "charges",
+  "location": "United States, Texas",
+  "added": "2026-10-22T07:41:33Z"
+ },
+ {
+  "title": "Air Force officer's suit accusing Charlotte Marriott of lax security after hotel-room assault heads to trial",
+  "source": "The Salty Soldier",
+  "url": "https://www.thesaltysoldier.com/2026/10/21/air-force-majors-160-million-lawsuit-against-marriott-over-hotel-room-sexual-assault-set-for-trial-next-month/",
+  "date": "2026-10-21",
+  "category": "company",
+  "institution": "Marriott International",
+  "summary": "A pseudonymous Air Force major alleges the Charlotte Marriott City Center let a known trespasser roam guest floors and failed to secure his room before a 2022 sexual assault; the intruder later pleaded guilty. The $160 million federal case is set for trial in November while the hotel defendants' summary judgment motion is pending.",
+  "status": "lawsuit",
+  "location": "United States, North Carolina",
+  "added": "2026-10-22T07:41:33Z"
+ },
+ {
   "title": "Lawsuit accuses late Providence bishop Louis Gelineau of abusing an altar boy in the 1980s",
   "source": "NBC 10 WJAR",
   "url": "https://turnto10.com/news/local/lawsuit-accuses-former-roman-catholic-diocese-of-providence-bishop-louis-gelineau-abuse-priest-barrington-rhode-island-october-21-2026",
@@ -61,6 +109,18 @@
   "status": "investigation",
   "location": "Australia, Western Australia",
   "added": "2026-10-21T19:35:13Z"
+ },
+ {
+  "title": "Bolivian survivors call Jesuits' expulsion of a laicized Catalan priest an empty gesture",
+  "source": "The Pillar (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/jesuits-expulsion-of-laicized-priest-is-empty-gesture-say-abuse-survivors/",
+  "date": "2026-10-20",
+  "category": "religious",
+  "institution": "Society of Jesus (Jesuits)",
+  "summary": "After a church process found the Catalan former priest guilty and the order expelled him, a Bolivian survivors' network said the move is symbolic because he still lives in a Jesuit residence under restrictions. A Spanish court earlier ruled he could not be prosecuted because the time limit had expired.",
+  "status": "policy",
+  "location": "Bolivia",
+  "added": "2026-10-22T07:41:33Z"
  },
  {
   "title": "Cornell disputes Jane Doe's account that president questioned her delay in reporting alleged gang rape",
