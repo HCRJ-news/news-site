@@ -1,5 +1,53 @@
 [
  {
+  "title": "Judge lets Jane Doe stay anonymous in suit against seven ex-members of Cornell's Chi Phi fraternity",
+  "source": "CBS News",
+  "url": "https://www.cbsnews.com/news/jane-doe-can-remain-anonymous-cornell-university-sexual-assault-lawsuit/",
+  "date": "2026-10-23",
+  "category": "school",
+  "institution": "Cornell University",
+  "summary": "A New York judge cited the case's profile and the risk of threats in letting the plaintiff proceed under a pseudonym and signaled the defendants could seek the same. The seven men deny the alleged 2024 assault at the fraternity house; the ruling does not address the merits.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "added": "2026-10-24T13:44:42Z"
+ },
+ {
+  "title": "Duke says football staffer named in Rolesville High groping lawsuit is no longer working with team",
+  "source": "The Fayetteville Observer (via Yahoo Sports)",
+  "url": "https://sports.yahoo.com/articles/duke-football-staffer-ranier-rackley-215727698.html",
+  "date": "2026-10-23",
+  "category": "school",
+  "institution": "Duke University",
+  "summary": "Duke called it a confidential personnel matter after reports on a civil suit accusing the former Rolesville High head coach of touching a ninth-grader in class; the Wake County school board is also a defendant. The claims are unproven and no criminal charge is reported.",
+  "status": "lawsuit",
+  "location": "United States, North Carolina",
+  "added": "2026-10-24T13:44:42Z"
+ },
+ {
+  "title": "Tufts sues to overturn arbitration award reinstating professor fired for sexual misconduct",
+  "source": "The Tufts Daily",
+  "url": "https://www.tuftsdaily.com/article/2026/10/tufts-sues-union-to-prevent-reinstatement-of-professor-fired-over-sexual-misconduct",
+  "date": "2026-10-23",
+  "category": "school",
+  "institution": "Tufts University",
+  "summary": "An arbitrator reduced the 2025 firing of a faculty member found to have violated Tufts' sexual misconduct policy to a written reprimand. Tufts asked a federal court to vacate the award, arguing reinstatement conflicts with its policy and public policy against workplace and campus misconduct.",
+  "status": "lawsuit",
+  "location": "United States, Massachusetts",
+  "added": "2026-10-24T13:44:42Z"
+ },
+ {
+  "title": "Former eXp agent settles remaining sexual assault claims against two ex-recruiters",
+  "source": "The Real Deal",
+  "url": "https://therealdeal.com/national/2026/10/23/former-exp-agents-settle-sexual-assault-case/",
+  "date": "2026-10-23",
+  "category": "company",
+  "institution": "eXp Realty",
+  "summary": "The agent's confidential settlement with the two former recruiters follows earlier settlements with the brokerage and with CEO Glenn Sanford, who was accused of ignoring warnings and admitted no liability. A separate 2024 suit by four other agents is still pending.",
+  "status": "settlement",
+  "location": "United States, California",
+  "added": "2026-10-24T13:44:42Z"
+ },
+ {
   "title": "Former Syracuse High students sue Davis School District over handling of shared nude and fake images",
   "source": "The Salt Lake Tribune",
   "url": "https://sltrib.com/news/education/2026/10/23/utah-district-did-little-help",
@@ -22,6 +70,31 @@
   "status": "lawsuit",
   "location": "United States, North Carolina",
   "added": "2026-10-24T07:45:51Z"
+ },
+ {
+  "title": "Massachusetts lawmakers show little urgency on amendment ending child sex abuse lawsuit deadlines",
+  "source": "CommonWealth Beacon (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/no-clear-signs-that-legislature-will-act-swiftly-on-child-sexual-abuse-amendment/",
+  "date": "2026-10-22",
+  "category": "government",
+  "institution": "Massachusetts Legislature",
+  "summary": "A House amendment to a health care bill would scrap the civil filing deadline for child sexual abuse claims, lift the charitable immunity cap and open a two-year lookback window, but it now sits in closed-door conference talks. The push follows the attorney general's report on abuse in three Catholic dioceses.",
+  "status": "legislation",
+  "location": "United States, Massachusetts",
+  "case": "catholic-church-us",
+  "added": "2026-10-24T13:44:42Z"
+ },
+ {
+  "title": "Former Calvary Chapel Montrose senior pastor arrested on child sex abuse charges",
+  "source": "KREX (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/former-calvary-chapel-montrose-pastor-arrested-for-child-sexual-abuse/",
+  "date": "2026-10-22",
+  "category": "religious",
+  "institution": "Calvary Chapel Montrose",
+  "summary": "Benjamin Garate, formerly senior pastor of the Colorado church, faces sex-related and child abuse charges and was held on a $60,000 bond. The church said he no longer works there, was removed from all leadership roles, and that it is cooperating with investigators.",
+  "status": "charges",
+  "location": "United States, Colorado",
+  "added": "2026-10-24T13:44:42Z"
  },
  {
   "title": "More former Radford University students say Title IX process failed them after reported assaults",
@@ -132,6 +205,30 @@
   "location": "United Kingdom, England",
   "case": "russell-brand",
   "added": "2026-10-22T13:42:40Z"
+ },
+ {
+  "title": "Former Wilmington Catholic school teacher goes on trial over alleged 1990s abuse of a student",
+  "source": "The News Journal (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/former-delaware-catholic-school-teacher-on-trial-for-child-sex-abuse/",
+  "date": "2026-10-21",
+  "category": "religious",
+  "institution": "St. Thomas the Apostle School (Wilmington)",
+  "summary": "Christopher Crisona faces multiple felony counts tied to alleged abuse of a pupil at the now-closed parish school; the defense disputes the accuser's memories. A former priest at the school, John Taggart, faces separate charges with a trial set for January.",
+  "status": "charges",
+  "location": "United States, Delaware",
+  "added": "2026-10-24T13:44:42Z"
+ },
+ {
+  "title": "Bonduel associate principal charged with repeated sexual assault of a student",
+  "source": "FOX 11 News (WLUK)",
+  "url": "https://fox11online.com/news/crisis-in-the-classroom/kaitlyn-hintz-associate-principal-bonduel-middle-high-school-repeated-sexual-assault-child-enticement-student-criminal-charge",
+  "date": "2026-10-21",
+  "category": "school",
+  "institution": "Bonduel School District",
+  "summary": "Kaitlyn Hintz, associate principal of Bonduel Middle and High School in Wisconsin, made a first court appearance on charges including repeated sexual assault of a child and was held on $500,000 cash bond. The district placed her on leave after receiving a report on Oct. 15 and contacting police.",
+  "status": "charges",
+  "location": "United States, Wisconsin",
+  "added": "2026-10-24T13:44:42Z"
  },
  {
   "title": "Cornell trustees hire Sally Yates to lead independent review of sexual assault response",
