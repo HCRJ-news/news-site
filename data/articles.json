@@ -1,5 +1,69 @@
 [
  {
+  "title": "New York archdiocese nears deal of more than $800 million to resolve about 1,300 abuse claims",
+  "source": "The New York Times (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/new-york-archdiocese-close-to-settling-sexual-abuse-claims-for-over-800-million/",
+  "date": "2026-10-24",
+  "category": "religious",
+  "institution": "Archdiocese of New York",
+  "summary": "Plaintiffs' lawyers say all claimants have accepted a settlement offering each at least $250,000 or a larger reviewed payout, plus an insurer-funded pool for holdouts and a published list of credibly accused clergy; the archdiocese says terms are still being finalized.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "catholic-church-us",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Former Newington College teacher faces nine sex charges involving a former student",
+  "source": "Greek City Times",
+  "url": "https://greekcitytimes.com/2026/10/24/deandra-kontou-haralambidis-newington-college-charges",
+  "date": "2026-10-24",
+  "category": "school",
+  "institution": "Newington College",
+  "summary": "Deandra Kontou, who taught at the Sydney boys' school and later at a public college, is on bail on charges relating to a student in her care in 2019 and has been suspended without pay; the charges are unproven.",
+  "status": "charges",
+  "location": "Australia, New South Wales",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Belize evangelical body says complaints about charged pastor were ignored by church leaders years ago",
+  "source": "Breaking Belize News",
+  "url": "https://www.breakingbelizenews.com/2026/10/24/national-evangelical-association-of-belize-aggrieved-by-charges-against-pastor-tzib-pray-for-justice/",
+  "date": "2026-10-24",
+  "category": "religious",
+  "institution": "National Evangelical Association of Belize",
+  "summary": "After pastor Kevin Tzib was charged with sexual assault and remanded, the association said victims had reportedly raised complaints with church leadership about five years ago without action and urged churches to act swiftly on such reports.",
+  "status": "charges",
+  "location": "Belize, Cayo",
+  "case": "religious-other",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Baltimore archdiocese and survivors report progress in bankruptcy talks as judge urges year-end deal",
+  "source": "WBAL-TV (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/baltimore-archdiocese-survivors-committee-make-progress-in-church-bankruptcy-settlement-talks/",
+  "date": "2026-10-23",
+  "category": "religious",
+  "institution": "Archdiocese of Baltimore",
+  "summary": "At a Chapter 11 hearing, the parties said the plan's structure is largely agreed and the dollar figure is the main sticking point; parishes and schools have joined the talks and three days of mediation are scheduled.",
+  "status": "settlement",
+  "location": "United States, Maryland",
+  "case": "catholic-church-us",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Lawton pastor charged with raping two boys over 13 years; associate accused of helping",
+  "source": "KSWO",
+  "url": "https://www.kswo.com/2026/10/23/lawton-pastor-arrested-multiple-sexual-abuse-charges/",
+  "date": "2026-10-23",
+  "category": "religious",
+  "institution": "Lawton, Oklahoma church (unnamed)",
+  "summary": "Pastor James Lamont Newton faces rape, sodomy and child lewdness counts, with police alleging he used his church role and gifts to control a victim; a second man is charged as an accessory, and investigators say earlier reports in 1998 and 1999 stalled.",
+  "status": "charges",
+  "location": "United States, Oklahoma",
+  "case": "religious-other",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
   "title": "Judge lets Jane Doe stay anonymous in suit against seven ex-members of Cornell's Chi Phi fraternity",
   "source": "CBS News",
   "url": "https://www.cbsnews.com/news/jane-doe-can-remain-anonymous-cornell-university-sexual-assault-lawsuit/",
@@ -70,6 +134,43 @@
   "status": "lawsuit",
   "location": "United States, North Carolina",
   "added": "2026-10-24T07:45:51Z"
+ },
+ {
+  "title": "Peninsula School District settles suits over ignored warnings about convicted teacher for $23.2 million",
+  "source": "MyNorthwest",
+  "url": "https://mynorthwest.com/local/23m-lawsuit-peninsula-school/4289238",
+  "date": "2026-10-22",
+  "category": "school",
+  "institution": "Peninsula School District",
+  "summary": "Families alleged administrators disregarded colleagues' concerns dating to at least 2019 about former Evergreen Elementary teacher Jordan Henderson, who was convicted of child molestation in January; the district's insurers are paying the settlement.",
+  "status": "settlement",
+  "location": "United States, Washington",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Federal indictment adds child sexual abuse material counts against former Lexington Baptist worship pastor",
+  "source": "The Post and Courier (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/federal-indictment-adds-9-sexual-abuse-charges-against-lexington-worship-singer-arrested-in-march/",
+  "date": "2026-10-22",
+  "category": "religious",
+  "institution": "Lexington Baptist Church",
+  "summary": "Worship singer Richard Channing Shealy, an interim worship pastor at Lexington Baptist and River District churches, now faces nine federal counts on top of 33 state charges filed since his March arrest; he has not been convicted.",
+  "status": "charges",
+  "location": "United States, South Carolina",
+  "case": "religious-other",
+  "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Soweto primary school teacher charged with raping pupil; Gauteng education chief promises suspension and vetting",
+  "source": "Soweto Urban (The Citizen)",
+  "url": "https://www.citizen.co.za/soweto-urban/news-headlines/local-crime-news/2026/10/22/gauteng-education-mec-addresses-community-after-teacher-arrested-for-alleged-primary-school-sexual-assault/",
+  "date": "2026-10-22",
+  "category": "school",
+  "institution": "Gauteng Department of Education",
+  "summary": "After protests, the teacher handed himself over to police; MEC Lebogang Maile said he will be suspended and pledged background checks for future appointments, while advocates questioned why the school did not act sooner.",
+  "status": "charges",
+  "location": "South Africa, Gauteng",
+  "added": "2026-10-24T19:51:08Z"
  },
  {
   "title": "Massachusetts lawmakers show little urgency on amendment ending child sex abuse lawsuit deadlines",
