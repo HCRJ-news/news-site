@@ -1,5 +1,31 @@
 [
  {
+  "title": "New York archdiocese confirms $800 million deal with about 1,300 abuse claimants; signing set for November",
+  "source": "Associated Press (via KTAR)",
+  "url": "https://ktar.com/national-news/new-yorks-archdiocese-and-survivors-of-clergy-abuse-agree-to-800-million-legal-settlement",
+  "date": "2026-10-24",
+  "category": "religious",
+  "institution": "Archdiocese of New York",
+  "summary": "After survivors' attorneys announced the agreement, Archbishop Ronald Hicks confirmed it to clergy; the deal, the second-largest by a U.S. archdiocese, becomes final only once the parties sign it, expected the week of Nov. 6.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "catholic-church-us",
+  "added": "2026-10-25T01:40:14Z"
+ },
+ {
+  "title": "Chicago archdiocese review board finds no reasonable cause in decades-old allegation, returns retired priest to ministry",
+  "source": "Chicago Sun-Times",
+  "url": "https://chicago.suntimes.com/religion/2026/10/24/chicago-archdiocese-clears-retired-priest-accused-of-sexual-abuse-approves-return-to-ministry",
+  "date": "2026-10-24",
+  "category": "religious",
+  "institution": "Archdiocese of Chicago",
+  "summary": "Cardinal Blase Cupich accepted his Independent Review Board's recommendation to close a case alleging a former South Side pastor abused a minor more than 30 years ago; the priest denied the claim, and the archdiocese says it was told a civil suit would be filed.",
+  "status": "investigation",
+  "location": "United States, Illinois",
+  "case": "catholic-church-us",
+  "added": "2026-10-25T01:40:14Z"
+ },
+ {
   "title": "New York archdiocese nears deal of more than $800 million to resolve about 1,300 abuse claims",
   "source": "The New York Times (via BishopAccountability.org)",
   "url": "https://www.bishop-accountability.org/2026/10/new-york-archdiocese-close-to-settling-sexual-abuse-claims-for-over-800-million/",
@@ -36,6 +62,31 @@
   "location": "Belize, Cayo",
   "case": "religious-other",
   "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "Portugal closes all abuse complaints against living Catholic priests without a single indictment",
+  "source": "Portugal Resident (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/sex-abuse-claims-made-against-catholic-priests-have-all-been-archived/",
+  "date": "2026-10-23",
+  "category": "religious",
+  "institution": "Catholic Church in Portugal",
+  "summary": "According to Expresso, 15 investigations stemming from the independent commission and 28 complaints sent to its successor body, Grupo Vita, were archived, mostly because the alleged offences were time-barred or evidence was judged insufficient.",
+  "status": "investigation",
+  "location": "Portugal, Lisbon",
+  "case": "catholic-church-global",
+  "added": "2026-10-25T01:40:14Z"
+ },
+ {
+  "title": "Thirteen more women sue New Jersey OB-GYN practice, alleging former doctor abused patients during exams",
+  "source": "Hoodline",
+  "url": "https://hoodline.com/2026/10/13-more-women-accuse-lawrence-township-ob-gyn-of-sexual-abuse-dating-to-2003/",
+  "date": "2026-10-23",
+  "category": "company",
+  "institution": "Delaware Valley OB-GYN and Infertility Group",
+  "summary": "The Mercer County suit, which follows a 31-plaintiff case filed in July, accuses the Lawrence Township practice and affiliated companies of negligent oversight of a former physician whose license was temporarily suspended in 2024; he has not been criminally charged.",
+  "status": "lawsuit",
+  "location": "United States, New Jersey",
+  "added": "2026-10-25T01:40:14Z"
  },
  {
   "title": "Baltimore archdiocese and survivors report progress in bankruptcy talks as judge urges year-end deal",
@@ -134,6 +185,19 @@
   "status": "lawsuit",
   "location": "United States, North Carolina",
   "added": "2026-10-24T07:45:51Z"
+ },
+ {
+  "title": "Perry County, Kentucky Baptist pastor indicted on federal charges over sexual images of minors",
+  "source": "Hazard Herald",
+  "url": "https://www.hazard-herald.com/news/pastor-of-perry-county-church-now-facing-federal-child-porn-indictment/article_304f15a4-4196-4b77-92c9-23b5f7d08554.html",
+  "date": "2026-10-22",
+  "category": "religious",
+  "institution": "Mount Olivet Baptist Church (Cornettsville)",
+  "summary": "A federal grand jury in London, Ky., charged pastor Jared Salmons with producing obscene depictions of minors and receiving and possessing child sexual abuse material; the Kentucky Baptist Convention said it was aware of the case. The charges are unproven.",
+  "status": "charges",
+  "location": "United States, Kentucky",
+  "case": "religious-other",
+  "added": "2026-10-25T01:40:14Z"
  },
  {
   "title": "Peninsula School District settles suits over ignored warnings about convicted teacher for $23.2 million",
