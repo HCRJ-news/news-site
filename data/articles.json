@@ -1,5 +1,18 @@
 [
  {
+  "title": "House Judiciary Democrats release Epstein staff report, renew call for special counsel on DOJ handling",
+  "source": "TIME",
+  "url": "https://time.com/article/2026/10/26/house-democrats-unveil-new-details-from-trump-accuser",
+  "date": "2026-10-26",
+  "category": "government",
+  "institution": "U.S. Congress",
+  "summary": "Democrats on the House Judiciary Committee released a staff report compiling allegations involving President Trump and others tied to Epstein, including a newly reported 1993 rape allegation, and Rep. Jamie Raskin asked the Justice Department to appoint an independent special counsel. The White House denies the allegations.",
+  "status": "investigation",
+  "location": "United States, District of Columbia",
+  "case": "epstein",
+  "added": "2026-10-26T19:35:39Z"
+ },
+ {
   "title": "Brand's former personal assistant describes his treatment of women as prosecution case nears its end",
   "source": "BritBrief",
   "url": "https://britbrief.co.uk/crime/courts/brands-ex-assistant-tells-court-he-treated-women-poorly.html",
@@ -23,6 +36,19 @@
   "status": "policy",
   "location": "Ghana, Upper East",
   "added": "2026-10-26T07:41:46Z"
+ },
+ {
+  "title": "Vermont diocese's bid to exit bankruptcy heads to December hearing after creditors rejected $29.4M offer",
+  "source": "VTDigger",
+  "url": "https://vtdigger.org/2026/10/25/whats-behind-the-vermont-catholic-churchs-ever-evolving-bankruptcy-case-and-whats-next/",
+  "date": "2026-10-25",
+  "category": "religious",
+  "institution": "Diocese of Burlington",
+  "summary": "The Burlington diocese has asked to end its two-year Chapter 11 case, citing about $2 million in legal fees, after the claimants' committee rejected a $29.4 million offer for 119 abuse claimants. A judge is set to weigh dismissal on Dec. 8; claimants are also pursuing roughly $500 million in parish trust assets.",
+  "status": "settlement",
+  "location": "United States, Vermont",
+  "case": "catholic-church-us",
+  "added": "2026-10-26T19:35:39Z"
  },
  {
   "title": "Ex-West Virginia delegate and fired Fayette County teacher facing child exploitation charges seeks release",
@@ -174,6 +200,18 @@
   "location": "Belize, Cayo",
   "case": "religious-other",
   "added": "2026-10-24T19:51:08Z"
+ },
+ {
+  "title": "University of Arizona police investigating sexual assault report at Sigma Phi Epsilon house",
+  "source": "KGUN 9",
+  "url": "https://www.kgun9.com/news/local-news/uapd-crime-logs-show-multiple-sexual-assault-complaints",
+  "date": "2026-10-23",
+  "category": "school",
+  "institution": "University of Arizona",
+  "summary": "University police are investigating a student's report that she was sexually assaulted at the Sigma Phi Epsilon chapter house in August; no charges have been referred. Campus crime logs show about 20 rape or sexual assault reports since January, amid a broader crackdown on fraternity misconduct at the university.",
+  "status": "investigation",
+  "location": "United States, Arizona",
+  "added": "2026-10-26T19:35:39Z"
  },
  {
   "title": "Kansas Senate race ad revives scrutiny of megachurch's handling of 2005 youth retreat complaint",
