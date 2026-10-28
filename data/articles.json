@@ -1,5 +1,55 @@
 [
  {
+  "title": "Russell Brand finishes giving evidence after cross-examination focused on consent",
+  "source": "LBC",
+  "url": "https://www.lbc.co.uk/article/russell-brand-rape-trial-philandering-5Hjdkb8_2/",
+  "date": "2026-10-28",
+  "category": "government",
+  "institution": "Crown Prosecution Service",
+  "summary": "Under cross-examination, Brand acknowledged years of what he called reckless womanising and said it was wrong to use fame for sexual access, but denied any non-consensual conduct. He completed his evidence on the trial's latest day; he denies all six remaining charges, one of which was amended to attempted indecent assault.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "russell-brand",
+  "added": "2026-10-28T19:35:01Z"
+ },
+ {
+  "title": "Two men sue Diocese of Metuchen, saying a priest who ran a boys' retreat abused them for years",
+  "source": "NJ.com (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/n-j-priest-ran-retreat-110141837.html",
+  "date": "2026-10-28",
+  "category": "religious",
+  "institution": "Diocese of Metuchen",
+  "summary": "A suit filed in Somerset County names the diocese, a Raritan shrine chapel and a religious order, alleging they gave a priest unchecked access to the plaintiffs as children from 1989 onward. The diocese says the priest was removed in the 1990s and that it had not yet been served.",
+  "status": "lawsuit",
+  "location": "United States, New Jersey",
+  "case": "catholic-church-us",
+  "added": "2026-10-28T19:35:01Z"
+ },
+ {
+  "title": "Law firm probes possible Australian class action over Uber's handling of driver sexual misconduct",
+  "source": "The Daily Aus",
+  "url": "https://thedailyaus.com.au/crime/uber-class-action-sexual-assault-28-10-2026",
+  "date": "2026-10-28",
+  "category": "company",
+  "institution": "Uber",
+  "summary": "Slater and Gordon is examining whether Uber's driver screening, safety systems and complaint handling adequately protected women passengers in Australia; no case has been filed yet. Uber says it takes every report seriously and has invested heavily in safety.",
+  "status": "investigation",
+  "location": "Australia",
+  "added": "2026-10-28T19:35:01Z"
+ },
+ {
+  "title": "Former Sardis Middle School teacher gets 20-year maximum for sexual contact with an eighth-grade pupil",
+  "source": "WBRC / WAFF",
+  "url": "https://www.wbrc.com/2026/10/28/former-sardis-middle-school-teacher-sentenced-20-years-prison-sex-crimes-against-student/",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Sardis Middle School",
+  "summary": "William Brock, who pleaded guilty to a teacher-student sex offence involving a pupil in his class, was sentenced to the maximum 20 years and must register as a sex offender for life.",
+  "status": "conviction",
+  "location": "United States, Alabama",
+  "added": "2026-10-28T19:35:01Z"
+ },
+ {
   "title": "Russell Brand takes the stand and denies every count as prosecution closes its case",
   "source": "Irish Examiner",
   "url": "https://www.irishexaminer.com/world/arid-41929959.html",
@@ -60,6 +110,19 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "California appeals court upholds Danny Masterson's rape convictions",
+  "source": "Yahoo Entertainment",
+  "url": "https://www.yahoo.com/entertainment/celebrity/articles/danny-mastersons-rape-conviction-appeal-235624319.html",
+  "date": "2026-10-27",
+  "category": "company",
+  "institution": "Netflix",
+  "summary": "A three-judge panel affirmed the actor's 2023 convictions on two counts of forcible rape and rejected claims of judicial bias against Scientology. His lawyers plan to take the case to the California Supreme Court.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "hollywood-metoo",
+  "added": "2026-10-28T19:35:01Z"
  },
  {
   "title": "Former Chester police officer charged after database audit flags searches tied to child abuse images",
