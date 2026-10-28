@@ -29,3 +29,9 @@ When a major case is in trial or dominating the news (e.g. Russell Brand, Octobe
 significant reported day (openings, each witness, verdicts, sentencing) with the right `case` slug from
 data/cases.json, rather than one entry for the whole trial. Add a new slug to data/cases.json for any new
 major case (title + one-sentence neutral summary).
+
+## Statute of limitations guide (data/sol.json)
+If an article you add reports that a state's sexual-abuse statute of limitations changed (a bill signed into law, a
+lookback window opening or closing, or a court striking one down), update that state's entry in data/sol.json in
+plain, neutral language, add the article URL to its `sources`, and set top-level `verified` to today's date. Only change
+it for enacted laws or final court rulings, never for bills that are merely introduced or pending.
