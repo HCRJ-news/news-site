@@ -7,6 +7,7 @@ No third-party dependencies, so Cloudflare Pages can run it with:
 """
 import html
 import json
+import sol
 import re
 import shutil
 from collections import defaultdict
@@ -127,7 +128,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head="", full_titl
   <p>If you need support, the <a href="https://rainn.org">RAINN National Sexual Assault Hotline</a>
   is available 24/7 at 800-656-4673.</p>
   <p><a href="/guides/sexual-assault/">Sexual assault</a> · <a href="/guides/rape/">What to do after a rape</a> ·
-  <a href="/guides/sexual-harassment-lawyer/">Finding a sexual harassment lawyer</a> · <a href="/report/">Report anonymously</a></p>
+  <a href="/guides/sexual-harassment-lawyer/">Finding a sexual harassment lawyer</a> · {SOL_LINK}<a href="/report/">Report anonymously</a></p>
   <p><a href="/about/#corrections">Request a correction or removal</a></p>
 </footer>
 </body>
@@ -351,6 +352,12 @@ def build_report():
 GUIDES = json.loads((ROOT / "data" / "guides.json").read_text())
 
 
+HAS_SOL = (ROOT / 'data' / 'sol.json').exists()
+SOL_LINK = '<a href="/guides/statute-of-limitations/">Statutes of limitations by state</a> · ' if HAS_SOL else ''
+SOL_LLMS = (f'- [Statutes of limitations by state]({SITE_URL}/guides/statute-of-limitations/): {sol.DESC}\n') if HAS_SOL else ''
+SOL_CARD = ('<li><a href="/guides/statute-of-limitations/">Statutes of limitations, state by state</a><p>' + sol.DESC + '</p></li>') if (ROOT / 'data' / 'sol.json').exists() else ''
+
+
 def build_guides(items):
     today = date.today().isoformat()
     cards = []
@@ -385,7 +392,7 @@ def build_guides(items):
 <p class="lede">Plain-language guides for people who have experienced sexual assault, rape or sexual harassment, including
 what to do, where to get support, and how legal action works. If you're in danger, call 911. For confidential support, call
 RAINN at 800-656-4673.</p></section>
-<ul class="cases">{''.join(cards)}<li><a href="/report/">Report anonymously</a><p>Tell the Hollywood Council for Restorative Justice what happened, without giving your name.</p></li></ul>
+<ul class="cases">{''.join(cards)}{SOL_CARD}<li><a href="/report/">Report anonymously</a><p>Tell the Hollywood Council for Restorative Justice what happened, without giving your name.</p></li></ul>
 </main>"""
     d = OUT / "guides"
     d.mkdir(parents=True, exist_ok=True)
@@ -457,7 +464,7 @@ This site is not a law firm and does not give legal advice. Confidential support
 
 ## Guides for survivors
 {guides}
-- [Report anonymously]({SITE_URL}/report/): send a confidential report to the Hollywood Council for Restorative Justice.
+{SOL_LLMS}- [Report anonymously]({SITE_URL}/report/): send a confidential report to the Hollywood Council for Restorative Justice.
 
 ## Major cases (full timelines)
 {cases}
@@ -495,9 +502,10 @@ def build_feed(items):
     (OUT / "feed.xml").write_text(xml)
 
 
-def build_sitemap(items):
+def build_sitemap(items, extra=()):
     urls = [f"{SITE_URL}/", f"{SITE_URL}/guides/", f"{SITE_URL}/report/", f"{SITE_URL}/institutions/", f"{SITE_URL}/cases/", f"{SITE_URL}/attorneys/", f"{SITE_URL}/about/"]
     urls += [f"{SITE_URL}/guides/{g}/" for g in GUIDES]
+    urls += list(extra)
     urls += sorted({f"{SITE_URL}/institutions/{it['_inst_slug']}/" for it in items})
     urls += sorted({f"{SITE_URL}/cases/{it['case']}/" for it in items if it.get("case") in CASE_META})
     lm = date.today().isoformat()
@@ -522,10 +530,11 @@ def main():
     build_about()
     build_attorneys()
     build_guides(items)
+    sol_urls = sol.build(ROOT, OUT, page, jsonld, ORG, SITE_URL, fmt_date, GUIDES)
     build_llms(items)
     build_report()
     build_feed(items)
-    build_sitemap(items)
+    build_sitemap(items, sol_urls)
     print(f"Built {len(items)} entries into {OUT}")
 
 

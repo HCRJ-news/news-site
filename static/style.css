@@ -264,3 +264,27 @@ a:hover { text-decoration-thickness: 2px; }
 .outcomes .yr { font-variant-numeric: tabular-nums; color: var(--muted); font-weight: 700; }
 .outcomes .role { color: var(--muted); font-size: .92rem; }
 @media (max-width: 520px) { .attorneys .toc { columns: 1; } .outcomes li { grid-template-columns: 1fr; gap: .1rem; } }
+
+/* Statute of limitations guide */
+.guide.wide { max-width: 64rem; }
+.sol-table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.25rem; font-size: .97rem; }
+.sol-table th, .sol-table td { text-align: left; vertical-align: top; padding: .7rem .75rem; border-bottom: 1px solid var(--rule); }
+.sol-table tbody th { font-weight: 700; width: 38%; }
+.sol-table.hub tbody th { width: auto; white-space: nowrap; }
+.sol-table thead th { font-size: .82rem; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); border-bottom: 2px solid var(--ink); }
+.sol-table tr[hidden] { display: none; }
+.table-wrap { overflow-x: auto; }
+.sol-find { display: block; font-weight: 700; margin: .5rem 0 .35rem; }
+#sol-q { width: 100%; max-width: 22rem; font: inherit; padding: .6rem .75rem; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); color: var(--ink); }
+.sol .caveat { background: var(--surface); padding: .75rem 1rem; border-radius: 8px; font-size: .95rem; }
+.sol .pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.5rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
+.sol .hint { color: var(--muted); font-size: .9rem; }
+@media (max-width: 40rem) {
+  .sol-table.hub thead { display: none; }
+  .sol-table.hub tr { display: block; border-bottom: 1px solid var(--rule); padding: .5rem 0; }
+  .sol-table.hub th, .sol-table.hub td { display: block; border: 0; padding: .2rem 0; }
+  .sol-table.hub td:nth-of-type(1)::before { content: "Childhood abuse: "; font-weight: 700; }
+  .sol-table.hub td:nth-of-type(2)::before { content: "Adults: "; font-weight: 700; }
+  .sol-table.hub td:nth-of-type(3)::before { content: "Window: "; font-weight: 700; }
+  .sol-table:not(.hub) tbody th { width: auto; }
+}
