@@ -1,5 +1,55 @@
 [
  {
+  "title": "Russell Brand takes the stand and denies every count as prosecution closes its case",
+  "source": "Irish Examiner",
+  "url": "https://www.irishexaminer.com/world/arid-41929959.html",
+  "date": "2026-10-28",
+  "category": "government",
+  "institution": "Crown Prosecution Service",
+  "summary": "Brand began his evidence at Southwark Crown Court after the prosecution rested, answering no when his barrister asked whether he committed each offence. Before the defence case opened, the judge reduced the remaining indecent assault count to attempted indecent assault, citing insufficient evidence; Brand denies all charges.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "russell-brand",
+  "added": "2026-10-28T13:40:08Z"
+ },
+ {
+  "title": "CBS analysis suggests classified material and tens of thousands of pages are missing from released Epstein files",
+  "source": "CBS News",
+  "url": "https://www.cbsnews.com/news/epstein-files-classified-material-missing-documents-suggest/",
+  "date": "2026-10-28",
+  "category": "government",
+  "institution": "U.S. Department of Justice",
+  "summary": "Internal records reviewed by CBS indicate some Epstein materials gathered by the Justice Department were marked classified, despite official statements that the files hold no secret national security information. Gaps in page numbering also point to large missing sections, including financial records and emails; the department did not respond to questions.",
+  "status": "investigation",
+  "location": "United States",
+  "case": "epstein",
+  "added": "2026-10-28T13:40:08Z"
+ },
+ {
+  "title": "Punjab suspends teacher and removes headmaster after abuse allegations at Sargodha government school",
+  "source": "Minute Mirror",
+  "url": "https://minutemirror.com.pk/sargodha-govt-school-abuse-scandal-teacher-and-2-students-arrested-652483",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Punjab School Education Department",
+  "summary": "A teacher at a government high school near Sargodha was arrested on allegations of sexually abusing and blackmailing a pupil, and the provincial education department suspended him. The headmaster was removed for negligence and a departmental inquiry and joint police investigation are under way.",
+  "status": "charges",
+  "location": "Pakistan, Punjab",
+  "added": "2026-10-28T13:40:08Z"
+ },
+ {
+  "title": "Former Sydney high school teacher jailed for sexual offences involving two students",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-28/tayla-lee-brailey-sentencing/107318292",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Sydney high school (unnamed)",
+  "summary": "Tayla Lee Brailey, who pleaded guilty to four offences involving two male students at the Sydney high school where she taught, was sentenced in Parramatta District Court to 15 months in prison. She will also be placed on the state child protection register for 15 years.",
+  "status": "conviction",
+  "location": "Australia, New South Wales",
+  "added": "2026-10-28T13:40:08Z"
+ },
+ {
   "title": "Cornell faculty open no-confidence vote on president over handling of fraternity rape report",
   "source": "The Boston Globe",
   "url": "https://www.bostonglobe.com/2026/10/28/nation/cornell-university-fraternity-gang-rape/",
@@ -10,6 +60,18 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Former Chester police officer charged after database audit flags searches tied to child abuse images",
+  "source": "FOX 29 Philadelphia",
+  "url": "https://www.fox29.com/news/former-chester-police-officer-charged-child-sexual-abuse-material-possession",
+  "date": "2026-10-27",
+  "category": "government",
+  "institution": "Chester Police Department",
+  "summary": "A routine audit of former officer Leon Paparo's use of a state law-enforcement database flagged suspicious searches, leading to an investigation. He surrendered on charges including unlawful computer use and possessing and sharing child sexual abuse material; the charges are unproven.",
+  "status": "charges",
+  "location": "United States, Pennsylvania",
+  "added": "2026-10-28T13:40:08Z"
  },
  {
   "title": "JPMorgan asks judge to throw out ex-banker's harassment suit, alleging witnesses were coached to lie",
