@@ -276,7 +276,7 @@ a:hover { text-decoration-thickness: 2px; }
 .table-wrap { overflow-x: auto; }
 .sol-find { display: block; font-weight: 700; margin: .5rem 0 .35rem; }
 #sol-q { width: 100%; max-width: 22rem; font: inherit; padding: .6rem .75rem; border: 1px solid var(--rule); border-radius: 8px; background: var(--surface); color: var(--ink); }
-.sol .caveat { background: var(--surface); padding: .75rem 1rem; border-radius: 8px; font-size: .95rem; }
+.sol .caveat { background: var(--surface); padding: .25rem 1rem; border-radius: 8px; font-size: .95rem; margin: 1rem 0; }
 .sol .pager { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.5rem; border-top: 1px solid var(--rule); padding-top: 1rem; }
 .sol .hint { color: var(--muted); font-size: .9rem; }
 @media (max-width: 40rem) {

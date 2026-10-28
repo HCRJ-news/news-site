@@ -33,7 +33,9 @@ def _sources(st):
     out = []
     for u in st.get("sources", [])[:4]:
         host = re.sub(r"^www\.", "", u.split("/")[2]) if "//" in u else u
-        out.append(f'<li><a href="{esc(u)}" rel="nofollow noopener">{esc(host)}</a></li>')
+        tail = u.split("/", 3)[3] if u.count("/") >= 3 else ""
+        label = host + ("/" + tail if tail and len(tail) < 48 else ("/…" if tail else ""))
+        out.append(f'<li><a href="{esc(u)}" rel="nofollow noopener">{esc(label)}</a></li>')
     return "".join(out)
 
 
@@ -71,11 +73,11 @@ def build(root, out, page, jsonld, org, site_url, fmt_date, guides):
                 ("Criminal charges: sex crimes against children", s["criminal_child"])]
         table = "".join(f"<tr><th scope=\"row\">{esc(k)}</th><td>{esc(v)}</td></tr>" for k, v in rows)
         change = f"<p><strong>Recent change:</strong> {esc(s['recent_change'])}</p>" if s.get("recent_change") else ""
-        caveat = ""
-        if s.get("confidence") != "high" and s.get("notes"):
-            caveat = f'<p class="caveat"><strong>Note:</strong> {esc(s["notes"])}</p>'
-        elif s.get("notes"):
-            caveat = f'<p class="caveat">{esc(s["notes"])}</p>'
+        caveat = f'<p><strong>Good to know:</strong> {esc(s["notes"])}</p>' if s.get("notes") else ""
+        if s.get("confidence") != "high":
+            caveat += ('<p>Some details on this page could not be confirmed against the official statute text, or sources '
+                       'differ. Confirm the deadline that applies to you with a licensed attorney.</p>')
+        caveat = f'<div class="caveat">{caveat}</div>' if caveat else ""
         faq_html = "".join(f"<details><summary>{esc(q)}</summary><p>{esc(a)}</p></details>" for q, a in faqs)
         body = f"""<main id="main">
 <article class="guide sol">

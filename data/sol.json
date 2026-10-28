@@ -1,0 +1,926 @@
+{
+ "verified": "2026-10-28",
+ "states": [
+  {
+   "state": "Alabama",
+   "code": "AL",
+   "adult_civil": "No special statute; assault/battery claims 6 years (Ala. Code § 6-2-34), general personal injury such as negligence 2 years (§ 6-2-38).",
+   "child_civil": "Until age 25 (six years after turning 19) for sex-offense injuries, against all defendants (Ala. Code § 6-2-8(b)); no discovery rule.",
+   "window": "Limited exception for claims in the Boy Scouts of America bankruptcy only (SB 18, enacted April 2024); no general window.",
+   "criminal_adult": "No limit for rape (treated as a capital/violent felony for limitations purposes).",
+   "criminal_child": "No limit for sex offenses against victims under 16 (Ala. Code § 15-3-5(a)(4)); other felonies 5 years.",
+   "recent_change": "2026: SB44, which would have extended the civil deadline and created a revival window through 2029, died in committee.",
+   "confidence": "medium",
+   "notes": "Adult claims may have a 6-year or a 2-year deadline depending on whether they are brought as battery or negligence. Sources differ on when the Boy Scouts exception ends (one lists Jan. 31, 2026); confirm with an attorney.",
+   "sources": [
+    "https://legiscan.com/AL/text/SB18/2024",
+    "https://childusa.org/law/alabama/child-sex-abuse-sol/",
+    "https://legiscan.com/AL/bill/SB44",
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Alaska",
+   "code": "AK",
+   "adult_civil": "No limit for claims based on felony sexual assault; 3 years for misdemeanor sexual assault (AS 09.10.065).",
+   "child_civil": "No limit for claims based on felony sexual abuse of a minor; 3 years for misdemeanor-level abuse; other claims (e.g., against institutions) roughly age 20–21 or 2–3 years from discovery.",
+   "window": "None.",
+   "criminal_adult": "No limit for most felony sexual assault offenses (AS 12.10.010(a)); other felonies 5–10 years.",
+   "criminal_child": "No limit for felony sexual abuse of a minor and felony sex trafficking (AS 12.10.010(a)).",
+   "recent_change": "",
+   "confidence": "medium",
+   "notes": "The no-limit rule covers conduct that amounts to the listed felonies. Claims against people or organizations other than the abuser may follow the shorter age-20/discovery deadline; confirm with an attorney.",
+   "sources": [
+    "https://law.justia.com/codes/alaska/title-9/chapter-10/section-09-10-065",
+    "https://childusa.org/law/alaska/child-sex-abuse-sol/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Arizona",
+   "code": "AZ",
+   "adult_civil": "No special statute; general personal-injury period of 2 years (A.R.S. § 12-542).",
+   "child_civil": "Until age 30 (12 years after turning 18), against all defendants including entities (A.R.S. § 12-514); discovery rule only for repressed memories.",
+   "window": "Closed: 19-month window for all claims ran 5/27/2019–12/30/2020.",
+   "criminal_adult": "No limit for sexual assault (class 2 felony under A.R.S. § 13-107(A)).",
+   "criminal_child": "No limit for most felony child sex offenses and child sex trafficking; other felonies 7 years from discovery.",
+   "recent_change": "2019: raised civil deadline to age 30 and opened a revival window (closed 2020).",
+   "confidence": "medium",
+   "notes": "Sources differ on whether adult claims for 'violent' sexual abuse have no civil limit; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/law/arizona/child-sex-abuse-sol/",
+    "https://www.ncsl.org/human-services/state-civil-statutes-of-limitations-in-child-sexual-abuse-cases"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Arkansas",
+   "code": "AR",
+   "adult_civil": "No special adult statute; general tort deadlines apply (commonly given as 3 years; confirm with an attorney).",
+   "child_civil": "Until age 55 or 3 years from discovery, whichever is later (Justice for Vulnerable Victims of Sexual Abuse Act, Ark. Code § 16-118-118).",
+   "window": "Closed: a 2-year window ran 2/1/2022–1/31/2024 and a second window open to any age ran 2/1/2024–1/31/2026; in 2025 the Court of Appeals (H.C. v. Nesmith) held that reviving expired claims is unconstitutional.",
+   "criminal_adult": "No limit for rape.",
+   "criminal_child": "No limit for rape and several child sex felonies; other sex offenses generally until age 28.",
+   "recent_change": "2025: Court of Appeals ruled the legislature cannot revive expired claims; Act 49 (SB 13) lets certain Boy Scouts settlement claimants sue at any time.",
+   "confidence": "medium",
+   "notes": "It is unclear whether the Arkansas Supreme Court will review the Nesmith ruling. A 2023 amendment removed the age-55 cap for the second window; sources differ on whether it also changed the ongoing age-55 deadline. The exact reach of Act 49 and the adult civil deadline are uncertain; confirm with an attorney.",
+   "sources": [
+    "https://open.pluralpolicy.com/ar/bills/2025/SB13",
+    "https://www.ualrpublicradio.org/local-regional-news/2024-02-06/arkansas-child-sexual-abuse-survivors-able-to-file-civil-claims-at-any-age",
+    "https://arkansasadvocate.com/2025/02/05/arkansas-appeals-court-stymies-lawsuits-over-decades-old-sexual-abuse/",
+    "https://childusa.org/2025-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "California",
+   "code": "CA",
+   "adult_civil": "10 years from the last act or 3 years from discovery, whichever is later (Cal. Civ. Proc. Code § 340.16).",
+   "child_civil": "No limit for abuse on or after Jan 1, 2024 (AB 452); older abuse: until age 40 or a discovery period (Cal. Civ. Proc. Code § 340.1). Stricter proof rules for plaintiffs 40+ suing public entities (SB 577).",
+   "window": "Child window (AB 218) closed 12/31/2022. Adult window for claims involving an entity cover-up (AB 250) open 1/1/2026–12/31/2027; public entities exempt.",
+   "criminal_adult": "No limit for rape and other listed felony sex offenses committed on/after 1/1/2017 or not yet expired then (Penal Code § 799).",
+   "criminal_child": "No limit for many felony sex offenses; others until the victim's 40th birthday (Penal Code § 801.1).",
+   "recent_change": "2026: SB 577 (Ch. 971, signed Sept. 2026) requires clear and convincing evidence and bars treble damages for claims by plaintiffs 40+ against public entities over pre-2024 abuse, and shortens the discovery period for pre-2024 abuse from 5 to 3 years.",
+   "confidence": "medium",
+   "notes": "AB 250's adult window does not apply to public entities. A 2024 Court of Appeal ruling (West Contra Costa USD) upheld AB 218's revival of claims against public entities. How SB 577 applies to pending cases may vary; confirm with an attorney.",
+   "sources": [
+    "https://calmatters.digitaldemocracy.org/bills/ca_202520260sb577",
+    "https://www.lcwlegal.com/news/ab-250-expanded-revival-window-for-certain-sexual-assault-claims/",
+    "https://childusa.org/law/california/child-sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Colorado",
+   "code": "CO",
+   "adult_civil": "No limit for sexual misconduct claims accruing on/after Jan 1, 2022, or not yet expired then (Colo. Rev. Stat. § 13-80-103.7).",
+   "child_civil": "No limit for claims against any defendant (C.R.S. § 13-80-103.7); damage caps apply to some claims, including against public entities.",
+   "window": "Struck down: 3-year window (2022–2024) for abuse from 1960–2021 was held unconstitutional in 2023 (Aurora Public Schools v. A.S.).",
+   "criminal_adult": "20 years for felony sexual assault; no limit if DNA identifies the offender and it was reported within 20 years (C.R.S. § 16-5-401(8)).",
+   "criminal_child": "No limit for felony sex offenses against children (C.R.S. § 16-5-401(1)).",
+   "recent_change": "2025: a proposed constitutional amendment to allow revival of expired claims (SCR25-002) failed in the Senate.",
+   "confidence": "medium",
+   "notes": "Removing the deadline applies only to claims that had not already expired by 2022. A 2025 proposal to allow revival of expired claims (SCR25-002) failed in the Senate in April 2025.",
+   "sources": [
+    "https://childusa.org/law/colorado/sex-abuse-sol/",
+    "https://law.justia.com/codes/colorado/title-16/code-of-criminal-procedure/article-5/part-4/section-16-5-401",
+    "https://leg.colorado.gov/bills/SCR25-002"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Connecticut",
+   "code": "CT",
+   "adult_civil": "General 3-year tort period; no limit if the offender was convicted of first-degree (or aggravated first-degree) sexual assault (Conn. Gen. Stat. § 52-577e).",
+   "child_civil": "Until age 51 (30 years after turning 21) for abuse on/after 10/1/2019; age 48 for earlier abuse (Conn. Gen. Stat. § 52-577d); applies to all defendants.",
+   "window": "None (2002 law revived claims up to age 48; no window).",
+   "criminal_adult": "20 years for most felony sexual assaults; no limit for class A felonies or if reported within 5 years and DNA identifies the offender (Conn. Gen. Stat. §§ 54-193, 54-193b).",
+   "criminal_child": "No limit for felony or misdemeanor sexual abuse offenses against minors (Conn. Gen. Stat. § 54-193).",
+   "recent_change": "2019: civil deadline raised to age 51 and criminal limits extended.",
+   "confidence": "medium",
+   "notes": "The no-limit rule for adult claims applies only when the offender was convicted of first-degree (or aggravated first-degree) sexual assault; some summaries overstate it as 'no time limit.'",
+   "sources": [
+    "https://prdext3.cga.ct.gov/2020/rpt/pdf/2020-R-0007.pdf",
+    "https://childusa.org/law/connecticut/child-sex-abuse-sol/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Delaware",
+   "code": "DE",
+   "adult_civil": "No special statute; general personal-injury period of 2 years.",
+   "child_civil": "No limit against any defendant (10 Del. C. § 8145).",
+   "window": "Closed: all-defendant window 7/10/2007–7/9/2009; health-care-provider window 7/13/2010–7/13/2012.",
+   "criminal_adult": "No limit for the most serious rape offenses (class A felonies); the limit for lesser degrees is uncertain.",
+   "criminal_child": "No limit for felony or misdemeanor child sexual abuse offenses (11 Del. C. § 205(e)).",
+   "recent_change": "2026: HB 75 (new revival window and sovereign-immunity waiver) passed the Senate but was stricken in the House in July 2026.",
+   "confidence": "medium",
+   "notes": "Sources do not settle the criminal limit for lower-degree rape; confirm with an attorney. HB 75's sponsor has said he will start over, so a similar bill may return in a future session.",
+   "sources": [
+    "https://childusa.org/law/delaware/sex-abuse-sol/",
+    "https://www.delawarepublic.org/politics-government/2026-07-07/sponsor-of-child-victims-act-pt-2-strikes-bill-over-last-minute-amendment-best-to-start-over"
+   ],
+   "checked": true
+  },
+  {
+   "state": "District of Columbia",
+   "code": "DC",
+   "adult_civil": "If abused at 35 or older: 5 years from the abuse or from discovery, whichever is later (D.C. Code § 12-301).",
+   "child_civil": "Until age 40 or 5 years from discovery, whichever is later, against all defendants (applies to abuse before age 35) (D.C. Code § 12-301).",
+   "window": "Closed: 2-year window ran 5/3/2019–5/2/2021.",
+   "criminal_adult": "No limit for first-degree sexual abuse (D.C. Code § 23-113(a)(1)).",
+   "criminal_child": "No limit for first-degree child sexual abuse and many other child sex offenses; some lesser offenses 10 years starting at age 21.",
+   "recent_change": "2019: Sexual Abuse Statute of Limitations Amendment Act extended deadlines and opened a 2-year window.",
+   "confidence": "medium",
+   "notes": "Sources differ on the limits for some lesser felonies.",
+   "sources": [
+    "https://childusa.org/law/washington-dc/child-sex-abuse-sol/",
+    "https://www.ncsl.org/human-services/state-civil-statutes-of-limitations-in-child-sexual-abuse-cases"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Florida",
+   "code": "FL",
+   "adult_civil": "No special adult statute; general intentional-tort/battery deadlines apply (commonly 4 years; negligence claims 2 years since 2023).",
+   "child_civil": "No limit for sexual battery of a child under 16 (Fla. Stat. § 95.11(9)); other abuse: latest of age 25, 4 years after leaving the abuser's dependency, or 4 years from discovery (§ 95.11(7)).",
+   "window": "None.",
+   "criminal_adult": "No limit for first/second-degree sexual battery reported within 72 hours; otherwise 8 years; DNA extensions (Fla. Stat. § 775.15(14)-(16)).",
+   "criminal_child": "No limit for sexual battery of a victim under 18 committed on/after 7/1/2020, and for victims under 16 (Fla. Stat. § 775.15).",
+   "recent_change": "2020: eliminated the criminal SOL for sexual battery of anyone under 18.",
+   "confidence": "medium",
+   "notes": "Sources differ on the exact adult civil deadline; confirm with an attorney. The no-limit rule for victims under 16 does not revive claims that expired before July 1, 2010.",
+   "sources": [
+    "https://childusa.org/?p=94672",
+    "https://www.ncsl.org/human-services/state-civil-statutes-of-limitations-in-child-sexual-abuse-cases"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Georgia",
+   "code": "GA",
+   "adult_civil": "No special statute; general personal-injury period of 2 years.",
+   "child_civil": "Until age 23, or 2 years from discovery for abuse on/after 7/1/2015 (O.C.G.A. § 9-3-33.1); claims against entities under the discovery route require gross negligence.",
+   "window": "Closed: 2-year window against perpetrators only, 7/1/2015–6/30/2017.",
+   "criminal_adult": "15 years for rape; no limit when DNA establishes identity (O.C.G.A. § 17-3-1).",
+   "criminal_child": "No limit for many serious sex crimes against children under 16 committed on/after 7/1/2012 (O.C.G.A. § 17-3-2.1).",
+   "recent_change": "2015: Hidden Predator Act added a discovery rule and a 2-year window.",
+   "confidence": "medium",
+   "notes": "Sources differ on some details for victims who were 16 or 17.",
+   "sources": [
+    "https://childusa.org/law/georgia/child-sex-abuse-sol/",
+    "https://www.ncsl.org/human-services/state-civil-statutes-of-limitations-in-child-sexual-abuse-cases"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Hawaii",
+   "code": "HI",
+   "adult_civil": "No special statute; general personal-injury period of 2 years (HRS § 657-7).",
+   "child_civil": "For abuse on or after 7/1/2024: until age 50 (32 years after turning 18) or 5 years from discovery, whichever is later; earlier abuse: until age 26 or 3 years from discovery against the abuser (HRS § 657-1.8).",
+   "window": "Closed: series of windows ran 4/24/2012–4/23/2020 (all defendants by the end).",
+   "criminal_adult": "No limit for first- and second-degree sexual assault (HRS § 701-108(1)).",
+   "criminal_child": "No limit for first/second-degree sexual assault and continuous sexual assault of a minor under 14; other felony clocks paused until age 18.",
+   "recent_change": "2024: SB 2601 extended the civil deadline for abuse on or after 7/1/2024 to age 50 or 5 years from discovery; it is not retroactive.",
+   "confidence": "medium",
+   "notes": "Sources differ on whether the 2024 deadline applies to institutions as well as abusers. For older abuse, claims against institutions may be limited to about age 20 or 2 years from discovery; confirm with an attorney.",
+   "sources": [
+    "https://data.capitol.hawaii.gov/sessions/session2024/CommReports/SB2601_CD1_CCR113-24_.htm",
+    "https://www.hawaiipublicradio.org/local-news/2024-07-10/hawaii-extends-statute-of-limitations-sexual-abuse-claims-minors",
+    "https://childusa.org/law/hawaii/child-sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Idaho",
+   "code": "ID",
+   "adult_civil": "No special statute; general personal-injury period of 2 years.",
+   "child_civil": "Until age 23 or 5 years from discovery, whichever is later (Idaho Code § 6-1704); applies to all defendants.",
+   "window": "None.",
+   "criminal_adult": "No limit for rape (Idaho Code § 19-401).",
+   "criminal_child": "No limit for rape, sexual abuse of a child, and lewd conduct with a child (Idaho Code § 19-401); 2026 law adds aggravated lewd conduct and CSAM production.",
+   "recent_change": "2026: H.681 added more child sex felonies to the no-limit list (effective 7/1/2026).",
+   "confidence": "medium",
+   "notes": "",
+   "sources": [
+    "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0681SOP.pdf",
+    "https://childusa.org/?p=94150",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Illinois",
+   "code": "IL",
+   "adult_civil": "Generally 2 years (735 ILCS 5/13-202); claims arising from a Class X felony, such as aggravated criminal sexual assault, may have a longer period (735 ILCS 5/13-214.1).",
+   "child_civil": "No limit (735 ILCS 5/13-202.2(f)) for claims not already barred before Jan 1, 2014.",
+   "window": "None.",
+   "criminal_adult": "No limit for felony offenses involving sexual conduct or penetration (720 ILCS 5/3-5).",
+   "criminal_child": "No limit for felony and misdemeanor sex offenses against children (720 ILCS 5/3-5).",
+   "recent_change": "2026: new laws removed the criminal SOL for minor trafficking and allow grooming charges up to 10 years after the victim turns 17.",
+   "confidence": "medium",
+   "notes": "Sources differ on the exact deadline for adult claims tied to Class X felonies; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/law/illinois/child-sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Indiana",
+   "code": "IN",
+   "adult_civil": "No special statute; general personal-injury period of 2 years (Ind. Code § 34-11-2-4(a)).",
+   "child_civil": "Later of 7 years after the claim accrues or 4 years after the victim stops being the abuser's dependent (Ind. Code § 34-11-2-4(b)).",
+   "window": "Closed: claims against certain entities in bankruptcy (aimed at the Boy Scouts settlement) could be filed 3/12/2024 until 7/1/2025 (HEA 1047, P.L. 79-2024); no general window.",
+   "criminal_adult": "No limit for the most serious rape (force, weapon, drugging, serious injury); Level 3 rape 5 years, plus 10 years from DNA discovery (2025).",
+   "criminal_child": "No limit for the most serious child molesting; other child sex offenses have limits (varies, up to the victim's age 31).",
+   "recent_change": "2025: SB 151 (P.L. 112-2025) allows Level 3 rape charges within 10 years of DNA discovery.",
+   "confidence": "low",
+   "notes": "A 2026 bill to remove the limit for Level 3 rape and child molesting (SB 143) failed. A bill to extend the bankruptcy window was introduced but has not become law. Sources differ on whether child civil claims face an age-20 cap.",
+   "sources": [
+    "https://legislativeupdate.courts.in.gov/2024/03/28/sexual-offenses-3",
+    "https://childusa.org/law/indiana/sex-abuse-sol/",
+    "https://legislativeupdate.courts.in.gov/tag/statute-of-limitations",
+    "https://policyrisk.com/state-bill/IN-SB143-2026"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Iowa",
+   "code": "IA",
+   "adult_civil": "No special statute; general personal-injury period of 2 years (Iowa Code § 614.1(2)).",
+   "child_civil": "About age 19 against all defendants, or 4 years from discovery (Iowa Code § 614.8A); 5 years after last contact for counselors/therapists/school employees.",
+   "window": "Boy Scouts-only: 2024 law suspends limits for claims in the BSA settlement until 12/31/2026; no general window.",
+   "criminal_adult": "10 years for sexual abuse, or 3 years after DNA identification if later (Iowa Code § 802.2(2)).",
+   "criminal_child": "No limit for first- to third-degree sexual abuse of a minor (Iowa Code § 802.2(1)); some lesser offenses 10 years after age 18.",
+   "recent_change": "2024: law suspended civil limits for Boy Scouts settlement claims through 2026.",
+   "confidence": "medium",
+   "notes": "A 2026 bill (SSB 3194) would keep the Boy Scouts provision in place until the settlement litigation ends; it has not become law, so the provision is still set to end Dec. 31, 2026. Other 2026 civil deadline bills (SF 364, HF 908) were introduced; their status is unclear.",
+   "sources": [
+    "https://www.iowapublicradio.org/state-government-news/2026-04-13/boy-scouts-abuse-survivors-urge-lawmakers-to-extend-timeframe-to-sue-perpetrators",
+    "https://childusa.org/?p=95064",
+    "https://www.kcrg.com/2026/04/14/senate-subcommittee-approves-bill-extend-2024-law-boy-scouts-settlement/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Kansas",
+   "code": "KS",
+   "adult_civil": "No special statute; general personal-injury period of 2 years.",
+   "child_civil": "Until age 31 or 3 years after the abuser's criminal conviction, whichever is later (K.S.A. 60-523).",
+   "window": "None; the 2023 law is not retroactive and does not revive claims that expired before it took effect (7/1/2023).",
+   "criminal_adult": "No limit for rape (K.S.A. 21-5107(a)); other sexually violent crimes 10 years or 1 year after DNA identification.",
+   "criminal_child": "No limit for listed child sexual abuse offenses (K.S.A. 21-5107(a)(2)).",
+   "recent_change": "2023: HB 2127 extended the civil deadline to age 31 and eliminated the criminal SOL for child sex abuse.",
+   "confidence": "medium",
+   "notes": "Sources differ on whether the age-31 deadline applies to institutions or only to abusers; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/law/kansas/child-sex-abuse-sol/",
+    "https://kansasreflector.com/2023/04/17/gov-laura-kelly-signs-sexual-abuse-reform-bill-adopted-unanimously-by-house-senate/",
+    "https://www.bishop-accountability.org/?p=281954"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Kentucky",
+   "code": "KY",
+   "adult_civil": "No special adult statute; the general 1-year personal-injury period (KRS 413.140) commonly applies.",
+   "child_civil": "Latest of several 10-year periods: 10 years after the last act, after turning 18 (age 28), after discovery, or after the abuser's conviction (KRS 413.249). Same periods apply to entities with a duty of care.",
+   "window": "None in effect: a 2021 law (KRS 413.249(7)) aimed to revive expired claims, but the Kentucky Supreme Court in Thompson v. Killary (2024) held it does not clearly revive claims that were already time-barred.",
+   "criminal_adult": "None for felonies, including felony rape and sodomy (KRS 500.050); misdemeanors 1 year.",
+   "criminal_child": "None for felonies; misdemeanor sex offenses against minors until 10 years after the victim turns 18 (age 28).",
+   "recent_change": "2024: state Supreme Court (Thompson v. Killary) blocked the 2021 revival of expired claims.",
+   "confidence": "medium",
+   "notes": "Bills to remove the civil deadline have died in House Judiciary; a 2026 bill (HB 232) has been introduced. Sources differ on the adult civil deadline (often given as 1 year); confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/?p=95107",
+    "https://apps.legislature.ky.gov/record/26RS/hb154.html",
+    "https://www.casemine.com/commentary/us/vested-defenses-and-retroactive-application:-kentucky-supreme-court-rules-in-thompson-v.-killary/view"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Louisiana",
+   "code": "LA",
+   "adult_civil": "3 years from the injury, or from when police or a court tells the victim who the offender is, for suits against the person who committed the sexual assault (La. C.C. art. 3496.2).",
+   "child_civil": "No limit for abuse of a minor (La. R.S. 9:2800.9), against all defendants.",
+   "window": "Open: revival window for expired child sexual abuse claims, opened June 14, 2021 and extended in 2024 to June 14, 2027. The Louisiana Supreme Court struck it down in March 2024 (Bienvenu), then upheld it on rehearing in June 2024.",
+   "criminal_adult": "None for first-degree (aggravated) rape and other crimes punishable by life; other sex felonies have limited periods.",
+   "criminal_child": "None for life-punishable offenses; many other sex offenses against minors 30 years after the victim turns 18.",
+   "recent_change": "2024: revival window extended to June 14, 2027.",
+   "confidence": "medium",
+   "notes": "A 2026 bill (HB 409) to extend the window to 2029 died in committee. Check the window's exact end date and the criminal limits for second-degree rape with an attorney.",
+   "sources": [
+    "https://legis.la.gov/legis/ViewDocument.aspx?d=1373845",
+    "https://www.legis.la.gov/Legis/Law.aspx?d=1015073",
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah",
+    "https://www.legis.la.gov/legis/BillInfo.aspx?i=250181"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Maine",
+   "code": "ME",
+   "adult_civil": "No special adult statute; general periods apply (assault-and-battery claims are typically 2 years; general civil period 6 years).",
+   "child_civil": "No limit for sexual acts toward minors (14 M.R.S. § 752-C), for claims not already expired when the limit was removed.",
+   "window": "Struck down: the 2021 revival of expired claims was held unconstitutional by Maine's top court in Dupuis v. Roman Catholic Bishop of Portland (2025 ME 6, Jan. 2025).",
+   "criminal_adult": "20 years for Class A-C gross sexual assault and unlawful sexual contact (17-A M.R.S. § 8(2-A)); 6 years for other Class A-C crimes.",
+   "criminal_child": "None for rape, gross sexual assault, sexual abuse of a minor, unlawful sexual contact or touching, sexual exploitation of a minor and incest if the victim was under 18.",
+   "recent_change": "2025: state Supreme Judicial Court struck down retroactive revival of expired child abuse claims (Dupuis).",
+   "confidence": "medium",
+   "notes": "Sources differ on the adult civil deadline (often given as 2 years); confirm with an attorney. For crimes on or after Sept. 1, 2026, there is also no criminal limit for aggravated sex trafficking or commercial sexual exploitation of a minor under 18.",
+   "sources": [
+    "https://legislature.maine.gov/statutes/17-a/title17-Asec8.html",
+    "https://courts.maine.gov/courts/sjc/lawcourt/2025/25me006.pdf",
+    "https://legislature.maine.gov/legis/bills/bills_129th/chapters/PUBLIC483.asp",
+    "https://childusa.org/maine-supreme-court-blocks-justice-for-survivors-strikes-down-revival-window/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Maryland",
+   "code": "MD",
+   "adult_civil": "No special adult statute; general 3-year civil period.",
+   "child_civil": "No limit against any defendant (Child Victims Act of 2023), with damage caps for private and public institutions.",
+   "window": "Effectively permanent: the 2023 law revived all expired child abuse claims with no end date; upheld by the Maryland Supreme Court in February 2025.",
+   "criminal_adult": "None for felonies, including rape and felony sexual offenses.",
+   "criminal_child": "None for felony sex crimes against children.",
+   "recent_change": "2025: HB 1378 cut noneconomic damage caps for claims filed on or after June 1, 2025 to $700,000 (private) and $400,000 (public).",
+   "confidence": "medium",
+   "notes": "HB 1378 may also restrict claims against the State after Jan. 1, 2026; confirm with an attorney.",
+   "sources": [
+    "https://mgaleg.maryland.gov/2025RS/fnotes/bil_0008/hb1378.pdf",
+    "https://childusa.org/2026-sol-tracker/",
+    "https://www.bishop-accountability.org/2025/02/maryland-supreme-court-rules/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Massachusetts",
+   "code": "MA",
+   "adult_civil": "No special adult statute; general 3-year tort period with a discovery rule.",
+   "child_civil": "Within 35 years of the abuse (until about age 53) or 7 years after discovery, whichever is later (G.L. c. 260, § 4C); similar period vs. negligent institutions, but nonprofits are capped at $20,000 in damages.",
+   "window": "None for expired claims (the 2014 law extended deadlines for perpetrators only).",
+   "criminal_adult": "15 years for rape of an adult.",
+   "criminal_child": "None if the victim was under 16 (corroborating evidence required after 27 years).",
+   "recent_change": "2014: civil deadline extended to 35 years. Pending (Oct. 2026): an amendment to health care bill H.5630 would end the civil deadline, open a 2-year revival window and remove the $20,000 charity cap.",
+   "confidence": "medium",
+   "notes": "As of Oct. 2026 the amendment is part of a health care bill headed to a House-Senate conference; it has not become law. Attorney General Campbell supports ending the civil deadline. Sources differ on the 15-year adult criminal limit; confirm with an attorney.",
+   "sources": [
+    "https://www.wbur.org/news/2026/10/05/massachusetts-catholic-church-sex-abuse-report-statute-of-limitations-bill",
+    "https://childusa.org/2026-sol-tracker/",
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah",
+    "https://www.bostonglobe.com/2026/10/08/metro/statute-of-limitations-child-sex-abuse/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Michigan",
+   "code": "MI",
+   "adult_civil": "10 years from the assault for claims based on criminal sexual conduct (MCL 600.5805).",
+   "child_civil": "Until age 28, or 3 years after discovering the injury was caused by the abuse, whichever is later.",
+   "window": "Closed: a 90-day window in 2018 for Larry Nassar survivors only.",
+   "criminal_adult": "None for first-degree criminal sexual conduct; generally 10 years for other CSC (longer if DNA identifies a suspect).",
+   "criminal_child": "None for first-degree CSC; other CSC against minors 15 years or until the victim's 28th birthday, whichever is later.",
+   "recent_change": "2018: civil and criminal deadlines extended after the Nassar case.",
+   "confidence": "medium",
+   "notes": "'Justice for Survivors' bills (SB 257-261), which would allow suits until age 42 and open a 1-year revival window, passed the Senate in May 2025. As of July 2026 the House versions (HB 6047-6051) had no committee action, so they have not become law.",
+   "sources": [
+    "https://hercules-milenia.legislature.mi.gov/documents/2025-2026/billanalysis/Senate/htm/2025-SFA-0257-F.htm",
+    "https://bridgemi.com/michigan-government/michigan-senate-give-sexual-assault-survivors-more-time-sue/",
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah",
+    "https://www.clickondetroit.com/news/local/2026/07/30/state-lawmakers-advocate-to-extend-civil-statute-of-limitations-in-child-sex-abuse-cases-after-interlochen-report/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Minnesota",
+   "code": "MN",
+   "adult_civil": "6 years from when the survivor knew or should have known the injury was caused by the abuse (Minn. Stat. § 541.073).",
+   "child_civil": "No limit against any defendant (age 24 limit only where the abuser was under 14).",
+   "window": "Closed: 3-year window, May 2013 to May 2016.",
+   "criminal_adult": "None for criminal sexual conduct (Minn. Stat. § 628.26).",
+   "criminal_child": "None for criminal sexual conduct.",
+   "recent_change": "2021: criminal SOL for criminal sexual conduct eliminated.",
+   "confidence": "medium",
+   "notes": "",
+   "sources": [
+    "https://childusa.org/?p=95007",
+    "https://www.revisor.mn.gov/bills/92/2021/0/HF/1121/versions/latest/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Mississippi",
+   "code": "MS",
+   "adult_civil": "No special statute; general 3-year period with a latent-injury discovery rule (Miss. Code Ann. § 15-1-49); battery-type claims may face a shorter period.",
+   "child_civil": "Until age 24 (3 years after turning 21) against all defendants, with a 3-year discovery rule.",
+   "window": "None.",
+   "criminal_adult": "None for rape and sexual battery (Miss. Code Ann. § 99-1-5).",
+   "criminal_child": "None for sexual battery of a child, child exploitation and related offenses.",
+   "recent_change": "",
+   "confidence": "medium",
+   "notes": "Bills to remove the civil deadline have died (HB 486 in 2025); SB 2318 (2026) has not passed. Sources differ on whether adult claims get the 3-year period or a 1-year assault/battery period; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/law/mississippi/child-sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Missouri",
+   "code": "MO",
+   "adult_civil": "No special adult statute; general personal-injury period is 5 years, though battery-type claims may be limited to 2 years.",
+   "child_civil": "Against the abuser: until age 31 or 3 years after discovery (Mo. Rev. Stat. § 537.046). Against institutions: general 5-year period after turning 21 (about age 26).",
+   "window": "None; the Missouri Supreme Court held in 1993 that reviving expired claims violates the state constitution.",
+   "criminal_adult": "None for first-degree and forcible rape and sodomy.",
+   "criminal_child": "None for sexual offenses involving a victim 18 or younger (Mo. Rev. Stat. § 556.037).",
+   "recent_change": "2025: law voided nondisclosure agreements in childhood sexual abuse cases (not a deadline change).",
+   "confidence": "medium",
+   "notes": "Bills to extend or remove the civil deadline, and a constitutional amendment to allow revival, stalled again in May 2026. HB 68, which would cut the 5-year injury period to 2 years, passed the House in 2025 but has not become law. Sources differ on the adult civil deadline; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/?p=95164",
+    "https://www.ky3.com/2026/05/13/legislation-extend-missouris-statute-limitations-survivors-stalls-despite-bipartisan-support/",
+    "https://open.pluralpolicy.com/mo/bills/2025/HB68"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Montana",
+   "code": "MT",
+   "adult_civil": "No special adult statute; general 3-year personal-injury period.",
+   "child_civil": "Until age 27, or 3 years after discovering the injury was caused by the abuse (MCA § 27-2-216); same against entities with a duty of care.",
+   "window": "Closed: 1-year window, May 7, 2019 to May 2020 (limited to admitted/convicted abusers and entities with notice).",
+   "criminal_adult": "10 years for felony sex offenses such as sexual intercourse without consent; 1 extra year after DNA identification.",
+   "criminal_child": "None if the victim was under 18 (MCA § 45-1-205).",
+   "recent_change": "2019: civil deadline extended to age 27 with a 1-year revival window.",
+   "confidence": "medium",
+   "notes": "Some summaries say Montana has no criminal limit, but the statute sets 10 years for adult victims.",
+   "sources": [
+    "https://childusa.org/?p=94215",
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Nebraska",
+   "code": "NE",
+   "adult_civil": "No special adult statute; the general period is commonly given as 4 years, though assault-and-battery claims may be shorter.",
+   "child_civil": "No limit against the abuser (abuse on/after Aug. 24, 2017 or not yet expired); against others, until 12 years after turning 21 (age 33) (Neb. Rev. Stat. § 25-228).",
+   "window": "None.",
+   "criminal_adult": "None for first- and second-degree sexual assault (Neb. Rev. Stat. § 29-110).",
+   "criminal_child": "None for first- to third-degree sexual assault of a child, incest and child trafficking.",
+   "recent_change": "2017: civil SOL against abusers eliminated.",
+   "confidence": "medium",
+   "notes": "A bill to remove the civil deadline against all defendants (LB 12) had a hearing in March 2025 but no further action. Sources differ on the adult civil deadline; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/law/nebraska/child-sex-abuse-sol/",
+    "https://open.pluralpolicy.com/ne/bills/109/LB12"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Nevada",
+   "code": "NV",
+   "adult_civil": "No limit for suits over sexual assault, under SB 129 (2023), signed May 31, 2023; previously 2 years.",
+   "child_civil": "No limit against the abuser; against others, until age 38 (20 years after turning 18) (NRS 11.215).",
+   "window": "Effectively permanent for claims against abusers (2021); expired claims against others revived up to age 38.",
+   "criminal_adult": "Report to police within 20 years, after which there is no deadline to charge; none if DNA identifies the suspect.",
+   "criminal_child": "Until the victim turns 36 (or 43 if not reasonably discovered by 36) (NRS 171.095).",
+   "recent_change": "2023: SB 129 removed the civil deadline for adult sexual assault claims.",
+   "confidence": "medium",
+   "notes": "It is unclear whether SB 129 revives adult claims that expired before 2023; confirm with an attorney.",
+   "sources": [
+    "https://archive.leg.state.nv.us/Session/82nd2023/Reports/history@ID=307.html",
+    "https://childusa.org/law/nevada/child-sex-abuse-sol/",
+    "https://vanlawfirm.com/faqs/nevada-sexual-assault-statute-of-limitations/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "New Hampshire",
+   "code": "NH",
+   "adult_civil": "No limit for sexual assault claims (N.H. Rev. Stat. § 508:4-g).",
+   "child_civil": "No limit for sexual assault and incest of minors, against any defendant, for claims not already expired when the law changed in 2020.",
+   "window": "None: the NH Supreme Court ruled in 2025 (Ball v. Roman Catholic Bishop of Manchester) that the 2020 law does not revive claims that had already expired.",
+   "criminal_adult": "General 6-year felony period.",
+   "criminal_child": "Until 22 years after the victim turns 18 (age 40) (N.H. Rev. Stat. § 625:8).",
+   "recent_change": "2025: NH Supreme Court held the 2020 removal of the civil deadline does not apply to already-expired claims.",
+   "confidence": "medium",
+   "notes": "Separate deadlines apply to the state's youth detention center (YDC) settlement fund. The criminal limit for adult sexual assault specifically is uncertain; confirm with an attorney.",
+   "sources": [
+    "https://statecourtreport.org/sites/default/files/fastcase/converted/Ball%20v.%20Roman%20Catholic%20Bishop%20of%20Manchester%2C%20N.H.%202024-0606.pdf",
+    "https://amp.insurancejournal.com/news/east/2025/10/17/844013.htm",
+    "https://childusa.org/law/new-hampshire/child-sex-abuse-sol/",
+    "https://www.findlaw.com/injury/torts-and-personal-injuries/sexual-assault-civil-statutes-of-limitations-by-state.html"
+   ],
+   "checked": true
+  },
+  {
+   "state": "New Jersey",
+   "code": "NJ",
+   "adult_civil": "7 years from reasonable discovery of the injury and its link to the abuse (N.J.S.A. 2A:14-2b).",
+   "child_civil": "Until age 55 or 7 years after discovery, whichever is later (N.J.S.A. 2A:14-2a); applies to institutions and public entities.",
+   "window": "Closed: 2-year window, Dec. 1, 2019 to Nov. 30, 2021.",
+   "criminal_adult": "None for sexual assault and aggravated sexual assault (N.J.S.A. 2C:1-6).",
+   "criminal_child": "None for sexual assault; criminal sexual contact and child endangerment until 5 years after turning 18 (age 23) or 2 years after discovery.",
+   "recent_change": "2019: civil deadlines extended and 2-year revival window created.",
+   "confidence": "medium",
+   "notes": "",
+   "sources": [
+    "https://childusa.org/?p=94357",
+    "https://whyy.org/articles/n-j-gives-sex-abuse-victims-sweeping-new-ability-to-sue/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "New Mexico",
+   "code": "NM",
+   "adult_civil": "No special adult statute; general 3-year personal-injury period.",
+   "child_civil": "By age 24, or 3 years after first disclosing the abuse to a licensed medical or mental health provider, whichever is later (N.M. Stat. § 37-1-30).",
+   "window": "None.",
+   "criminal_adult": "None for first-degree criminal sexual penetration; 5-6 years for lower degrees (clock paused until DNA match).",
+   "criminal_child": "None for first-degree felonies; for other child sex crimes the clock starts when the victim turns 18 or the crime is reported, whichever is earlier.",
+   "recent_change": "",
+   "confidence": "medium",
+   "notes": "A 2025 bill to remove the civil limit (HB 73) did not become law, though some sources list it as passed. A 2026 bill (HB 151) that would extend the deadline to age 58 and open a revival window to 2029 appears to have died.",
+   "sources": [
+    "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0151.html",
+    "https://www.nmlegis.gov/Sessions/25%20Regular/bills/house/HB0073.html",
+    "https://childusa.org/?p=49870",
+    "https://www.kob.com/new-mexico/house-bill-sits-as-lawmakers-push-ahead-for-survivors-to-have-protection-against-jeffrey-epstein/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "New York",
+   "code": "NY",
+   "adult_civil": "20 years for claims based on rape and other felony sex offenses (CPLR 213-c).",
+   "child_civil": "Until age 55 (Child Victims Act), against abusers and institutions.",
+   "window": "All closed: Child Victims Act window Aug. 2019-Aug. 2021; Adult Survivors Act window Nov. 2022-Nov. 2023; NYC gender-motivated violence window Mar. 2023-Mar. 2025.",
+   "criminal_adult": "None for first-degree rape; 20 years for second-degree and 10 years for third-degree rape.",
+   "criminal_child": "None for first-degree offenses; for other felony sex offenses the clock starts at age 23 or when reported, whichever is earlier.",
+   "recent_change": "2022: Adult Survivors Act opened a 1-year window for expired adult claims (now closed).",
+   "confidence": "medium",
+   "notes": "Pending bills A.1641/S.6978 would remove the civil deadline. A child sex trafficking bill (S.116) is reported to have passed the legislature, but it is unclear whether it was signed.",
+   "sources": [
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah",
+    "https://childusa.org/2026-sol-tracker/",
+    "https://www.findlaw.com/injury/torts-and-personal-injuries/sexual-assault-civil-statutes-of-limitations-by-state.html"
+   ],
+   "checked": true
+  },
+  {
+   "state": "North Carolina",
+   "code": "NC",
+   "adult_civil": "No special adult statute; general 3-year period (N.C.G.S. § 1-52).",
+   "child_civil": "Until age 28, or within 2 years after the abuser's related criminal conviction (SAFE Child Act).",
+   "window": "Closed: 2-year window, Jan. 1, 2020 to Dec. 31, 2021; upheld by the NC Supreme Court in McKinney v. Goins (Jan. 31, 2025).",
+   "criminal_adult": "None for felonies, including rape.",
+   "criminal_child": "None for felonies; misdemeanor child sex offenses extended to 10 years in 2019.",
+   "recent_change": "2025: NC Supreme Court upheld the SAFE Child Act revival window (McKinney v. Goins).",
+   "confidence": "medium",
+   "notes": "The court also held the window covers those who enabled the abuse (Cohane), but it cannot revive claims already dismissed with a final judgment.",
+   "sources": [
+    "https://wakeforestlawreview.com/2025/02/victory-for-victims-the-north-carolina-supreme-court-upholds-the-safe-child-acts-revival-provision",
+    "https://www.carolinajournal.com/state-supreme-court-upholds-safe-child-act-as-constitutional/",
+    "https://childusa.org/us-windowsrevival-laws-for-csa-since-2002-6-7-24-ah"
+   ],
+   "checked": true
+  },
+  {
+   "state": "North Dakota",
+   "code": "ND",
+   "adult_civil": "9 years after the act for sexual assault/abuse claims (2023 law, SB 2282).",
+   "child_civil": "21 years after the claim accrues, with the clock starting no earlier than age 15 (so at least until about age 36); applies to all defendants (N.D. Cent. Code § 28-01-25.1).",
+   "window": "None; a proposed revival of expired claims was removed before the 2023 law passed.",
+   "criminal_adult": "7 years for gross sexual imposition; 3 years for other felonies.",
+   "criminal_child": "21 years after the offense (clock starts no earlier than age 15), or 3 years after a late report or DNA/fingerprint identification (§§ 29-04-03.1, 29-04-03.2).",
+   "recent_change": "2023: civil child abuse limit raised from 10 to 21 years and a 9-year adult limit created.",
+   "confidence": "high",
+   "notes": "Early drafts of the 2023 law would have revived expired claims until Aug. 1, 2025, but that provision was removed before passage.",
+   "sources": [
+    "https://ndlegis.gov/cencode/t28c01.pdf",
+    "https://ndlegis.gov/files/resource/68-2023/library/sb2282.pdf",
+    "https://childusa.org/law/north-dakota/child-sex-abuse-sol/",
+    "https://ndlegis.gov/assembly/68-2023/session-laws/documents/jcvil.pdf"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Ohio",
+   "code": "OH",
+   "adult_civil": "No special statute; 1 year under the assault/battery limit (R.C. 2305.111).",
+   "child_civil": "Until age 30 (12 years after turning 18) against all defendants; no general discovery rule, but the clock pauses if a defendant hid the facts, for abuse on or after Aug. 3, 2006 (R.C. 2305.111(C)).",
+   "window": "Claims against the Boy Scouts of America bankruptcy trust may be filed at any time (since Oct. 2023); no general window.",
+   "criminal_adult": "25 years for rape and sexual battery; if DNA identifies a suspect after that, 5 years from the match (R.C. 2901.13).",
+   "criminal_child": "25 years for rape and sexual battery, with the clock paused until age 18 (about age 43); DNA extension applies.",
+   "recent_change": "2023: special revival for Boy Scouts abuse survivors' claims against the BSA trust.",
+   "confidence": "high",
+   "notes": "A bill pending in 2026 (SB 421) would raise the adult civil limit from 1 to 5 years; it has not become law. An amended version of R.C. 2305.111 takes effect Oct. 12, 2028; check with an attorney how it changes these rules.",
+   "sources": [
+    "https://codes.ohio.gov/ohio-revised-code/section-2305.111",
+    "https://childusa.org/law/ohio/child-sex-abuse-sol/",
+    "https://hoodline.com/2026/05/ohio-pols-push-longer-legal-lifeline-for-sex-assault-survivors/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Oklahoma",
+   "code": "OK",
+   "adult_civil": "No special statute; 2 years general personal injury (some sources note 1 year for assault/battery claims).",
+   "child_civil": "By age 45 against the abuser (requires objective verifiable evidence); about age 20 (2 years after 18) against institutions/employers (12 Okla. Stat. § 95(A)(6)).",
+   "window": "None.",
+   "criminal_adult": "20 years after the crime is reported to police for listed sex crimes (up from 12 years as of Nov. 1, 2025); no limit if preserved DNA evidence later identifies the offender (22 Okla. Stat. § 152(C)).",
+   "criminal_child": "Until the victim's 45th birthday for rape, sodomy, lewd acts and other listed child sex crimes; DNA exception applies.",
+   "recent_change": "2025: HB 1935 extended the criminal deadline for listed sex crimes against adults from 12 to 20 years after a police report, effective Nov. 1, 2025.",
+   "confidence": "medium",
+   "notes": "The 2025 criminal change applies only to offenses not already time-barred on Nov. 1, 2025. Claims against an abuser who has died are restricted. Sources on the civil deadlines are limited; confirm with an attorney.",
+   "sources": [
+    "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1935%20ENR.PDF",
+    "https://childusa.org/?p=94787",
+    "https://childusa.org/2026-sol-tracker/",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Oregon",
+   "code": "OR",
+   "adult_civil": "No limit for sexual assault claims arising on or after June 26, 2025 (HB 3582); earlier claims: 5 years from discovering the injury was caused by the assault (ORS 12.118).",
+   "child_civil": "No limit for claims arising on or after June 26, 2025, including against those who allowed or encouraged the abuse; earlier claims: age 40 or 5 years from discovery, whichever is later (ORS 12.117).",
+   "window": "None; HB 3582 applies only to claims arising on or after June 26, 2025, and does not revive expired claims.",
+   "criminal_adult": "12 years for first-degree rape, sodomy, unlawful sexual penetration and sex abuse; no limit if later identified by DNA (ORS 131.125).",
+   "criminal_child": "Until age 30 for first-degree sex crimes (or 12 years after the offense, if later); lesser offenses until age 30 or 12 years after report, whichever is first.",
+   "recent_change": "2025: HB 3582 (ch. 447) eliminated civil deadlines for child sexual abuse and adult sexual assault claims arising on or after June 26, 2025, and dropped the 'knowingly' requirement for third-party liability.",
+   "confidence": "high",
+   "notes": "HB 3582 does not say whether a claim 'arises' on the date of abuse or the date of discovery, so courts may decide which older cases it covers. Criminal limits may have changed in recent years; confirm with an attorney.",
+   "sources": [
+    "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/MeasureDocument/HB3582/Enrolled",
+    "https://apps.oregonlegislature.gov/liz/2025R1/Downloads/MeasureAnalysisDocument/93228",
+    "https://childusa.org/2026-sol-tracker/",
+    "https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2015orLaw0417.pdf"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Pennsylvania",
+   "code": "PA",
+   "adult_civil": "2 years general; survivors assaulted at ages 18-23 have until age 30 (2019 law).",
+   "child_civil": "Until age 55 against all defendants (42 Pa.C.S. § 5533(b)(2)); applies to claims not already expired when the 2019 law took effect.",
+   "window": "None. House passed HB 462 (statutory 2-year window) and HB 464 (constitutional amendment) in 2025; both await Senate action.",
+   "criminal_adult": "12 years for rape (42 Pa.C.S. § 5552(b.1)); longer for victims under 24.",
+   "criminal_child": "No limit for major sexual offenses against minors; until age 55 for other child sex offenses (§ 5552(c)(3)).",
+   "recent_change": "2019: Act 87 eliminated criminal SOL for major child sex offenses and raised civil limit to age 55.",
+   "confidence": "medium",
+   "notes": "A constitutional-amendment window was derailed in 2021 by an advertising error. Window bills were still pending in the Senate as of April 2026 and have not become law.",
+   "sources": [
+    "https://childusa.org/?p=93944",
+    "https://www.monvalleyindependent.com/2026/04/27/victims-advocates-urge-action-on-lookback-window-for-abuse-victims-in-pa/",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Rhode Island",
+   "code": "RI",
+   "adult_civil": "No special statute; 3 years general personal injury (R.I. Gen. Laws § 9-1-14).",
+   "child_civil": "35 years after the abuse, with the clock paused until age 18 (about age 53), or 7 years from discovery, whichever is later; applies to abusers and negligent institutions (R.I. Gen. Laws § 9-1-51).",
+   "window": "In 2019, expired claims were revived against abusers only; claims against institutions that were already time-barred were not revived.",
+   "criminal_adult": "No limit for first-degree sexual assault; 3 years for other sexual offenses such as second-degree sexual assault (§ 12-12-17).",
+   "criminal_child": "No limit for first- and second-degree child molestation sexual assault; 3 years for other offenses.",
+   "recent_change": "2019: civil limit extended to 35 years after 18, with revival against perpetrators.",
+   "confidence": "high",
+   "notes": "The RI Supreme Court has held that revival does not reach defendants other than the abuser. Bills pending in 2026 would remove the civil limit, including for revived claims (S.B. 739), and set a 10-year limit for second-degree sexual assault (H.B. 6133).",
+   "sources": [
+    "https://webserver.rilegislature.gov/Statutes/TITLE9/9-1/9-1-51.htm",
+    "https://childusa.org/?p=94226",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "South Carolina",
+   "code": "SC",
+   "adult_civil": "No special statute; 3 years general personal injury.",
+   "child_civil": "Until age 27 (6 years after 21) or 3 years from discovery, whichever is later, against all defendants (S.C. Code § 15-3-555).",
+   "window": "None.",
+   "criminal_adult": "No limit; South Carolina has no criminal statute of limitations.",
+   "criminal_child": "No limit.",
+   "recent_change": "",
+   "confidence": "high",
+   "notes": "A bill on sexual abuse and incest (S.B. 148) has been introduced.",
+   "sources": [
+    "https://www.scstatehouse.gov/code/t15c003.php",
+    "https://childusa.org/?p=94622",
+    "https://childusa.org/2026-sol-tracker/",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "South Dakota",
+   "code": "SD",
+   "adult_civil": "No special statute; general limits of 2-3 years apply.",
+   "child_civil": "3 years from the act or from discovery of the abuse-injury link, whichever is later; after age 40, only the abuser can be held liable (SDCL § 26-10-25).",
+   "window": "None.",
+   "criminal_adult": "No limit for first- and second-degree rape and Class A-C felonies (SDCL § 23A-42-1); 7 years for others.",
+   "criminal_child": "No limit for first- and second-degree rape; other offenses until age 25 or 7 years after the offense.",
+   "recent_change": "",
+   "confidence": "high",
+   "notes": "Sources differ on the adult civil deadline: it is often given as 3 years, but South Dakota also has a 2-year assault/battery limit; confirm with an attorney.",
+   "sources": [
+    "https://sdlegislature.gov/Statutes/26-10-25",
+    "https://childusa.org/?p=94925",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Tennessee",
+   "code": "TN",
+   "adult_civil": "No special statute; 1 year general personal injury.",
+   "child_civil": "30 years after age 18 (age 48) or 3 years from discovery for abuse on/after July 1, 2019 (Tenn. Code § 28-3-116, amended 2025); stricter rules for older abuse and claims against an abuser's estate.",
+   "window": "None.",
+   "criminal_adult": "No limit for rape and aggravated rape committed on/after July 1, 2014 if reported to police within 3 years; otherwise standard felony limits.",
+   "criminal_child": "No limit for most child sex felonies; certain older offenses until 30 years after age 18 (2025 change), with corroboration rules.",
+   "recent_change": "2025: Public Chapter 291 (HB 973) extended civil limit from 15 to 30 years after 18 and certain criminal limits from 25 to 30 years, effective July 1, 2025.",
+   "confidence": "medium",
+   "notes": "For abuse before July 1, 2019, the deadline is 3 years from discovery. It is unclear how the 2025 extension applies to abuse before July 1, 2025. A bill to revive expired adult sexual assault claims (SB1234) has been introduced.",
+   "sources": [
+    "https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=HB0973&GA=114",
+    "https://open.pluralpolicy.com/tn/bills/114/HB973",
+    "https://childusa.org/law/tennessee/child-sex-abuse-sol/",
+    "https://www.actionnews5.com/story/25192612/law-passes-to-eliminate-statute-of-limitation-on-rape-cases/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Texas",
+   "code": "TX",
+   "adult_civil": "5 years for sexual assault and aggravated sexual assault (Tex. Civ. Prac. & Rem. Code § 16.0045(b)).",
+   "child_civil": "30 years after the claim accrues, generally at age 18 (about age 48), against all defendants (§ 16.0045(a)).",
+   "window": "None; the Texas Constitution bars retroactive laws.",
+   "criminal_adult": "10 years for sexual assault; no limit if DNA evidence is untested or unmatched, or the suspect is linked to 5+ similar victims (Tex. Code Crim. Proc. art. 12.01).",
+   "criminal_child": "No limit for sexual assault of a child, aggravated sexual assault, continuous sexual abuse, indecency with a child, and child trafficking.",
+   "recent_change": "2025: SB 1558 limited civil liability of certain nonprofit foster-care contractors for claims accruing after its effective date.",
+   "confidence": "high",
+   "notes": "Proposals to allow retroactive child abuse claims (HJR 120/SJR 51) and to remove the civil limit (HB 2022/SB 1167) were introduced in 2025 but did not become law. 2025 laws may have added offenses to the no-limit criminal list; confirm with an attorney.",
+   "sources": [
+    "https://texas.public.law/statutes/tex._civ._practice_and_remedies_code_section_16.0045",
+    "https://capitol.texas.gov/tlodocs/89R/billtext/pdf/SB01558F.pdf",
+    "https://childusa.org/law/texas/child-sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Utah",
+   "code": "UT",
+   "adult_civil": "No special statute; 4 years general personal injury.",
+   "child_civil": "No limit against the abuser; against others who negligently allowed the abuse, age 22 (4 years after 18) or 4 years from discovery, whichever is later (Utah Code § 78B-2-308).",
+   "window": "A 2016 revival law for claims against abusers was struck down (Mitchell v. Roberts, 2020 UT 34).",
+   "criminal_adult": "No limit for rape and other listed sex felonies (Utah Code § 76-1-301).",
+   "criminal_child": "No limit for rape of a child, sodomy on a child, sexual abuse of a child and other listed felonies.",
+   "recent_change": "2026: SB 30 added child sex trafficking to the no-limit criminal list (effective May 6, 2026).",
+   "confidence": "high",
+   "notes": "Suits under this statute can be brought only against living individuals. The final status of a 2025 bill on sexual abuse deadlines (HB 117) is unclear.",
+   "sources": [
+    "https://le.utah.gov/xcode/Title78B/Chapter2/78B-2-S308.html",
+    "https://childusa.org/law/utah/child-sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Vermont",
+   "code": "VT",
+   "adult_civil": "No special statute; 3 years general personal injury.",
+   "child_civil": "No limit against any defendant (12 V.S.A. § 522); for older revived claims, institutions are liable only for gross negligence.",
+   "window": "Permanent revival: all expired child sexual abuse claims revived in 2019 (no deadline).",
+   "criminal_adult": "No limit for sexual assault and aggravated sexual assault (13 V.S.A. § 4501(a)).",
+   "criminal_child": "No limit for aggravated sexual assault and sexual exploitation; 40 years for lewd conduct with a child.",
+   "recent_change": "2019: Act 37 eliminated the civil limit and revived expired claims (extended to physical abuse in 2021).",
+   "confidence": "high",
+   "notes": "Sources differ on the adult civil deadline; confirm with an attorney.",
+   "sources": [
+    "https://legislature.vermont.gov/statutes/section/12/023/00522",
+    "https://childusa.org/law/vermont/sex-abuse-sol/",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Virginia",
+   "code": "VA",
+   "adult_civil": "10 years for sexual abuse claims accruing on/after July 1, 2020; 15 years if the abuser held a position of authority (Va. Code § 8.01-243(D1), (D2)).",
+   "child_civil": "20 years after the claim accrues: at age 18, or later when a licensed health professional first tells the survivor the injury was caused by the abuse (Va. Code §§ 8.01-243(D), 8.01-249(6)).",
+   "window": "None.",
+   "criminal_adult": "No limit; Virginia has no statute of limitations for felonies.",
+   "criminal_child": "No limit for felonies; misdemeanors until age 19 or 23.",
+   "recent_change": "2023: 15-year civil limit added for adult abuse by a person in a position of authority (the 10-year adult limit dates from 2020).",
+   "confidence": "high",
+   "notes": "The 10- and 15-year adult limits apply to claims accruing on or after July 1, 2020. A 2007 court ruling (Kopalchick) limits the discovery rule for claims against institutions.",
+   "sources": [
+    "https://law.lis.virginia.gov/vacode/title8.01/chapter4/section8.01-243/",
+    "https://childusa.org/?p=94555",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Washington",
+   "code": "WA",
+   "adult_civil": "No special statute; 2 years for assault/battery, 3 years for negligence.",
+   "child_civil": "No limit for abuse on or after June 6, 2024; for earlier abuse, 3 years from the act or from discovery, paused until age 18 (RCW 4.16.340).",
+   "window": "None.",
+   "criminal_adult": "20 years for first- and second-degree rape; 10 years for third-degree rape (RCW 9A.04.080).",
+   "criminal_child": "No limit for first-degree child rape, first-degree child molestation and others; some offenses 10-20 years or until age 28-30.",
+   "recent_change": "2024: HB 1618 eliminated the civil limit for childhood sexual abuse occurring on/after June 6, 2024.",
+   "confidence": "high",
+   "notes": "The no-limit rule covers claims based on intentional conduct. SB 5105 (2026) extends the criminal limit for AI-generated sexual images of minors to 10 years.",
+   "sources": [
+    "https://lawfilesext.leg.wa.gov/biennium/2023-24/Pdf/Bills/Session Laws/House/1618-S2.sl.pdf",
+    "https://childusa.org/law/washington/sex-abuse-sol/",
+    "https://childusa.org/2026-sol-tracker/"
+   ],
+   "checked": true
+  },
+  {
+   "state": "West Virginia",
+   "code": "WV",
+   "adult_civil": "No special statute; 2 years general personal injury.",
+   "child_civil": "Against the abuser: until age 36 or 4 years from discovery, whichever is longer; against those who aided, abetted or concealed the abuse: until age 36 (W. Va. Code § 55-2-15).",
+   "window": "The 2020 law applies even to claims whose old deadline had expired, effectively reviving claims up to age 36 (§ 55-2-15(c)).",
+   "criminal_adult": "No limit; West Virginia has no statute of limitations for felonies.",
+   "criminal_child": "No limit for felonies; misdemeanors 1 year.",
+   "recent_change": "2020: civil limit extended to 18 years after majority, applied to expired claims.",
+   "confidence": "high",
+   "notes": "How far the 2020 revival language reaches has been disputed in court.",
+   "sources": [
+    "https://code.wvlegislature.gov/55-2-15/",
+    "https://childusa.org/?p=94791",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Wisconsin",
+   "code": "WI",
+   "adult_civil": "No special statute; 3 years for intentional torts (Wis. Stat. § 893.57).",
+   "child_civil": "Age 35 against the abuser (Wis. Stat. § 893.587); about age 20 against others, except age 35 for negligent supervision claims against religious organizations.",
+   "window": "None.",
+   "criminal_adult": "No limit for first-degree sexual assault; 10 years for second- and third-degree (Wis. Stat. § 939.74).",
+   "criminal_child": "No limit for first- and second-degree child sexual assault; age 45 for other child sex felonies.",
+   "recent_change": "",
+   "confidence": "medium",
+   "notes": "Sources differ on the adult civil deadline (3 years vs. 6 years) and on details of the child civil deadlines; confirm with an attorney.",
+   "sources": [
+    "https://childusa.org/law/wisconsin/child-sex-abuse-sol/",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  },
+  {
+   "state": "Wyoming",
+   "code": "WY",
+   "adult_civil": "No special statute; 4 years general personal injury (the 1-year assault limit excludes sexual assault).",
+   "child_civil": "8 years after age 18 (age 26) or 3 years from discovery, whichever is later (Wyo. Stat. § 1-3-105(b)).",
+   "window": "None.",
+   "criminal_adult": "No limit; Wyoming has no criminal statute of limitations.",
+   "criminal_child": "No limit.",
+   "recent_change": "",
+   "confidence": "high",
+   "notes": "",
+   "sources": [
+    "https://wyoleg.gov/statutes/compress/title01.pdf",
+    "https://childusa.org/law/wyoming/child-sex-abuse-sol/",
+    "https://www.shubinlaw.com/?p=11436"
+   ],
+   "checked": true
+  }
+ ]
+}
