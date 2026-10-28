@@ -1,5 +1,55 @@
 [
  {
+  "title": "Cornell faculty open no-confidence vote on president over handling of fraternity rape report",
+  "source": "The Boston Globe",
+  "url": "https://www.bostonglobe.com/2026/10/28/nation/cornell-university-fraternity-gang-rape/",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Cornell University",
+  "summary": "Cornell's faculty met privately before opening anonymous electronic voting, running through Nov. 6, on a no-confidence resolution over the administration's response to a 2024 fraternity gang rape report. President Michael Kotlikoff has acknowledged missteps but asked for time to carry out reforms.",
+  "status": "policy",
+  "location": "United States, New York",
+  "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "JPMorgan asks judge to throw out ex-banker's harassment suit, alleging witnesses were coached to lie",
+  "source": "Fortune",
+  "url": "https://fortune.com/2026/10/27/jpmorgan-asks-judge-to-dismiss-ex-bankers-sex-slave-suit/",
+  "date": "2026-10-27",
+  "category": "company",
+  "institution": "JPMorgan Chase",
+  "summary": "JPMorgan asked a Manhattan federal judge to dismiss, as a sanction, a former banker's suit accusing a senior colleague of sexual coercion, saying he pressured his sister and a friend to give false testimony. The bank and the executive deny the allegations, and several of the plaintiff's lawyers have moved to withdraw.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "case": "corporate-misconduct",
+  "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Pope Leo to meet clergy abuse survivors during November trip to Uruguay, Argentina and Peru",
+  "source": "Global News",
+  "url": "https://globalnews.ca/news/12122840/pope-leo-clergy-abuse-survivors-latin-american-meetings/",
+  "date": "2026-10-27",
+  "category": "religious",
+  "institution": "Holy See (Vatican)",
+  "summary": "The Vatican said several meetings with survivors of clergy sexual abuse are planned during the pope's Nov. 6-17 visit to South America, without giving times or places. The pope previously handled abuse complaints tied to the Sodalitium movement as a bishop in Peru.",
+  "status": "policy",
+  "location": "Vatican City / Peru",
+  "case": "catholic-church-global",
+  "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Former Cottonwood elementary teacher pleads guilty to 15 child sex crimes, including secretly filming students",
+  "source": "AZFamily",
+  "url": "https://www.azfamily.com/2026/10/27/ex-arizona-teacher-gets-50-years-molesting-boy-filming-students/",
+  "date": "2026-10-27",
+  "category": "school",
+  "institution": "Dr. Daniel Bright Elementary School (Cottonwood)",
+  "summary": "A former teacher at a Cottonwood, Arizona elementary school pleaded guilty to child molestation, sexual exploitation of a minor and surreptitious recording counts, some involving students. Prosecutors say the plea carries a 50-year prison term, with sentencing set for next month.",
+  "status": "conviction",
+  "location": "United States, Arizona",
+  "added": "2026-10-28T07:43:21Z"
+ },
+ {
   "title": "Cornell under scrutiny for housing student disciplined in fraternity assault case in co-ed dorm",
   "source": "Associated Press (via WRVO)",
   "url": "https://www.wrvo.org/2026-10-27/cornell-faces-questions-over-dorm-assignment-for-student-disciplined-in-sexual-assault-case",
@@ -171,6 +221,31 @@
   "status": "policy",
   "location": "Ghana, Upper East",
   "added": "2026-10-26T07:41:46Z"
+ },
+ {
+  "title": "Kansas attorney general pressed in election race to release names of 188 clergy flagged in KBI abuse probe",
+  "source": "Kansas City Star (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/10/in-kansas-ags-race-kobach-is-pressed-for-names-of-188-priests-accused-of-abuse/",
+  "date": "2026-10-25",
+  "category": "government",
+  "institution": "Kansas Attorney General's Office",
+  "summary": "A campaign ad and the Democratic challenger are demanding that Attorney General Kris Kobach publish the names of 188 clergy identified as suspects in the Kansas Bureau of Investigation's Catholic Church probe, which led to no charges. Kobach's office says naming uncharged people would be unethical and potentially defamatory.",
+  "status": "investigation",
+  "location": "United States, Kansas",
+  "case": "catholic-church-us",
+  "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Bangladesh religious affairs minister pledges action after abuse allegations at six madrasas in two weeks",
+  "source": "The Daily Star",
+  "url": "https://www.thedailystar.net/news/crime-justice/news/sexual-assaults-madrasa-children-spark-outrage-4306651",
+  "date": "2026-10-25",
+  "category": "religious",
+  "institution": "Madrasas in Bangladesh",
+  "summary": "Teachers and heads at six madrasas in Gazipur, Savar, Kushtia and Pabna were accused of raping or sexually abusing resident pupils between Oct. 8 and 23, with several arrested and others at large. The religious affairs minister called the reports shameful and promised preventive measures, while rights groups urged fair investigations and condemned mob attacks.",
+  "status": "charges",
+  "location": "Bangladesh",
+  "added": "2026-10-28T07:43:21Z"
  },
  {
   "title": "Vermont diocese's bid to exit bankruptcy heads to December hearing after creditors rejected $29.4M offer",
