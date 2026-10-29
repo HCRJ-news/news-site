@@ -1,5 +1,54 @@
 [
  {
+  "title": "Polish bishop of Tarnów convicted of failing to promptly report clergy child abuse allegations to authorities",
+  "source": "Notes from Poland",
+  "url": "https://notesfrompoland.com/2026/10/29/polish-bishop-convicted-for-failing-to-promptly-report-child-sex-abuse-allegations",
+  "date": "2026-10-29",
+  "category": "religious",
+  "institution": "Diocese of Tarnów",
+  "summary": "A Polish court found Bishop Andrzej Jeż guilty of delaying notification to prosecutors about credible abuse reports involving two priests, the first such conviction of a Polish bishop, and imposed a non-custodial penalty including payments to child-protection and victim-support funds. The diocese says it will appeal.",
+  "status": "conviction",
+  "location": "Poland, Lesser Poland",
+  "case": "catholic-church-global",
+  "added": "2026-10-29T19:34:22Z"
+ },
+ {
+  "title": "Trial of former Eastlawn Elementary principal on child sex charges begins with stalled jury selection",
+  "source": "The Alamance News",
+  "url": "https://alamancenews.com/jury-selection-in-trial-of-former-eastlawn-principal-stalls-due-to-procedural-errors",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "Alamance-Burlington School System",
+  "summary": "Jury selection in the trial of former Eastlawn Elementary principal Daniel McInnis, charged with sex offences involving a young student in 2023, was delayed by errors in juror lists. McInnis, who rejected a plea offer and maintains his innocence, remains suspended without pay by the district.",
+  "status": "charges",
+  "location": "United States, North Carolina",
+  "added": "2026-10-29T19:34:22Z"
+ },
+ {
+  "title": "Former Waterford national school principal, a De La Salle brother, jailed for abusing a pupil in 1978-80",
+  "source": "The Irish Times",
+  "url": "https://irishtimes.com/crime-law/courts/2026/10/29/former-school-principal-91-jailed-for-child-sexual-abuse",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "St Stephen's De La Salle National School (Waterford)",
+  "summary": "Con Desmond, 91, a former principal known in religious life as Br Cornelius, received a prison sentence at Waterford Circuit Court for nine counts of indecent assault against a child at the school between 1978 and 1980.",
+  "status": "conviction",
+  "location": "Ireland, County Waterford",
+  "added": "2026-10-29T19:34:22Z"
+ },
+ {
+  "title": "Man accused in Cornell fraternity rape lawsuit seeks to remove New York attorney general as special prosecutor",
+  "source": "Associated Press (via KSL)",
+  "url": "https://ksl.com/article/51642304/man-accused-in-cornell-rape-lawsuit-wants-letitia-james-removed-from-investigation",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "Cornell University",
+  "summary": "One of the men accused in a former student's lawsuit over an alleged 2024 fraternity assault argues Attorney General Letitia James showed bias and should not lead the renewed criminal probe the governor assigned to her; her office calls the challenge meritless. No one has been charged.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "added": "2026-10-29T19:34:22Z"
+ },
+ {
   "title": "Russell Brand's wife and two former partners testify for the defence at his London trial",
   "source": "ABC News (Australia)",
   "url": "https://www.abc.net.au/news/2026-10-29/russell-brand-wife-gives-evidence-in-his-defence/107325686",
@@ -11,6 +60,30 @@
   "location": "United Kingdom, England",
   "case": "russell-brand",
   "added": "2026-10-29T14:01:52Z"
+ },
+ {
+  "title": "Taipei prosecutors indict former elementary school teacher accused of sexually assaulting 38 pupils",
+  "source": "Focus Taiwan (CNA)",
+  "url": "https://focustaiwan.tw/society/202610280023",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Taipei elementary school (unnamed)",
+  "summary": "Prosecutors charged a teacher who worked at a Taipei elementary school from 2010 until this year with sexual offences against dozens of students over many years and are seeking the maximum sentence. The city's education department had already dismissed him, fined him the statutory maximum and barred him from teaching for life.",
+  "status": "charges",
+  "location": "Taiwan, Taipei",
+  "added": "2026-10-29T19:34:22Z"
+ },
+ {
+  "title": "Former Cortez High School teacher and baseball coach sentenced to 20 years in Phoenix student sex crimes case",
+  "source": "AZFamily",
+  "url": "https://www.azfamily.com/2026/10/28/former-phoenix-teacher-sentenced-20-years-prison-child-sex-crime-case/",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Cortez High School (Phoenix)",
+  "summary": "Eric Chapman, who pleaded guilty to attempted sexual exploitation and attempted sexual conduct with a minor, was sentenced to 20 years plus lifetime probation; prosecutors said the offences involved current and former students from 2020 to 2025.",
+  "status": "conviction",
+  "location": "United States, Arizona",
+  "added": "2026-10-29T19:34:22Z"
  },
  {
   "title": "UK to fund survivor advisory panel to shape government policy on child sexual abuse",
