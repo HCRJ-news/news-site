@@ -1,5 +1,42 @@
 [
  {
+  "title": "Russell Brand's wife and two former partners testify for the defence at his London trial",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-29/russell-brand-wife-gives-evidence-in-his-defence/107325686",
+  "date": "2026-10-29",
+  "category": "government",
+  "institution": "Crown Prosecution Service",
+  "summary": "Laura Brand told Southwark Crown Court her husband was a caring partner and father, while acknowledging she did not know him during part of the period covered by the charges. Two former girlfriends from the late 1990s also gave evidence for the defence; Brand denies all seven counts and the trial continues.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "russell-brand",
+  "added": "2026-10-29T14:01:52Z"
+ },
+ {
+  "title": "UK to fund survivor advisory panel to shape government policy on child sexual abuse",
+  "source": "Social Care Today",
+  "url": "https://socialcare.today/2026/10/28/panel-to-give-child-sexual-abuse-victims-a-say-in-government-policy/",
+  "date": "2026-10-28",
+  "category": "government",
+  "institution": "Home Office",
+  "summary": "The UK government pledged up to £1 million for a panel of adult survivors of child sexual abuse and exploitation, run by the Victims Commissioner for England and Wales, to advise on policy. Recruitment is due to open soon ahead of a spring 2027 launch.",
+  "status": "policy",
+  "location": "United Kingdom, England",
+  "added": "2026-10-29T14:01:52Z"
+ },
+ {
+  "title": "Ghana's gender minister meets Obuasi school students affected by alleged abuse, pledges support",
+  "source": "Rainbow Radio Online",
+  "url": "https://rainbowradioonline.com/2026/10/28/gender-minister-reassures-affected-obuasi-shts-students-of-support/",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Obuasi Senior High Technical School",
+  "summary": "Ghana's Minister for Gender, Children and Social Protection met students at the centre of the Obuasi abuse allegations and said her ministry is working with the Ghana Education Service and social welfare officers on medical and psychological support while police investigate.",
+  "status": "investigation",
+  "location": "Ghana, Ashanti",
+  "added": "2026-10-29T14:01:52Z"
+ },
+ {
   "title": "Family says it warned Worcester bishop for months about a priest before diocese reported abuse allegation",
   "source": "The Boston Globe",
   "url": "https://www.bostonglobe.com/2026/10/28/metro/mcmanus-priest-abuse-worcester-letter/",
@@ -183,6 +220,31 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Kansas City, Kansas archdiocese restricts ministry of priest whose 2017 child sex case was dismissed",
+  "source": "The Kansas City Star (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/archdiocese-restricts-ministry-kansas-priest-100000679.html",
+  "date": "2026-10-27",
+  "category": "religious",
+  "institution": "Archdiocese of Kansas City in Kansas",
+  "summary": "Following a Vatican penal precept, the archbishop barred a priest from parish work and from ministering to minors or women, and placed him under monitoring. The priest's 2019 criminal trial ended in a hung jury and prosecutors later dropped the case; the Vatican found insufficient evidence of a canonical crime but still imposed restrictions.",
+  "status": "policy",
+  "location": "United States, Kansas",
+  "case": "catholic-church-us",
+  "added": "2026-10-29T14:01:52Z"
+ },
+ {
+  "title": "Durham Regional Police officer charged with luring minors and child sexual abuse material offences",
+  "source": "Quinte News",
+  "url": "https://quintenews.com/2026/10/27/ajax-man-charged-in-northumberland-county-child-sexual-exploitation-investigation",
+  "date": "2026-10-27",
+  "category": "government",
+  "institution": "Durham Regional Police Service",
+  "summary": "A serving member of the Durham Regional Police Service was arrested by Northumberland County investigators and faces seven charges, including luring and possessing child sexual abuse and exploitation material. The allegations have not been tested in court.",
+  "status": "charges",
+  "location": "Canada, Ontario",
+  "added": "2026-10-29T14:01:52Z"
  },
  {
   "title": "Founder-principal of Latur private school arrested under child protection law; police team seeks more complainants",
