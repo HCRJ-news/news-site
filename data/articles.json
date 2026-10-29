@@ -1,5 +1,54 @@
 [
  {
+  "title": "D.C. Circuit refuses to pause order requiring DOJ to begin reviewing foreign-language Epstein files",
+  "source": "Raw Story",
+  "url": "https://www.rawstory.com/todd-blanche-epstein-files-2678160580/",
+  "date": "2026-10-28",
+  "category": "government",
+  "institution": "U.S. Department of Justice",
+  "summary": "A three-judge appeals panel denied the Justice Department's request for a stay, finding it had not shown harm from starting a court-ordered review of foreign-language records under the Epstein Files Transparency Act. The underlying suit, brought by journalist Katie Phang, seeks fuller release of the files.",
+  "status": "policy",
+  "location": "United States, District of Columbia",
+  "case": "epstein",
+  "added": "2026-10-29T01:34:26Z"
+ },
+ {
+  "title": "Former Diomede student sues Bering Strait School District over alleged abuse by a teacher in 2004-05",
+  "source": "KNOM",
+  "url": "https://knom.org/2026/10/28/former-diomede-student-sues-teacher-school-district-over-alleged-sexual-abuse/",
+  "date": "2026-10-28",
+  "category": "school",
+  "institution": "Bering Strait School District",
+  "summary": "A man suing under a pseudonym alleges a teacher at Diomede School abused him when he was a high school student and that district staff failed to report concerns the principal had raised. The district declined comment and the teacher's lawyer has denied the claims.",
+  "status": "lawsuit",
+  "location": "United States, Alaska",
+  "added": "2026-10-29T01:34:26Z"
+ },
+ {
+  "title": "Arlington church sued for negligence after woman alleges its lead pastor assaulted her during counseling",
+  "source": "FOX 4 Dallas-Fort Worth",
+  "url": "https://fox4news.com/news/arlington-pastor-faces-new-lawsuit-over-alleged-sexual-assaults-grooming",
+  "date": "2026-10-28",
+  "category": "religious",
+  "institution": "Koinonia Christian Church",
+  "summary": "A Dallas County lawsuit alleges Koinonia Christian Church negligently hired, supervised and kept its lead pastor despite earlier misconduct claims, and accuses him of assaulting a congregant in 2025. A grand jury previously declined to indict the pastor in a separate case; the claims are unproven.",
+  "status": "lawsuit",
+  "location": "United States, Texas",
+  "added": "2026-10-29T01:34:26Z"
+ },
+ {
+  "title": "Tasmanian survivors say court backlogs are stalling civil abuse claims against the state",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-29/tas-court-delays-affecting-child-sexual-abuse-victims/107280668",
+  "date": "2026-10-28",
+  "category": "government",
+  "institution": "Tasmanian Government",
+  "summary": "Former students of a convicted Hobart teacher describe years of delay in criminal and civil cases, including a claim against the state over its duty of care. Lawyers say abuse claims surged after time limits were removed; the government says it has backed most recommendations of a review into court backlogs.",
+  "status": "lawsuit",
+  "location": "Australia, Tasmania",
+  "added": "2026-10-29T01:34:26Z"
+ },
+ {
   "title": "Russell Brand finishes giving evidence after cross-examination focused on consent",
   "source": "LBC",
   "url": "https://www.lbc.co.uk/article/russell-brand-rape-trial-philandering-5Hjdkb8_2/",
@@ -110,6 +159,18 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Founder-principal of Latur private school arrested under child protection law; police team seeks more complainants",
+  "source": "Aryan Age",
+  "url": "https://www.aryanage.com/article/49245/latur-school-principal-arrested-over-alleged-sexual-harassment-of-minor",
+  "date": "2026-10-27",
+  "category": "school",
+  "institution": "Adarsh International School (Latur)",
+  "summary": "Police in Maharashtra arrested the founder-principal of Adarsh International School under India's POCSO Act after a complaint of sexual harassment of girl students. A special investigation team is examining records and urging other potential victims and witnesses to come forward.",
+  "status": "charges",
+  "location": "India, Maharashtra",
+  "added": "2026-10-29T01:34:26Z"
  },
  {
   "title": "California appeals court upholds Danny Masterson's rape convictions",
