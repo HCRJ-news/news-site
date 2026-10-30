@@ -1,5 +1,18 @@
 [
  {
+  "title": "Prosecution closes its case against Russell Brand; jury deliberations expected to start next week",
+  "source": "Deadline (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/russell-brand-rape-trial-channel-122657505.html",
+  "date": "2026-10-30",
+  "category": "government",
+  "institution": "Crown Prosecution Service",
+  "summary": "In closing remarks at Southwark Crown Court, the prosecutor told jurors the six complainants are unconnected and rejected the defence claim that a 2023 TV documentary reshaped their memories. Brand denies all remaining charges; deliberations are expected to begin November 3.",
+  "status": "charges",
+  "location": "United Kingdom, England",
+  "case": "russell-brand",
+  "added": "2026-10-30T13:53:11Z"
+ },
+ {
   "title": "Bolivian survivors ask church to excommunicate two ex-Jesuit provincials convicted of covering up Pedrajas abuse",
   "source": "InfoVaticana",
   "url": "https://infovaticana.com/en/2026/10/30/victims-of-pedrajas-ask-the-church-to-excommunicate-former-jesuit-provincials-alaix-and-recolons/",
@@ -35,6 +48,54 @@
   "status": "investigation",
   "location": "United Kingdom, England",
   "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Family sues Albemarle County School Board, alleging warnings ignored before autistic student was assaulted in class",
+  "source": "29 News (WVIR)",
+  "url": "https://www.29news.com/2026/10/29/family-student-with-autism-sues-albemarle-county-school-board-over-alleged-classroom-sexual-assault/",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "Albemarle County Public Schools",
+  "summary": "A federal lawsuit alleges administrators disregarded repeated warnings before a student with autism was sexually assaulted in a classroom, did not report the incident, and later retaliated against the family. The division had not commented.",
+  "status": "lawsuit",
+  "location": "United States, Virginia",
+  "added": "2026-10-30T13:53:11Z"
+ },
+ {
+  "title": "Four more women accuse fired Inova physical therapist of assault during sessions as plea hearing nears",
+  "source": "FFXnow",
+  "url": "https://www.ffxnow.com/2026/10/29/inova-physical-therapist-faces-more-sexual-assault-accusations-after-2025-arrest/",
+  "date": "2026-10-29",
+  "category": "company",
+  "institution": "Inova Health System",
+  "summary": "Court records show at least five patients have accused former Inova physical therapist Samuel Choi of sexual assaults during treatment between 2022 and 2025. He faces five counts of aggravated sexual battery; Inova says he was fired after his 2025 arrest.",
+  "status": "charges",
+  "location": "United States, Virginia",
+  "added": "2026-10-30T13:53:11Z"
+ },
+ {
+  "title": "Soweto primary school teacher appears in court charged with raping a pupil on school grounds",
+  "source": "SNL24",
+  "url": "https://snl24.com/news/teacher-in-dock-for-pupil-sexual-assault-20261029",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "Busisiwe Primary School (Soweto)",
+  "summary": "A teacher at a Zola primary school, who is on precautionary suspension, made a second court appearance on a rape charge involving a pupil. Prosecutors plan to oppose bail, and the Gauteng education department says it is providing counselling to the family.",
+  "status": "charges",
+  "location": "South Africa, Gauteng",
+  "added": "2026-10-30T13:53:11Z"
+ },
+ {
+  "title": "Survivors sue Eurobodalla council over alleged abuse by a carer it registered in its 1990s family daycare scheme",
+  "source": "Armidale Express (ACM)",
+  "url": "https://armidaleexpress.com.au/story/9382006/survivors-on-alleged-abuse-in-council-registered-daycare-centres",
+  "date": "2026-10-29",
+  "category": "government",
+  "institution": "Eurobodalla Shire Council",
+  "summary": "Seven people are suing the NSW council in the Supreme Court, alleging it kept a Batemans Bay carer on its daycare scheme despite welfare-agency warnings; the man died in 2001 before allegations were tested. Survivors are pushing for tougher national working-with-children checks.",
+  "status": "lawsuit",
+  "location": "Australia, New South Wales",
+  "added": "2026-10-30T13:53:11Z"
  },
  {
   "title": "Stillwater Township school board pays $735,000 to settle suit over 1999-2000 abuse by a teacher",
@@ -416,6 +477,18 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Former student sues Summit Academy, alleging a football coach abused him at the Butler County facility",
+  "source": "Butler Eagle",
+  "url": "https://www.butlereagle.com/20261027/former-summit-academy-student-claims-sexual-abuse-in-lawsuit/",
+  "date": "2026-10-27",
+  "category": "school",
+  "institution": "Summit Academy",
+  "summary": "A new suit accuses Summit Academy of negligent hiring, supervision and failure to protect, alleging a coach there sexually abused a then-13-year-old student in 2011-12. The academy declined to comment.",
+  "status": "lawsuit",
+  "location": "United States, Pennsylvania",
+  "added": "2026-10-30T13:53:11Z"
  },
  {
   "title": "Three former patients sue Maimonides and a Brooklyn fertility clinic over alleged abuse by a fertility doctor",
