@@ -1,5 +1,18 @@
 [
  {
+  "title": "Bolivian survivors ask church to excommunicate two ex-Jesuit provincials convicted of covering up Pedrajas abuse",
+  "source": "InfoVaticana",
+  "url": "https://infovaticana.com/en/2026/10/30/victims-of-pedrajas-ask-the-church-to-excommunicate-former-jesuit-provincials-alaix-and-recolons/",
+  "date": "2026-10-30",
+  "category": "religious",
+  "institution": "Society of Jesus (Jesuits)",
+  "summary": "A Bolivian survivors' group filed a canonical complaint with the Archdiocese of Cochabamba seeking excommunication and dismissal from the clergy for two former Jesuit provincials whom a Bolivian court sentenced in 2025 for concealing abuse by the late priest Alfonso Pedrajas. Neither the order nor the archdiocese had commented.",
+  "status": "allegation",
+  "location": "Bolivia",
+  "case": "catholic-church-global",
+  "added": "2026-10-30T07:35:06Z"
+ },
+ {
   "title": "Former childcare worker already jailed in Queensland faces 202 abuse charges over Sydney centre",
   "source": "ABC News (Australia)",
   "url": "https://www.abc.net.au/news/2026-10-30/former-childcare-worker-ashley-griffith-child-abuse-offences-nsw/107326918",
@@ -22,6 +35,30 @@
   "status": "investigation",
   "location": "United Kingdom, England",
   "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Stillwater Township school board pays $735,000 to settle suit over 1999-2000 abuse by a teacher",
+  "source": "Jersey Vindicator",
+  "url": "https://jerseyvindicator.org/2026/10/29/school-board-in-sussex-county-settles-decades-old-school-abuse-claims",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "Stillwater Township Board of Education",
+  "summary": "The Sussex County school board agreed to pay $735,000, including legal fees, to resolve a lawsuit alleging a former elementary teacher abused a sixth-grade special education pupil in 1999-2000 and that officials failed to protect him after his mother raised concerns. The settlement was signed in June and recently made public.",
+  "status": "settlement",
+  "location": "United States, New Jersey",
+  "added": "2026-10-30T07:35:06Z"
+ },
+ {
+  "title": "Former McKinney North High athletic trainer sentenced to five years after pleading guilty to assaulting a student",
+  "source": "FOX 4 Dallas-Fort Worth",
+  "url": "https://www.fox4news.com/news/former-mckinney-isd-athletic-trainer-sentenced-for-sexually-abusing-14-year-old-victim",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "McKinney Independent School District",
+  "summary": "A Collin County jury set a five-year prison term for a former McKinney ISD athletic trainer who earlier pleaded guilty to sexual assault of a child and an improper educator-student relationship involving a 14-year-old. She must also register as a sex offender for life.",
+  "status": "conviction",
+  "location": "United States, Texas",
+  "added": "2026-10-30T07:35:06Z"
  },
  {
   "title": "Medford schools hired music teacher who had resigned in Florida amid student relationship probe, Globe finds",
@@ -379,6 +416,31 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Three former patients sue Maimonides and a Brooklyn fertility clinic over alleged abuse by a fertility doctor",
+  "source": "NBC New York",
+  "url": "https://nbcnewyork.com/investigations/brooklyn-fertility-doctor-richard-grazi-maimonides-lawsuit/6563590",
+  "date": "2026-10-27",
+  "category": "company",
+  "institution": "Maimonides Health",
+  "summary": "Three women allege a fertility specialist performed improper, medically unnecessary examinations during appointments in the early 2000s, and name Maimonides Health and the Genesis Fertility clinic as co-defendants. The doctor denies the claims and has not been charged; Maimonides says he is not an employee and holds no privileges there.",
+  "status": "lawsuit",
+  "location": "United States, New York",
+  "added": "2026-10-30T07:35:06Z"
+ },
+ {
+  "title": "Wayne County youth soccer club Chaos Soccer shutting down after coach's SafeSport suspension",
+  "source": "WDIV Local 4 (ClickOnDetroit)",
+  "url": "https://www.clickondetroit.com/news/local/2026/10/27/wayne-county-soccer-coach-stepping-away-after-suspension-over-alleged-relationship-parents-say/",
+  "date": "2026-10-27",
+  "category": "company",
+  "institution": "Chaos Soccer",
+  "summary": "Sources say the Downriver club is ceasing operations and its founding couple have stepped away after a coach was suspended over an alleged inappropriate texting relationship with a minor. The coach, who was not charged after a 2025 police investigation, calls it a communication-policy violation and is appealing.",
+  "status": "investigation",
+  "location": "United States, Michigan",
+  "case": "youth-organizations",
+  "added": "2026-10-30T07:35:06Z"
  },
  {
   "title": "Former Tartan High School teacher sentenced to jail for sexual relationship with a student",
