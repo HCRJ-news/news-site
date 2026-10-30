@@ -1,5 +1,91 @@
 [
  {
+  "title": "Former childcare worker already jailed in Queensland faces 202 abuse charges over Sydney centre",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-30/former-childcare-worker-ashley-griffith-child-abuse-offences-nsw/107326918",
+  "date": "2026-10-30",
+  "category": "company",
+  "institution": "Sydney inner-west childcare centre (unnamed)",
+  "summary": "Ashley Paul Griffith, serving a life sentence for abusing children at Brisbane early learning centres, was charged in NSW with 202 offences involving 23 young children at a Sydney childcare centre between 2014 and 2017. The case was adjourned to January.",
+  "status": "charges",
+  "location": "Australia, New South Wales",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Met Police refers itself to watchdog over 2019 letter alleging abuse images that it never passed to overseas police",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-30/meghan-markle-father-child-abuse-allegations-letter-and-police/107326392",
+  "date": "2026-10-30",
+  "category": "government",
+  "institution": "Metropolitan Police",
+  "summary": "London's Metropolitan Police referred itself to the IOPC after reviewing its 2019 decision to forward, rather than share with overseas authorities, a letter alleging Thomas Markle held child abuse images in the Philippines. Markle denies the claims, and Philippine police are investigating.",
+  "status": "investigation",
+  "location": "United Kingdom, England",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Medford schools hired music teacher who had resigned in Florida amid student relationship probe, Globe finds",
+  "source": "The Boston Globe",
+  "url": "https://www.boston.com/news/the-boston-globe/2026/10/29/he-resigned-amid-allegations-of-sex-with-a-student-medford-missed-his-past-and-hired-him/",
+  "date": "2026-10-29",
+  "category": "school",
+  "institution": "Medford Public Schools",
+  "summary": "Medford Public Schools hired a band director in 2024 without learning he had left a Florida high school in 2017 while under investigation over an alleged relationship with a student; he was never charged. After an anonymous tip he was removed, and the district has ordered an outside review of its hiring.",
+  "status": "investigation",
+  "location": "United States, Massachusetts",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Tenth former FCI Dublin officer pleads guilty to sexually abusing women held at the prison",
+  "source": "KTVU",
+  "url": "https://www.ktvu.com/news/10th-fci-dublin-officer-convicted-sexual-abuse",
+  "date": "2026-10-29",
+  "category": "government",
+  "institution": "Federal Bureau of Prisons",
+  "summary": "A retired FCI Dublin disciplinary hearing officer pleaded guilty to sexually abusing two incarcerated women over whom he held disciplinary power and to lying to investigators. He is the tenth officer convicted in the scandal at the now-closed federal women's prison.",
+  "status": "conviction",
+  "location": "United States, California",
+  "case": "fci-dublin",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Compassion International whistleblower says AI tool flagged thousands of sponsors for suspected grooming",
+  "source": "The Roys Report",
+  "url": "https://roysreport.com/compassion-international-flagged-25k-suspected-grooming-cases-then-failed-to-act/",
+  "date": "2026-10-29",
+  "category": "religious",
+  "institution": "Compassion International",
+  "summary": "A former analyst alleges the Christian child-sponsorship charity's internal screening tool flagged more than 25,000 sponsor letters as suspected grooming, but flagged sponsors were not removed. Compassion disputes the claims, calling the scan a training test of letters already reviewed.",
+  "status": "allegation",
+  "location": "United States, Colorado",
+  "case": "religious-other",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "NSW appeals ruling that cleared former Sydney teacher of paying toward abuse damages for 1970s students",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-29/nsw-appeals-court-ruling-on-sydney-teacher-helga-lam/107324120",
+  "date": "2026-10-29",
+  "category": "government",
+  "institution": "State of New South Wales",
+  "summary": "New South Wales, which paid four former students $2.5 million over a teacher's abuse at a Sydney school in 1978-79, is asking the Court of Appeal to overturn a ruling that the teacher could not be made to contribute. The trial judge had found the school, but not the teacher, could have foreseen the harm.",
+  "status": "lawsuit",
+  "location": "Australia, New South Wales",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
+  "title": "Tasmanian football league rebukes Bracknell club over posts backing former coach charged with rape",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-10-29/bracknell-football-club-post-following-coach-charged-with-rape/107319350",
+  "date": "2026-10-29",
+  "category": "company",
+  "institution": "Bracknell Football Club",
+  "summary": "The Northern Tasmanian Football Association said it was deeply troubled by Bracknell Football Club's social media posts after its former coach was charged with three counts of rape, and told the club to stop commenting. The club president stood down and AFL Tasmania is reviewing the posts.",
+  "status": "charges",
+  "location": "Australia, Tasmania",
+  "added": "2026-10-30T01:36:36Z"
+ },
+ {
   "title": "Polish bishop of Tarnów convicted of failing to promptly report clergy child abuse allegations to authorities",
   "source": "Notes from Poland",
   "url": "https://notesfrompoland.com/2026/10/29/polish-bishop-convicted-for-failing-to-promptly-report-child-sex-abuse-allegations",
@@ -293,6 +379,18 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Former Tartan High School teacher sentenced to jail for sexual relationship with a student",
+  "source": "Pioneer Press (via Yahoo News)",
+  "url": "https://yahoo.com/news/us/articles/former-tartan-high-school-teacher-201100173.html",
+  "date": "2026-10-27",
+  "category": "school",
+  "institution": "Tartan High School (Oakdale)",
+  "summary": "A former special-education teacher at Tartan High School in Oakdale was sentenced to 180 days in jail and two years' probation after pleading guilty to criminal sexual conduct based on a prohibited occupational relationship with a student. The relationship began shortly before the student graduated in 2023.",
+  "status": "conviction",
+  "location": "United States, Minnesota",
+  "added": "2026-10-30T01:36:36Z"
  },
  {
   "title": "Kansas City, Kansas archdiocese restricts ministry of priest whose 2017 child sex case was dismissed",
