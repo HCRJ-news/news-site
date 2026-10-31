@@ -1,5 +1,30 @@
 [
  {
+  "title": "Maine survivor's claim against late priest left out of Portland diocese's settlement of 100-plus abuse claims",
+  "source": "Portland Press Herald",
+  "url": "https://pressherald.com/2026/10/30/she-says-she-was-abused-by-a-maine-priest-60-years-ago-but-wasnt-invited-to-church-settlement-process",
+  "date": "2026-10-30",
+  "category": "religious",
+  "institution": "Roman Catholic Diocese of Portland",
+  "summary": "The diocese has resolved more than 100 child sexual abuse claims involving several clergy for undisclosed sums, but a woman who says the late Rev. Lawrence Sabatino abused her in the 1960s was not included, according to her lawyer. Maine's top court struck down the state's revival of expired claims in 2025, leaving her no route to sue; the diocese declined to comment.",
+  "status": "settlement",
+  "location": "United States, Maine",
+  "case": "catholic-church-us",
+  "added": "2026-10-31T01:34:21Z"
+ },
+ {
+  "title": "Ex-aide sues Memphis-Shelby County Schools, alleging former superintendent exposed herself and then retaliated",
+  "source": "Chalkbeat Tennessee",
+  "url": "https://www.chalkbeat.org/tennessee/2026/10/30/former-mscs-employee-sues-district-over-marie-feagins-sexual-harassment/",
+  "date": "2026-10-30",
+  "category": "school",
+  "institution": "Memphis-Shelby County Schools",
+  "summary": "A former special assistant filed a federal suit against the Shelby County Board of Education seeking $1.5 million, alleging then-Superintendent Marie Feagins exposed herself to her twice in 2024 and demoted her after she rejected advances. Feagins, who is not a defendant, has previously denied the allegations; the district declined to comment.",
+  "status": "lawsuit",
+  "location": "United States, Tennessee",
+  "added": "2026-10-31T01:34:21Z"
+ },
+ {
   "title": "Michigan State orders outside review of why it took 17 months to report accused MSU Health Care doctor to the state",
   "source": "Lansing State Journal (via Yahoo News)",
   "url": "https://www.yahoo.com/news/us/articles/msu-reviewing-why-accused-doctor-180922880.html",
@@ -503,6 +528,18 @@
   "status": "policy",
   "location": "United States, New York",
   "added": "2026-10-28T07:43:21Z"
+ },
+ {
+  "title": "Swedish inspectorate reviews elite Sigtuna boarding school as police probe alleged sexual harassment and hazing of younger pupils",
+  "source": "Nordisk Post",
+  "url": "https://www.nordiskpost.com/2026/10/27/sigtuna-boarding-school-abuse-investigation/",
+  "date": "2026-10-27",
+  "category": "school",
+  "institution": "Sigtunaskolan Humanistiska Läroverket (SSHL)",
+  "summary": "Prosecutors are investigating five people over alleged aggravated sexual harassment, assault and coercion of younger pupils at the boarding school, with eight complainants identified, and the Swedish Schools Inspectorate has opened a review of how the school protects students. Those detained deny the allegations, and the school says there is no culture of violence there.",
+  "status": "investigation",
+  "location": "Sweden, Stockholm County",
+  "added": "2026-10-31T01:34:21Z"
  },
  {
   "title": "Former student sues Summit Academy, alleging a football coach abused him at the Butler County facility",
