@@ -151,5 +151,11 @@
   "title": "Russell Brand",
   "summary": "The 2023 investigation into the comedian and broadcaster, the BBC and Channel 4 reviews that followed, and the criminal case in London, where he denies rape and sexual assault charges.",
   "featured": "Ongoing trial"
+ },
+ "ny-archdiocese": {
+  "title": "Archdiocese of New York abuse settlement",
+  "summary": "The Archdiocese of New York has agreed to pay about $800 million to resolve roughly 1,300 clergy sexual abuse claims, the second-largest settlement by a U.S. archdiocese. The deal becomes final once the parties sign it.",
+  "featured": "Breaking: $800 million settlement",
+  "featured_order": 0
  }
 }

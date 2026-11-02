@@ -219,7 +219,8 @@ def build_index(items):
     status_opts = "".join(f'<option value="{k}">{v}</option>' for k, v in STATUSES.items())
     updated = fmt_date(items[0]["_date"]) if items else ""
     featured = ""
-    for slug, meta in CASE_META.items():
+    # Featured cases appear at the top of the home page; lowest "featured_order" first.
+    for slug, meta in sorted(CASE_META.items(), key=lambda kv: kv[1].get("featured_order", 99)):
         if not meta.get("featured"):
             continue
         its = [i for i in items if i.get("case") == slug]
