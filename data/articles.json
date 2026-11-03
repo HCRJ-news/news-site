@@ -1,5 +1,41 @@
 [
  {
+  "title": "Drexel suspends two unnamed fraternities while it investigates hazing and sexual misconduct allegations",
+  "source": "The Philadelphia Inquirer",
+  "url": "https://www.inquirer.com/education/drexel-university-fraternity-hazing-sexual-misconduct-20261103.html",
+  "date": "2026-11-03",
+  "category": "school",
+  "institution": "Drexel University",
+  "summary": "Drexel placed two fraternities it has not named on interim suspension, barring new-member activities and events with alcohol, while it reviews allegations of hazing and sexual misconduct under its conduct policies. The university has not described the allegations.",
+  "status": "investigation",
+  "location": "United States, Pennsylvania",
+  "added": "2026-11-03T14:34:28Z"
+ },
+ {
+  "title": "North Carolina home services firm Gator Strong pays $25,000 to settle EEOC sexual harassment suit",
+  "source": "International Business Times UK",
+  "url": "https://www.ibtimes.co.uk/gator-strong-eeoc-sexual-harassment-settlement-1829946",
+  "date": "2026-11-03",
+  "category": "company",
+  "institution": "Gator Strong",
+  "summary": "The EEOC had alleged that the Wilmington company's former chief operating officer sexually harassed an office manager and fired her after she refused to discuss a written 'sex contract' left on her desk. The settlement adds a two-year consent decree requiring policy changes, training and reporting, with no finding of liability.",
+  "status": "settlement",
+  "location": "United States, North Carolina",
+  "added": "2026-11-03T14:34:28Z"
+ },
+ {
+  "title": "Indonesian police detain contract religion teacher accused of abusing eight pupils at a North Sumatra primary school",
+  "source": "The Jakarta Post",
+  "url": "https://thejakartapost.com/indonesia/2026/11/03/north-sumatra-teacher-arrested-over-alleged-sexual-abuse-of-eight-students",
+  "date": "2026-11-02",
+  "category": "school",
+  "institution": "Public elementary school, Deli Serdang (unnamed)",
+  "summary": "Police in Deli Serdang regency named a contract Islamic studies teacher a suspect after parents reported that he abused eight students during lessons beginning in July. Investigators are checking whether other pupils were affected.",
+  "status": "charges",
+  "location": "Indonesia, North Sumatra",
+  "added": "2026-11-03T14:34:28Z"
+ },
+ {
   "title": "SUNY Oswego says it is working with police after professor is charged in Canadian junior hockey abuse case",
   "source": "CNY Central",
   "url": "https://cnycentral.com/newsletter-daily/suny-oswego-comm-studies-professor-accused-of-sexually-exploiting-youth-hockey-players",
@@ -96,6 +132,30 @@
   "status": "charges",
   "location": "United States, Wisconsin",
   "added": "2026-11-02T15:37:06Z"
+ },
+ {
+  "title": "Kerala police arrest Habeebiyya Islamic Academy director under child protection law over alleged assault of a teen",
+  "source": "Organiser (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/keralam-habeebiyya-academy-director-arrested-in-pocso-case-for-assaulting-minor-under-pretext-of-spiritual-healing/",
+  "date": "2026-11-01",
+  "category": "religious",
+  "institution": "Habeebiyya Islamic Academy",
+  "summary": "The director of the Kollam-based academy, a religious scholar, was arrested under India's POCSO Act on allegations that he abused a girl who came to him seeking prayer-based healing for an illness. The allegations have not been tested in court.",
+  "status": "charges",
+  "location": "India, Kerala",
+  "added": "2026-11-03T14:34:28Z"
+ },
+ {
+  "title": "Mathura temple priest sentenced to life for abusing girls and selling recordings abroad after CBI probe",
+  "source": "National Herald (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/up-mathura-priest-gets-life-term-for-filming-minors-selling-videos-to-foreigners/",
+  "date": "2026-11-01",
+  "category": "religious",
+  "institution": "Village temple, Mathura district (unnamed)",
+  "summary": "A special POCSO court convicted a village temple priest of luring girls with offerings, abusing them and selling recordings to buyers overseas, and ordered a fine paid to the victims. The CBI opened the case in 2025 on a tip from Interpol.",
+  "status": "conviction",
+  "location": "India, Uttar Pradesh",
+  "added": "2026-11-03T14:34:28Z"
  },
  {
   "title": "Former Middle Township fifth-grade teacher pleads guilty to child endangerment by sexual conduct",
