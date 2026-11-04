@@ -58,6 +58,33 @@ def fmt_date(d):
 
 CASE_META = json.loads(CASES.read_text()) if CASES.exists() else {}
 
+# Breaking-news banner: data/breaking.json holds a list of {"headline", "url", "date"}.
+# The newest item dated within the last BREAKING_DAYS days is shown above everything on every page;
+# older items are ignored, and src.js also hides it in the browser once it expires between builds.
+BREAKING = ROOT / "data" / "breaking.json"
+BREAKING_DAYS = 7
+
+
+def breaking_html():
+    if not BREAKING.exists():
+        return ""
+    today = date.today()
+    live = []
+    for b in json.loads(BREAKING.read_text()):
+        d = date.fromisoformat(b["date"])
+        if 0 <= (today - d).days < BREAKING_DAYS:
+            live.append((d, b))
+    if not live:
+        return ""
+    d, b = max(live, key=lambda x: x[0])
+    expires = date.fromordinal(d.toordinal() + BREAKING_DAYS).isoformat()
+    return (f'<div class="breaking" role="region" aria-label="Breaking news" data-expires="{expires}">'
+            f'<span class="breaking-tag">Breaking</span> '
+            f'<a href="{esc(b["url"])}">{esc(b["headline"])}</a></div>\n')
+
+
+BREAKING_BANNER = breaking_html()
+
 
 def load():
     items = json.loads(DATA.read_text())
@@ -104,7 +131,7 @@ def page(title, body, *, description=TAGLINE, path="/", extra_head="", full_titl
 </head>
 <body>
 <a class="skip" href="#main">Skip to the list</a>
-<header class="site-head">
+{BREAKING_BANNER}<header class="site-head">
   <a class="brand" href="/">{SITE_NAME}</a>
   <nav>
     <a href="/guides/">Get help</a>

@@ -65,6 +65,19 @@ a:hover { text-decoration-thickness: 2px; }
 .site-head nav a { color: var(--muted); text-decoration: none; }
 .site-head nav a:hover { color: var(--ink); text-decoration: underline; }
 
+/* Breaking-news banner (one line, above everything) */
+.breaking {
+  background: var(--grave); color: #fff; font-size: .95rem; line-height: 1.4;
+  padding: .55rem 1rem; text-align: center;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.breaking a { color: #fff; font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+.breaking-tag {
+  display: inline-block; font-size: .72rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase;
+  border: 1px solid currentColor; border-radius: 3px; padding: 0 .35rem; margin-right: .4rem; vertical-align: 1px;
+}
+@media (prefers-color-scheme: dark) { .breaking { background: #7a2020; } }
+
 /* Intro */
 .intro { padding: 2.5rem 0 1.5rem; }
 .intro h1 {

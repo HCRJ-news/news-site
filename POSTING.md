@@ -35,3 +35,10 @@ If an article you add reports that a state's sexual-abuse statute of limitations
 lookback window opening or closing, or a court striking one down), update that state's entry in data/sol.json in
 plain, neutral language, add the article URL to its `sources`, and set top-level `verified` to today's date. Only change
 it for enacted laws or final court rulings, never for bills that are merely introduced or pending.
+
+## Breaking-news banner (data/breaking.json)
+For a genuinely major development (e.g. a verdict in a case in data/cases.json, a settlement of $100 million or more,
+a national inquiry report, or a landmark ruling), add an item to `data/breaking.json`:
+`{"headline": "<=100 chars, own words, same editorial rules>", "url": "<the article you added>", "date": "YYYY-MM-DD"}`.
+The newest item shows as a one-line banner above everything on every page for 7 days, then disappears on its own.
+Use it sparingly — at most one new banner a day, and never for routine arrests or lawsuits.

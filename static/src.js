@@ -13,3 +13,9 @@
     sessionStorage.setItem("sal_src", JSON.stringify({ from: src, landing: location.pathname.slice(0, 200) }));
   } catch (e) {}
 })();
+
+// Hides the breaking-news banner once its week is up, even if the site has not been rebuilt since.
+(function () {
+  var b = document.querySelector(".breaking[data-expires]");
+  if (b && new Date().toISOString().slice(0, 10) >= b.getAttribute("data-expires")) b.remove();
+})();
