@@ -1,5 +1,17 @@
 [
  {
+  "title": "New York AG names former federal sex-crimes prosecutor to lead criminal probe of Cornell fraternity assault allegation",
+  "source": "CNN (via KRDO)",
+  "url": "https://krdo.com/news/2026/11/04/former-federal-prosecutor-to-lead-cornell-sex-assault-investigation",
+  "date": "2026-11-04",
+  "category": "school",
+  "institution": "Cornell University",
+  "summary": "The New York attorney general's office, acting as special prosecutor, appointed former federal prosecutor Jacqueline Kelly to run the criminal investigation into a former student's report that she was sexually assaulted by seven students at a 2024 Chi Phi party. No one has been charged and the accused students deny wrongdoing.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "added": "2026-11-05T02:33:35Z"
+ },
+ {
   "title": "Former student sues Roselle Catholic and Newark archdiocese over abuse by a since-convicted teacher and coach",
   "source": "NJ.com (via Yahoo News)",
   "url": "https://www.nj.com/union/2026/11/ex-student-sues-roselle-catholic-newark-archdiocese-over-alleged-sexual-abuse-by-convicted-teacher.html",
@@ -119,6 +131,19 @@
   "status": "settlement",
   "location": "United States, North Carolina",
   "added": "2026-11-03T14:34:28Z"
+ },
+ {
+  "title": "BishopAccountability.org to publish list of 70+ clergy and religious accused of abuse in Peru ahead of Pope Leo's visit",
+  "source": "Infobae",
+  "url": "https://www.infobae.com/peru/2026/11/02/presentan-lista-de-mas-de-70-religiosos-peruanos-acusados-de-abusos-sexuales-a-dias-de-la-llegada-del-papa-leon-xiv/",
+  "date": "2026-11-02",
+  "category": "religious",
+  "institution": "Catholic Church in Peru",
+  "summary": "The U.S.-based watchdog said it will present a public database in Lima on November 5 compiling accusations against more than 70 Catholic priests, religious and consecrated laypeople who served in Peru. It is urging the Peruvian Church to name clergy with substantiated allegations and to sanction alleged cover-ups.",
+  "status": "allegation",
+  "location": "Peru, Lima",
+  "case": "catholic-church-global",
+  "added": "2026-11-05T02:33:35Z"
  },
  {
   "title": "Swiss Reformed Church synod approves compensation of up to 20,000 francs for abuse survivors",
