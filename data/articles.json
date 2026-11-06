@@ -1,5 +1,65 @@
 [
  {
+  "title": "Buffalo diocese abuse survivors vote to approve a roughly $327 million bankruptcy settlement plan",
+  "source": "WIVB (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/vote-passes-327-million-settlement-213953209.html",
+  "date": "2026-11-05",
+  "category": "religious",
+  "institution": "Diocese of Buffalo",
+  "summary": "Close to 900 people with child sexual abuse claims against the Diocese of Buffalo voted in favor of a settlement plan worth about $327 million, more than six years after the diocese entered bankruptcy. The result goes to the bankruptcy judge later this month, with the plan expected to take effect in January.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "added": "2026-11-06T14:33:05Z"
+ },
+ {
+  "title": "Federal prosecutors charge a New York State Police sergeant with secretly recording two children",
+  "source": "U.S. Attorney's Office, SDNY",
+  "url": "https://www.justice.gov/usao-sdny/pr/us-attorney-charges-new-york-state-police-sergeant-sexually-exploiting-two-minors-and",
+  "date": "2026-11-05",
+  "category": "government",
+  "institution": "New York State Police",
+  "summary": "Sergeant Steven Calderon faces two federal counts of sexual exploitation of a child and one count of possessing child sexual abuse material, accused of covertly filming two young children in a bathroom at his home. The charges are allegations; he was ordered detained after appearing in White Plains federal court.",
+  "status": "charges",
+  "location": "United States, New York",
+  "added": "2026-11-06T14:33:05Z"
+ },
+ {
+  "title": "Former Sparta United Methodist pastor charged with sexual exploitation of a minor in North Carolina",
+  "source": "WHKY",
+  "url": "https://whky.com/former-pastor-charged-with-sexual-exploitation/",
+  "date": "2026-11-05",
+  "category": "religious",
+  "institution": "Sparta United Methodist Church",
+  "summary": "Bobby Randall Miller, who led Sparta United Methodist Church from 2008 to 2021, was charged by the Alleghany County Sheriff's Office with five counts of sexual exploitation of a minor over alleged possession of child sexual abuse images. The investigation began after a report about material on a cellphone; he is presumed innocent.",
+  "status": "charges",
+  "location": "United States, North Carolina",
+  "added": "2026-11-06T14:33:05Z"
+ },
+ {
+  "title": "Isle of Man police open professional-standards inquiry after online claim a sergeant committed sexual assault",
+  "source": "Manx Radio",
+  "url": "https://www.manxradio.com/news/isle-of-man-news/police-respond-to-social-media-post-alleging-sexual-assault-by-serving-officer/",
+  "date": "2026-11-05",
+  "category": "government",
+  "institution": "Isle of Man Constabulary",
+  "summary": "After an anonymous social media post alleged that a serving police sergeant committed a sexual assault some years ago and that complaints were ignored, the Isle of Man Constabulary assigned a detective inspector to oversee enquiries. The force said no formal complaint has been received and rejected any suggestion of a cover-up.",
+  "status": "investigation",
+  "location": "Isle of Man",
+  "added": "2026-11-06T14:33:05Z"
+ },
+ {
+  "title": "Worker sues WillScot and a staffing agency alleging a supervisor groped her and managers did nothing",
+  "source": "WDIV ClickOnDetroit",
+  "url": "https://www.clickondetroit.com/news/local/2026/11/05/gorilla-photo-racial-slurs-sexual-advances-southfield-woman-sues-over-alleged-harassment-at-work/",
+  "date": "2026-11-05",
+  "category": "company",
+  "institution": "WillScot",
+  "summary": "A federal suit filed in Detroit accuses modular-space company WillScot and staffing firm Ultimate LLC of tolerating racial and sexual harassment at Michigan worksites, including a supervisor's repeated unwanted touching that a manager allegedly knew about. WillScot said it does not comment on pending litigation.",
+  "status": "lawsuit",
+  "location": "United States, Michigan",
+  "added": "2026-11-06T14:33:05Z"
+ },
+ {
   "title": "Former Cape Cod rowing coach arrested in New York on Massachusetts child rape charges",
   "source": "CapeCod.com",
   "url": "https://www.capecod.com/cape-wide-news/former-cape-cod-rowing-club-coach-arrested-in-new-york-city-after-investigation-into-alleged-statutory-rape-of-a-child/",
@@ -205,6 +265,18 @@
   "status": "investigation",
   "location": "Ghana, Ashanti",
   "added": "2026-11-04T14:40:52Z"
+ },
+ {
+  "title": "Suspended North Wales Police officer appears in court charged with rape and three sexual assaults",
+  "source": "Nation.Cymru",
+  "url": "https://nation.cymru/news/suspended-police-officer-appears-in-court-charged-with-rape-and-sexual-assault/",
+  "date": "2026-11-03",
+  "category": "government",
+  "institution": "North Wales Police",
+  "summary": "PC Ashley Dodge, suspended by North Wales Police since his arrest in 2025, appeared at Mold Magistrates' Court charged with one count of rape and three of sexual assault, allegedly committed while off duty. He was bailed ahead of a plea hearing at Mold Crown Court later in November.",
+  "status": "charges",
+  "location": "United Kingdom, Wales",
+  "added": "2026-11-06T14:33:05Z"
  },
  {
   "title": "Ex-West Virginia delegate and former Fayette County teacher David Pritt signals guilty plea in child exploitation case",
