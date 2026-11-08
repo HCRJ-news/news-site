@@ -1,5 +1,17 @@
 [
  {
+  "title": "Aurora roofing firm Anthony Roofing agrees to pay $700,000 to resolve EEOC racial and sexual harassment suit",
+  "source": "Daily Herald",
+  "url": "https://www.dailyherald.com/20261107/local/aurora-company-to-pay-700000-to-settle-federal-harassment-lawsuit/",
+  "date": "2026-11-07",
+  "category": "company",
+  "institution": "Anthony Roofing",
+  "summary": "The EEOC's 2025 suit alleged an executive racially harassed Black workers and that female employees reported sexual harassment. The settlement also requires anti-harassment training for managers and HR staff.",
+  "status": "settlement",
+  "location": "United States, Illinois",
+  "added": "2026-11-08T02:39:02Z"
+ },
+ {
   "title": "Ripley High athletic director and trainer arrested on school-employee sexual contact charges",
   "source": "WV MetroNews",
   "url": "https://wvmetronews.com/2026/11/07/well-known-ripley-a-d-and-athletic-trainer-arrested-over-sexual-allegations/",
@@ -10,6 +22,18 @@
   "status": "charges",
   "location": "United States, West Virginia",
   "added": "2026-11-07T20:38:13Z"
+ },
+ {
+  "title": "Former Medieval Times employees' lawsuits allege sexual harassment, discrimination and retaliation",
+  "source": "Fox News",
+  "url": "https://www.foxnews.com/us/clash-castle-medieval-times-dinner-theater-insiders-allege-animal-cruelty-sexual-harassment",
+  "date": "2026-11-06",
+  "category": "company",
+  "institution": "Medieval Times Dinner & Tournament",
+  "summary": "Former workers at the dinner-theater chain allege in civil suits a workplace culture of sexual harassment, gender discrimination and retaliation, along with animal mistreatment. The company did not comment; the claims are unproven.",
+  "status": "lawsuit",
+  "location": "United States",
+  "added": "2026-11-08T02:39:02Z"
  },
  {
   "title": "Sydney Catholic college teacher charged over alleged secret recordings and child abuse material; no longer employed",
