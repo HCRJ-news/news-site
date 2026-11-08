@@ -1,5 +1,29 @@
 [
  {
+  "title": "Cornell Faculty Senate passes no-confidence resolution over leaders' handling of fraternity rape report",
+  "source": "ABC News (Australia) / Associated Press",
+  "url": "https://www.abc.net.au/news/2026-11-07/cornell-university-seven-no-confidence-faculty/107358914",
+  "date": "2026-11-07",
+  "category": "school",
+  "institution": "Cornell University",
+  "summary": "Cornell's Faculty Senate voted 75-50 on a symbolic no-confidence resolution against President Michael Kotlikoff and other top administrators over their response to a former student's 2024 report of a fraternity-house assault. The resolution carries no binding power and does not demand resignations; the men named in the related civil suit deny the allegations.",
+  "status": "policy",
+  "location": "United States, New York",
+  "added": "2026-11-08T08:32:53Z"
+ },
+ {
+  "title": "Sports coach charged in Cork with sexually assaulting a teenage girl at a city club in 2022",
+  "source": "The Irish Times",
+  "url": "https://www.irishtimes.com/crime-law/courts/2026/11/07/sports-coach-60-charged-with-sexual-assault-of-teenage-girl-at-cork-club/",
+  "date": "2026-11-07",
+  "category": "company",
+  "institution": "Unnamed Cork sports club",
+  "summary": "A 60-year-old coach was charged at Cork District Court with one count of sexual assault, alleged to have occurred at a sports club in the city in 2022 involving a then-16-year-old. He was remanded on bail with no-contact conditions, and the case was sent forward for trial on indictment.",
+  "status": "charges",
+  "location": "Ireland, Cork",
+  "added": "2026-11-08T08:32:53Z"
+ },
+ {
   "title": "Aurora roofing firm Anthony Roofing agrees to pay $700,000 to resolve EEOC racial and sexual harassment suit",
   "source": "Daily Herald",
   "url": "https://www.dailyherald.com/20261107/local/aurora-company-to-pay-700000-to-settle-federal-harassment-lawsuit/",
@@ -22,6 +46,18 @@
   "status": "charges",
   "location": "United States, West Virginia",
   "added": "2026-11-07T20:38:13Z"
+ },
+ {
+  "title": "Archdiocese of New Orleans adds 27 names to its list of clergy and others credibly accused of abuse",
+  "source": "FOX 8 (WVUE)",
+  "url": "https://www.fox8live.com/2026/11/06/archdiocese-new-orleans-releases-another-list-priests-clergy-credibly-accused-sex-abuse/",
+  "date": "2026-11-06",
+  "category": "religious",
+  "institution": "Archdiocese of New Orleans",
+  "summary": "The archdiocese published 27 more names, including deceased clergy and non-clergy identified during its bankruptcy, bringing its cumulative credibly accused list to 105. Survivors' lawyers criticized the timing, saying many claimants are still waiting on payments from the $305 million bankruptcy settlement.",
+  "status": "policy",
+  "location": "United States, Louisiana",
+  "added": "2026-11-08T08:32:53Z"
  },
  {
   "title": "Former Medieval Times employees' lawsuits allege sexual harassment, discrimination and retaliation",
@@ -106,6 +142,18 @@
   "status": "lawsuit",
   "location": "United States, Texas",
   "added": "2026-11-06T20:41:29Z"
+ },
+ {
+  "title": "Former senior deputy's complaint to state DOJ and FBI accuses Tulare County Sheriff Boudreaux of sexual abuse",
+  "source": "Valley Voice",
+  "url": "https://ourvalleyvoice.com/2026/11/05/tulare-county-sheriff-boudreaux-accused-of-serial-sexual-abuse",
+  "date": "2026-11-05",
+  "category": "government",
+  "institution": "Tulare County Sheriff's Office",
+  "summary": "A former high-ranking sheriff's office official filed a complaint with the California Department of Justice, copied to the FBI, alleging Sheriff Mike Boudreaux sexually assaulted three women, including two who were minors in the 1980s. No charges have been filed, and the sheriff's attorney calls the allegations false.",
+  "status": "allegation",
+  "location": "United States, California",
+  "added": "2026-11-08T08:32:53Z"
  },
  {
   "title": "Buffalo diocese abuse survivors vote to approve a roughly $327 million bankruptcy settlement plan",
