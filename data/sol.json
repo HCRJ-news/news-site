@@ -1,5 +1,5 @@
 {
- "verified": "2026-10-28",
+ "verified": "2026-11-10",
  "states": [
   {
    "state": "Alabama",
@@ -59,17 +59,18 @@
    "code": "AR",
    "adult_civil": "No special adult statute; general tort deadlines apply (commonly given as 3 years; confirm with an attorney).",
    "child_civil": "Until age 55 or 3 years from discovery, whichever is later (Justice for Vulnerable Victims of Sexual Abuse Act, Ark. Code § 16-118-118).",
-   "window": "Closed: a 2-year window ran 2/1/2022–1/31/2024 and a second window open to any age ran 2/1/2024–1/31/2026; in 2025 the Court of Appeals (H.C. v. Nesmith) held that reviving expired claims is unconstitutional.",
+   "window": "Closed: a 2-year window ran 2/1/2022–1/31/2024 and a second window open to any age ran 2/1/2024–1/31/2026. In 2025 the Court of Appeals (H.C. v. Nesmith) held reviving expired claims unconstitutional, but in November 2026 the Arkansas Supreme Court reversed that dismissal and held the legislature can revive time-barred claims.",
    "criminal_adult": "No limit for rape.",
    "criminal_child": "No limit for rape and several child sex felonies; other sex offenses generally until age 28.",
-   "recent_change": "2025: Court of Appeals ruled the legislature cannot revive expired claims; Act 49 (SB 13) lets certain Boy Scouts settlement claimants sue at any time.",
+   "recent_change": "November 2026: the Arkansas Supreme Court ruled the legislature has power to revive expired child sex abuse claims, reversing the dismissal in the Nesmith case. 2025: Act 49 (SB 13) lets certain Boy Scouts settlement claimants sue at any time.",
    "confidence": "medium",
-   "notes": "It is unclear whether the Arkansas Supreme Court will review the Nesmith ruling. A 2023 amendment removed the age-55 cap for the second window; sources differ on whether it also changed the ongoing age-55 deadline. The exact reach of Act 49 and the adult civil deadline are uncertain; confirm with an attorney.",
+   "notes": "How the 2026 Supreme Court ruling affects other claims filed under the lookback windows is still being worked out in the courts. A 2023 amendment removed the age-55 cap for the second window; sources differ on whether it also changed the ongoing age-55 deadline. The exact reach of Act 49 and the adult civil deadline are uncertain; confirm with an attorney.",
    "sources": [
     "https://open.pluralpolicy.com/ar/bills/2025/SB13",
     "https://www.ualrpublicradio.org/local-regional-news/2024-02-06/arkansas-child-sexual-abuse-survivors-able-to-file-civil-claims-at-any-age",
     "https://arkansasadvocate.com/2025/02/05/arkansas-appeals-court-stymies-lawsuits-over-decades-old-sexual-abuse/",
-    "https://childusa.org/2025-sol-tracker/"
+    "https://childusa.org/2025-sol-tracker/",
+    "https://www.bishop-accountability.org/2026/11/arkansas-supreme-court-opens-door/"
    ],
    "checked": true
   },

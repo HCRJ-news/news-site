@@ -1,5 +1,53 @@
 [
  {
+  "title": "NSW parliamentary committee urges enrolment ban at Redeemer Baptist School over abuse and safeguarding failures",
+  "source": "St George & Sutherland Shire Leader (AAP)",
+  "url": "https://theleader.com.au/story/9389097/theyre-still-scared-school-probe-exposes-wide-abuse",
+  "date": "2026-11-10",
+  "category": "school",
+  "institution": "Redeemer Baptist School",
+  "summary": "A NSW parliamentary committee report found the church-run western Sydney school breached child safeguarding standards and mishandled sexual assault allegations, and recommended it be barred from taking new students while the state education regulator investigates. The school disputes the committee's process.",
+  "status": "investigation",
+  "location": "Australia, New South Wales",
+  "added": "2026-11-10T08:40:07Z"
+ },
+ {
+  "title": "Former Kingman First Southern Baptist Church pastor charged with sexual conduct with a minor at the church",
+  "source": "The Roys Report",
+  "url": "https://roysreport.com/former-arizona-pastor-accused-of-sexually-abusing-8-year-old/",
+  "date": "2026-11-09",
+  "category": "religious",
+  "institution": "Kingman First Southern Baptist Church",
+  "summary": "A former worship and youth pastor who served at the Kingman, Arizona church from 2016 to 2024 was arrested and faces a felony charge over alleged abuse of a young child on church premises; police say they are speaking with at least one other potential victim. The church says he passed background checks and that it reported the matter to police.",
+  "status": "charges",
+  "location": "United States, Arizona",
+  "added": "2026-11-10T08:40:07Z"
+ },
+ {
+  "title": "Rockville Centre diocese abuse files still not public two years after bankruptcy settlement required release",
+  "source": "Newsday via BishopAccountability.org",
+  "url": "https://www.bishop-accountability.org/2026/11/diocese-of-rockville-centre-clergy-sex-abuse-files/",
+  "date": "2026-11-09",
+  "category": "religious",
+  "institution": "Diocese of Rockville Centre",
+  "summary": "Thousands of pages of confidential clergy abuse records that the Long Island diocese's settlement said would go to a university archive have not been made available. The diocese says it handed the files to the survivors' trust and has been transparent; the trust did not comment.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "added": "2026-11-10T08:40:07Z"
+ },
+ {
+  "title": "Diocese of Urgell opens church investigation into a priest after an adult's sexual abuse complaint",
+  "source": "La Veu Lliure via BishopAccountability.org",
+  "url": "https://www.bishop-accountability.org/2026/11/diocese-of-urgell-launches-investigation/",
+  "date": "2026-11-09",
+  "category": "religious",
+  "institution": "Diocese of Urgell",
+  "summary": "The diocese confirmed it began a canonical inquiry in October after a written complaint alleging a priest sexually abused a person who was an adult at the time. It has not named the priest or said whether civil authorities were notified, though it says the complainant was encouraged to report.",
+  "status": "investigation",
+  "location": "Spain, Catalonia",
+  "added": "2026-11-10T08:40:07Z"
+ },
+ {
   "title": "Federal grand jury indicts former Delhi High School teacher on child sexual abuse material charges",
   "source": "U.S. Attorney's Office, Eastern District of California",
   "url": "https://www.justice.gov/usao-edca/pr/merced-county-teacher-indicted-distribution-child-sexual-abuse-material-csam",
@@ -206,6 +254,18 @@
   "status": "charges",
   "location": "United States, West Virginia",
   "added": "2026-11-07T20:38:13Z"
+ },
+ {
+  "title": "Arkansas Supreme Court rules legislature may revive time-barred child sex abuse lawsuits",
+  "source": "KATV via BishopAccountability.org",
+  "url": "https://www.bishop-accountability.org/2026/11/arkansas-supreme-court-opens-door/",
+  "date": "2026-11-06",
+  "category": "government",
+  "institution": "Arkansas Supreme Court",
+  "summary": "In a divided ruling, the court reversed the dismissal of a suit against a former Little Rock pediatrician and held that lawmakers have the power to reopen expired civil abuse claims under the Justice for Vulnerable Victims of Sexual Abuse Act, departing from earlier precedent. The case returns to the lower court; the ruling makes no finding on the allegations.",
+  "status": "legislation",
+  "location": "United States, Arkansas",
+  "added": "2026-11-10T08:40:07Z"
  },
  {
   "title": "Philadelphia pastor pleads guilty to federal child sexual abuse material charges; co-defendant ex-pastor still charged",
