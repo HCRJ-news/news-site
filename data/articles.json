@@ -1,5 +1,30 @@
 [
  {
+  "title": "Federal grand jury indicts former Delhi High School teacher on child sexual abuse material charges",
+  "source": "U.S. Attorney's Office, Eastern District of California",
+  "url": "https://www.justice.gov/usao-edca/pr/merced-county-teacher-indicted-distribution-child-sexual-abuse-material-csam",
+  "date": "2026-11-09",
+  "category": "school",
+  "institution": "Delhi Unified School District (Delhi High School)",
+  "summary": "Prosecutors say a man who taught at Delhi High School in Merced County from late 2024 to September 2025 has been indicted on two federal counts of distributing and possessing child sexual abuse material over that period. He pleaded not guilty and remains in custody; the charges are allegations.",
+  "status": "charges",
+  "location": "United States, California",
+  "added": "2026-11-10T02:33:13Z"
+ },
+ {
+  "title": "Pope Leo meets clergy abuse survivors in Buenos Aires as other victim groups say they were turned away",
+  "source": "Associated Press (via KSAT)",
+  "url": "https://www.ksat.com/news/world/2026/11/09/pope-meets-with-survivors-of-clergy-abuse-in-argentina-as-it-reckons-with-legacy-and-ongoing-cases/",
+  "date": "2026-11-09",
+  "category": "religious",
+  "institution": "Holy See (Vatican)",
+  "summary": "The Vatican said the pope met five abuse survivors chosen by the Argentine church during his visit, while other groups, including women alleging abuses at Opus Dei centers, were not granted meetings. The report also reviews unresolved Argentine cases, including a former bishop's canonical case on which the Vatican has announced no ruling.",
+  "status": "policy",
+  "location": "Argentina",
+  "case": "catholic-church-global",
+  "added": "2026-11-10T02:33:13Z"
+ },
+ {
   "title": "Russell Brand jailed for 10 years and 6 months for one rape and three sexual assaults",
   "source": "CBS News",
   "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/",
@@ -35,6 +60,18 @@
   "status": "investigation",
   "location": "United States, Illinois",
   "added": "2026-11-09T14:33:31Z"
+ },
+ {
+  "title": "West Mercia Police open investigation into non-recent sexual abuse at former Alvechurch children's home",
+  "source": "Stratford Herald",
+  "url": "https://www.stratford-herald.com/news/investigation-launched-into-sex-offences-at-former-children-9490408/",
+  "date": "2026-11-08",
+  "category": "government",
+  "institution": "Forhill House children's home",
+  "summary": "Police are investigating reports that a boy was physically and sexually abused by male staff at Forhill House, a former children's home in Alvechurch, between 1970 and 1985. Officers are asking former residents and staff from that era to come forward.",
+  "status": "investigation",
+  "location": "United Kingdom, England",
+  "added": "2026-11-10T02:33:13Z"
  },
  {
   "title": "Kingman Unified PE teacher and contract janitor arrested in child sexual exploitation case",
