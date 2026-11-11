@@ -1,5 +1,30 @@
 [
  {
+  "title": "House Oversight Republicans' final Epstein report faults federal prosecutors, urges DOJ to reopen associates probe",
+  "source": "ABC News",
+  "url": "https://abcnews.com/US/house-oversight-panel-recommends-doj-renew-probe-jeffrey/story?id=138015976",
+  "date": "2026-11-10",
+  "category": "government",
+  "institution": "U.S. Congress",
+  "summary": "A 136-page report from the House Oversight Committee's Republican majority, closing a 15-month inquiry, criticizes how federal prosecutors in South Florida and Washington handled Jeffrey Epstein and recommends the Justice Department renew its investigation of his associates. DOJ said the recommendations were already addressed, and committee Democrats called the report incomplete.",
+  "status": "investigation",
+  "location": "United States, District of Columbia",
+  "case": "epstein",
+  "added": "2026-11-11T08:34:55Z"
+ },
+ {
+  "title": "Former St. Michael Catholic School substitute teacher sentenced for sexually abusing a child",
+  "source": "Annandale Today",
+  "url": "https://annandaletoday.com/former-teacher-at-st-michael-sentenced-for-sexual-abuse",
+  "date": "2026-11-10",
+  "category": "school",
+  "institution": "St. Michael Catholic School",
+  "summary": "A Fairfax County judge sentenced a former substitute teacher at St. Michael Catholic School in Annandale to 40 years with all but about 13 years suspended. He pleaded guilty in April to aggravated sexual battery and two counts of object sexual penetration.",
+  "status": "conviction",
+  "location": "United States, Virginia",
+  "added": "2026-11-11T08:34:55Z"
+ },
+ {
   "title": "Jury convicts former North View Elementary teacher's aide on 12 counts of abusing first-grade students",
   "source": "WDTV",
   "url": "https://www.wdtv.com/2026/11/10/children-testify-trial-former-harrison-county-teachers-aide-accused-sexual-abuse/",
@@ -166,6 +191,32 @@
   "status": "investigation",
   "location": "Australia, New South Wales",
   "added": "2026-11-10T08:40:07Z"
+ },
+ {
+  "title": "Mangaluru police register second child-protection case against Catholic priest already on bail",
+  "source": "The Times of India (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/second-complaint-filed-against-mangaluru-church-priest-over-alleged-sexual-harassment-of-a-minor-womens-police-station-registers-pocso-case/",
+  "date": "2026-11-09",
+  "category": "religious",
+  "institution": "Diocese of Mangalore",
+  "summary": "Mangaluru's women's police station opened a second case under the POCSO Act against a Catholic priest over alleged sexual harassment of a minor boy. He was arrested in October on an earlier complaint and is out on bail; the investigation continues and the allegations are unproven.",
+  "status": "investigation",
+  "location": "India, Karnataka",
+  "case": "catholic-church-global",
+  "added": "2026-11-11T08:34:55Z"
+ },
+ {
+  "title": "Vatican's Roman Rota says posting 'credibly accused' clergy lists online is not in line with church law",
+  "source": "Catholic News Agency (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/vaticans-highest-appeals-court-criticizes-publishing-lists-of-credibly-accused-clerics/",
+  "date": "2026-11-09",
+  "category": "religious",
+  "institution": "Holy See (Vatican)",
+  "summary": "In a newly reported 2025 decision, the Roman Rota found a U.S. religious congregation defamed a former member by publicly labeling abuse allegations against him credible, and said publishing such lists online does not conform to canon law. The ruling may bear on the lists of accused clergy many U.S. dioceses publish.",
+  "status": "policy",
+  "location": "Vatican City",
+  "case": "catholic-church-global",
+  "added": "2026-11-11T08:34:55Z"
  },
  {
   "title": "Church of England sets timeline for national safeguarding complaints process and independent authority",
