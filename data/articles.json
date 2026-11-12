@@ -1,5 +1,57 @@
 [
  {
+  "title": "Missionaries of the Sacred Heart faces whistleblower claims, including over withheld information in an abuse case",
+  "source": "ABC News (Australia)",
+  "url": "https://www.abc.net.au/news/2026-11-12/women-allege-bullying-intimidation-missionaries-sacred-heart/107178028",
+  "date": "2026-11-12",
+  "category": "religious",
+  "institution": "Missionaries of the Sacred Heart",
+  "summary": "Former employees allege bullying and intimidation by the Catholic order's Australian leadership, which denies the claims. The ABC also reports the order defended a historical child abuse suit using a former Monivae College principal as a key witness without disclosing it had upheld a separate abuse complaint against him; the case was overturned on appeal and later settled.",
+  "status": "allegation",
+  "location": "Australia, New South Wales",
+  "case": "catholic-church-global",
+  "added": "2026-11-12T02:33:51Z"
+ },
+ {
+  "title": "Two women sue the Salvation Army, alleging it ignored warnings about a convicted former St. Charles youth pastor",
+  "source": "ABC7 Chicago",
+  "url": "https://abc7chicago.com/post/women-sue-salvation-army-alleged-failure-stop-former-st-charles-youth-pastor-brian-davis-abuse/20033884/",
+  "date": "2026-11-11",
+  "category": "religious",
+  "institution": "The Salvation Army",
+  "summary": "Two women filed suits this week alleging the Salvation Army disregarded warnings and concealed abuse by Brian Davis, a former youth pastor at its Tri-City Corps who was later convicted, beginning in the late 1990s when they were children. The organization says it learned of complaints in early 2025, has been in mediation, and has settled at least one other claim involving him.",
+  "status": "lawsuit",
+  "location": "United States, Illinois",
+  "case": "religious-other",
+  "added": "2026-11-12T02:33:51Z"
+ },
+ {
+  "title": "Criminal case against ex-Dallas diocese priest accused of child sexual assault has stalled for years",
+  "source": "The Dallas Morning News (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/dallas-criminal-case-stalls-ex-120000226.html",
+  "date": "2026-11-11",
+  "category": "religious",
+  "institution": "Diocese of Dallas",
+  "summary": "Former Dallas diocese priest Richard Thomas Brown, charged in 2020 with aggravated sexual assault of a child over alleged abuse from 1989 to 1996, has seen little court activity since 2022, and a recent hearing was reset to October 2027 with no trial date. The diocese listed him as credibly accused and laicized him in 2019; three related civil suits against him and the diocese have settled.",
+  "status": "charges",
+  "location": "United States, Texas",
+  "case": "catholic-church-us",
+  "added": "2026-11-12T02:33:51Z"
+ },
+ {
+  "title": "Discharge petition reaches 218 signatures, forcing a House vote on a second Epstein files bill",
+  "source": "ABC News",
+  "url": "https://abcnews.com/US/discharge-petition-2nd-epstein-files-bill-secures-218/story?id=138057235",
+  "date": "2026-11-11",
+  "category": "government",
+  "institution": "U.S. Congress",
+  "summary": "A petition led by Rep. Thomas Massie gathered the 218 signatures needed to bring the Epstein Files Transparency Act II to the House floor, possibly in early December. The bill would let state attorneys general, victims and members of Congress sue the attorney general over Justice Department Epstein records that are withheld or redacted unlawfully.",
+  "status": "legislation",
+  "location": "United States, District of Columbia",
+  "case": "epstein",
+  "added": "2026-11-12T02:33:51Z"
+ },
+ {
   "title": "Appeals court rules SpaceX engineers' sexual harassment and retaliation claims can proceed in court, not arbitration",
   "source": "Reuters (via 93.3 The Drive)",
   "url": "https://www.933thedrive.com/2026/11/10/spacex-must-face-sex-bias-claims-after-appeals-court-rejects-arbitration-request/",
