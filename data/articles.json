@@ -1,5 +1,54 @@
 [
  {
+  "title": "Former assistant sues City of Hazel Park, alleging city ignored years of sexual harassment by its city manager",
+  "source": "WDIV ClickOnDetroit",
+  "url": "https://clickondetroit.com/news/local/2026/11/12/new-lawsuit-claims-city-failed-to-act-after-10-years-of-unwelcome-sexual-conduct-by-hazel-park-city-manager",
+  "date": "2026-11-12",
+  "category": "government",
+  "institution": "City of Hazel Park",
+  "summary": "A federal Title VII suit filed in the Eastern District of Michigan alleges City Manager Edward Klobucher subjected his former executive assistant to nearly a decade of unwanted sexual conduct and that city officials knew and failed to act. The allegations are unproven; neither Klobucher nor the city had commented.",
+  "status": "lawsuit",
+  "location": "United States, Michigan",
+  "added": "2026-11-13T02:35:03Z"
+ },
+ {
+  "title": "Blaine superintendent addresses student rape charges as federal suits accuse district of ignoring girls' reports",
+  "source": "The Northern Light",
+  "url": "https://www.thenorthernlight.com/stories/blaine-superintendent-addresses-sexual-assault-allegations-in-note-to-district-families-staff,45364",
+  "date": "2026-11-12",
+  "category": "school",
+  "institution": "Blaine School District",
+  "summary": "Blaine's superintendent sent a statement to families after prosecutors charged a high school student with assaulting two classmates; the student has pleaded not guilty. Two families' pending federal lawsuits allege deliberate indifference by school officials, while the district had earlier found insufficient evidence that the girls' rights were violated.",
+  "status": "lawsuit",
+  "location": "United States, Washington",
+  "added": "2026-11-13T02:35:03Z"
+ },
+ {
+  "title": "Diocese of Nashville settles federal suit over 1960s priest abuse after first witness testifies at trial",
+  "source": "Nashville Banner (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/diocese-of-nashville-faces-allegations-of-negligence-in-1960s-sexual-abuse/",
+  "date": "2026-11-12",
+  "category": "religious",
+  "institution": "Diocese of Nashville",
+  "summary": "A federal civil suit claimed the Diocese of Nashville knew of the late Fr. Walter Emala's history yet let him keep working with children before abuse in the late 1960s. The case settled for an undisclosed sum during trial; the diocese had argued the bankrupt Archdiocese of Baltimore bore responsibility.",
+  "status": "settlement",
+  "location": "United States, Tennessee",
+  "case": "catholic-church-us",
+  "added": "2026-11-13T02:35:03Z"
+ },
+ {
+  "title": "Dayton Public Schools questions board member over prior knowledge of allegations against a band teacher",
+  "source": "WHIO-TV",
+  "url": "https://yahoo.com/news/us/articles/team-dps-questions-own-board-222525933.html",
+  "date": "2026-11-12",
+  "category": "school",
+  "institution": "Dayton Public Schools",
+  "summary": "Dayton Public Schools placed a Belmont High band teacher on unpaid leave over a complaint alleging sexual assault of a student, and its HR office asked board member Eric Walker what he knew before joining the board. Police released the teacher pending further investigation; no charge has been filed in Ohio.",
+  "status": "investigation",
+  "location": "United States, Ohio",
+  "added": "2026-11-13T02:35:03Z"
+ },
+ {
   "title": "Missionaries of the Sacred Heart faces whistleblower claims, including over withheld information in an abuse case",
   "source": "ABC News (Australia)",
   "url": "https://www.abc.net.au/news/2026-11-12/women-allege-bullying-intimidation-missionaries-sacred-heart/107178028",
@@ -11,6 +60,19 @@
   "location": "Australia, New South Wales",
   "case": "catholic-church-global",
   "added": "2026-11-12T02:33:51Z"
+ },
+ {
+  "title": "Scotland's statutory inquiry into group-based child sexual exploitation formally begins under Alexis Jay",
+  "source": "STV News (PA Media)",
+  "url": "https://news.stv.tv/scotland/survivors-will-be-at-heart-of-grooming-gangs-inquiry-chairperson-says",
+  "date": "2026-11-11",
+  "category": "government",
+  "institution": "Scottish Government",
+  "summary": "The Jay Inquiry, announced by Scottish ministers in February, was formally established to examine how public bodies responded to group-based child sexual abuse and exploitation from 1996 onward. Chair Professor Alexis Jay said survivors will be central, with a truth project running alongside it.",
+  "status": "investigation",
+  "location": "United Kingdom, Scotland",
+  "case": "uk-grooming-gangs",
+  "added": "2026-11-13T02:35:03Z"
  },
  {
   "title": "Spanish prosecutors open criminal probe into alleged child sexual abuse material on TikTok",
