@@ -1,5 +1,79 @@
 [
  {
+  "title": "Former Methodist Conference president Steven Wild found guilty on all 11 sexual assault counts",
+  "source": "Cornish & Devon Post",
+  "url": "https://www.thepost.uk.com/news/courts/methodist-minister-from-cornwall-steven-james-wild-found-guilty-on-all-counts-973456",
+  "date": "2026-11-17",
+  "category": "religious",
+  "institution": "Methodist Church in Britain",
+  "summary": "A Truro Crown Court jury convicted the former Cornwall district chair and Methodist Conference president of ten counts of sexual assault and one of indecent assault against several women between 2004 and 2019. He remains on bail ahead of sentencing set for 18 December.",
+  "status": "conviction",
+  "location": "United Kingdom, England",
+  "added": "2026-11-18T02:34:25Z"
+ },
+ {
+  "title": "Ex-LDS congregation leader Wade Christofferson sentenced to 45 years in federal child sex abuse case",
+  "source": "The Salt Lake Tribune",
+  "url": "https://www.sltrib.com/news/2026/11/17/brother-key-lds-apostle-will-spend/",
+  "date": "2026-11-17",
+  "category": "religious",
+  "institution": "Church of Jesus Christ of Latter-day Saints",
+  "summary": "A federal judge in Ohio sentenced the 73-year-old brother of apostle D. Todd Christofferson to 45 years after he pleaded guilty to coercing and enticing a minor, with court filings also admitting abuse of two other children. The apostle is not accused of wrongdoing.",
+  "status": "conviction",
+  "location": "United States, Ohio",
+  "case": "lds-church",
+  "added": "2026-11-18T02:34:25Z"
+ },
+ {
+  "title": "Convicted Lafayette priest released from prison now lives at a nursing home with ties to the diocese",
+  "source": "Acadiana News First",
+  "url": "https://www.acadiananewsfirst.com/2026/11/17/pedophile-priest-released-prison-living-facility-tied-diocese/",
+  "date": "2026-11-17",
+  "category": "religious",
+  "institution": "Diocese of Lafayette",
+  "summary": "Michael Guidry, removed from ministry after a 2019 guilty plea to molesting a teenage boy, has registered as a sex offender at a New Iberia nursing home whose property the diocese holds a mortgage interest in and whose owner is registered to the diocese. The diocese has not said whether he has been laicized.",
+  "status": "conviction",
+  "location": "United States, Louisiana",
+  "case": "catholic-church-us",
+  "added": "2026-11-18T02:34:25Z"
+ },
+ {
+  "title": "Senate hearing puts Roblox child-safety record under scrutiny as senators push bill to end forced arbitration",
+  "source": "Deseret News",
+  "url": "https://www.deseret.com/family/2026/11/17/roblox-faces-scrutiny-as-survivors-tell-congress-their-stories/",
+  "date": "2026-11-17",
+  "category": "company",
+  "institution": "Roblox",
+  "summary": "A Senate Judiciary subcommittee heard from survivors and child-safety experts who said the platform's safeguards fall short; Roblox's CEO declined to testify. Senators Hawley and Durbin introduced a bill a day earlier that would let families of children exploited online sue despite arbitration clauses.",
+  "status": "legislation",
+  "location": "United States, District of Columbia",
+  "added": "2026-11-18T02:34:25Z"
+ },
+ {
+  "title": "Roblox asks San Francisco federal court to push 180-plus child exploitation suits into private arbitration",
+  "source": "San Francisco Chronicle (via Yahoo News)",
+  "url": "https://yahoo.com/news/us/articles/roblox-seeks-private-arbitration-wave-000952948.html",
+  "date": "2026-11-17",
+  "category": "company",
+  "institution": "Roblox",
+  "summary": "In consolidated litigation, Roblox argues minors agreed to arbitration under its terms of use and that a federal law barring forced arbitration of sexual assault claims does not apply to abuse by third parties. Plaintiffs allege predators used the platform to groom children; the claims are unproven.",
+  "status": "lawsuit",
+  "location": "United States, California",
+  "added": "2026-11-18T02:34:25Z"
+ },
+ {
+  "title": "Uber driver indicted on charges of molesting a 14-year-old rider; Santa Clara DA criticizes Uber reporting policy",
+  "source": "ABC7 San Francisco",
+  "url": "https://abc7news.com/post/uber-driver-charged-molesting-14-year-old-rider-san-jose-da-says/20046049",
+  "date": "2026-11-17",
+  "category": "company",
+  "institution": "Uber",
+  "summary": "A Santa Clara County grand jury indicted a Foster City Uber driver over the alleged September assault of a teenage passenger he was driving to a San Jose event. District Attorney Jeff Rosen said Uber has refused to change its policy on reporting assault claims against drivers to police.",
+  "status": "charges",
+  "location": "United States, California",
+  "added": "2026-11-18T02:34:25Z"
+ },
+ {
   "title": "Jasper County jailer fired and charged after alleged sexual assault of a woman inmate during a transport",
   "source": "KFDM",
   "url": "https://kfdm.com/news/local/breaking-sheriff-havard-says-employee-engaged-in-sexual-misconduct-with-prisoner",
@@ -46,6 +120,18 @@
   "status": "policy",
   "location": "South Korea, Seoul",
   "added": "2026-11-17T08:33:47Z"
+ },
+ {
+  "title": "Former Tulsa County detention officer charged with child sexual abuse and producing abuse material",
+  "source": "KOKH Fox 25",
+  "url": "https://okcfox.com/news/local/former-tulsa-county-detention-officer-charged-with-child-sex-abuse-making-abuse-material-11-16-2026",
+  "date": "2026-11-16",
+  "category": "government",
+  "institution": "Tulsa County Sheriff's Office",
+  "summary": "The Tulsa County District Attorney charged a former county jail detention officer with child sexual abuse and manufacturing child sexual abuse material after his arrest by Sand Springs police. Prosecutors say the investigation continues and more charges are possible.",
+  "status": "charges",
+  "location": "United States, Oklahoma",
+  "added": "2026-11-18T02:34:25Z"
  },
  {
   "title": "Carter G. Woodson High band director charged with soliciting a student and making sexual deepfakes of minors",
