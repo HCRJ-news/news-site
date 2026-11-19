@@ -1,5 +1,55 @@
 [
  {
+  "title": "Leaked Deutsche Bank records show $582 million in suspicious Epstein transactions, double earlier estimates",
+  "source": "Investigative Journalism Bureau (University of Toronto)",
+  "url": "https://ijb.utoronto.ca/news/deutsche-bank-epstein-suspicious-transactions-leak",
+  "date": "2026-11-19",
+  "category": "company",
+  "institution": "Deutsche Bank",
+  "summary": "Internal bank files reviewed by reporters indicate Deutsche Bank flagged about 3,000 Epstein-linked transactions worth roughly $582 million in suspicious activity reports from 2013 to 2019, about twice the figure in an August Senate Finance Committee report. The bank says it regrets onboarding Epstein in 2013 and has not been charged in connection with the matter.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "case": "epstein",
+  "added": "2026-11-19T20:32:51Z"
+ },
+ {
+  "title": "Catholic Mutual sues Louisiana dioceses in federal court, saying it owes nothing more on abuse claims",
+  "source": "Catholic World Report",
+  "url": "https://www.catholicworldreport.com/2026/11/19/in-federal-lawsuit-catholic-aid-company-says-it-has-no-obligations-in-louisiana-sex-abuse-suits/",
+  "date": "2026-11-19",
+  "category": "religious",
+  "institution": "Catholic Mutual Relief Society of America",
+  "summary": "The Nebraska-based church aid society asked a federal court to declare it has no duty to cover current or future sexual abuse claims against several Louisiana dioceses, including Baton Rouge and Lafayette, arguing its abuse coverage limits are exhausted. The Diocese of Alexandria was left out because of its bankruptcy stay.",
+  "status": "lawsuit",
+  "location": "United States, Louisiana",
+  "case": "catholic-church-us",
+  "added": "2026-11-19T20:32:51Z"
+ },
+ {
+  "title": "North Summit High School teacher and athletic trainer arrested over alleged grooming messages to students",
+  "source": "Park Record",
+  "url": "https://www.parkrecord.com/2026/11/19/north-summit-high-school-teacher-arrested-for-alleged-sexual-grooming-of-students/",
+  "date": "2026-11-19",
+  "category": "school",
+  "institution": "North Summit School District",
+  "summary": "Summit County deputies arrested a North Summit High School teacher after several students reported unwanted messages and photos allegedly sent over about two years, some reportedly taken inside the school. He is jailed on suspicion of offenses including dealing materials harmful to minors pending formal charges, and the district has begun termination proceedings.",
+  "status": "charges",
+  "location": "United States, Utah",
+  "added": "2026-11-19T20:32:51Z"
+ },
+ {
+  "title": "Fresno Unified agrees to $1.8 million settlement over substitute teacher's abuse of an Edison High student",
+  "source": "GV Wire",
+  "url": "https://gvwire.com/2026/11/19/victims-attorneys-announce-1-8m-settlement-in-fresno-unified-sexual-abuse-case/",
+  "date": "2026-11-19",
+  "category": "school",
+  "institution": "Fresno Unified School District",
+  "summary": "Attorneys for a former Edison High School student announced a $1.8 million settlement of a suit alleging district officials ignored warning signs about a substitute teacher who abused the student in the early 2000s and failed to report it. The teacher was later convicted of molesting another student.",
+  "status": "settlement",
+  "location": "United States, California",
+  "added": "2026-11-19T20:32:51Z"
+ },
+ {
   "title": "Rivers of Living Water church leader Bishop Stephen Zondo denies rape charges as he testifies at his trial",
   "source": "Sowetan",
   "url": "https://sowetan.co.za/news/2026-11-19-bishop-zondo-denies-offering-r1-and-sweets-to-silence-rape-claims",
@@ -10,6 +60,31 @@
   "status": "charges",
   "location": "South Africa, Gauteng",
   "added": "2026-11-19T14:33:56Z"
+ },
+ {
+  "title": "Bankruptcy judge orders Buffalo diocese to detail each parish's share of $327 million abuse settlement",
+  "source": "Buffalo Toronto Public Media",
+  "url": "https://www.btpm.org/local/2026-11-18/judge-orders-diocese-of-buffalo-to-detail-parish-payments-as-part-of-settlement",
+  "date": "2026-11-18",
+  "category": "religious",
+  "institution": "Diocese of Buffalo",
+  "summary": "Judge Carl Bucki ordered the Diocese of Buffalo and its parishes to file records showing what each entity is contributing to the proposed $327 million survivor settlement, ahead of a Dec. 8 confirmation hearing on whether the plan is feasible.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "catholic-church-us",
+  "added": "2026-11-19T20:32:51Z"
+ },
+ {
+  "title": "Ohio University denies liability in WOUB employee's lawsuit alleging sexual harassment by former station manager",
+  "source": "WOUB Public Media",
+  "url": "https://woub.org/2026/11/18/ohio-university-denies-responsibility-alleged-sexual-harassment-response-lawsuit",
+  "date": "2026-11-18",
+  "category": "school",
+  "institution": "Ohio University",
+  "summary": "In a federal court filing, Ohio University denied it was slow to act on a public media employee's report that her supervisor, the station's former general manager, made repeated unwanted advances. The university says its investigation led to his resignation; the claims remain unproven and mediation is scheduled for April if no settlement is reached.",
+  "status": "lawsuit",
+  "location": "United States, Ohio",
+  "added": "2026-11-19T20:32:51Z"
  },
  {
   "title": "Federal suit accuses Contra Costa County of failing to stop a juvenile hall clinician's alleged abuse of youths",
