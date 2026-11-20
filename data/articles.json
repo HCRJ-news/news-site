@@ -1,5 +1,67 @@
 [
  {
+  "title": "NYU faces criticism from students and alumni over its response to an alleged sexual assault at the Paulson Center",
+  "source": "Washington Square News",
+  "url": "https://nyunews.com/news/2026/11/19/paulson-center-alleged-sexual-assault-communication",
+  "date": "2026-11-19",
+  "category": "school",
+  "institution": "New York University",
+  "summary": "NYPD is investigating a reported sexual assault of a student inside NYU's Paulson Center, and students and alumni say the university communicated too little and issued no campus safety alert. City Council members have asked NYU's president to appear at a December oversight hearing.",
+  "status": "investigation",
+  "location": "United States, New York",
+  "added": "2026-11-20T02:33:53Z"
+ },
+ {
+  "title": "Graves County jail employee arrested and charged with sexual abuse over contact with an inmate",
+  "source": "KFVS12",
+  "url": "https://kfvs12.com/2026/11/19/graves-county-sheriffs-office-jail-employee-charged-with-second-degree-sexual-abuse",
+  "date": "2026-11-19",
+  "category": "government",
+  "institution": "Graves County Sheriff's Office",
+  "summary": "The Graves County Sheriff's Office says a jail staff member was charged with second-degree sexual abuse after an inquiry into reported inappropriate contact with an inmate. She was arrested at the sheriff's office and booked into a jail in another county.",
+  "status": "charges",
+  "location": "United States, Kentucky",
+  "added": "2026-11-20T02:33:53Z"
+ },
+ {
+  "title": "Former Providence diocese priest, 86, pleads no contest to decades-old child molestation charges",
+  "source": "WJAR NBC 10",
+  "url": "https://turnto10.com/news/local/former-rhode-island-priest-pleads-no-contest-to-child-molestation-charges-catholic-probation-court-documents-november-19-2026",
+  "date": "2026-11-19",
+  "category": "religious",
+  "institution": "Diocese of Providence",
+  "summary": "James Silva, removed from the priesthood in 1993, entered a no-contest plea to first- and second-degree child molestation over abuse dating back more than 30 years, when he held a formation post in the diocese. He received 10 years of probation and must register as a sex offender.",
+  "status": "conviction",
+  "location": "United States, Rhode Island",
+  "case": "catholic-church-us",
+  "added": "2026-11-20T02:33:53Z"
+ },
+ {
+  "title": "St. Cloud, Florida pastor charged with sexual battery of a child; his wife charged with child neglect",
+  "source": "WKMG News 6",
+  "url": "https://www.clickorlando.com/news/local/2026/11/20/heinous-and-disgusting-st-cloud-pastor-and-his-wife-accused-in-child-sex-battery/",
+  "date": "2026-11-19",
+  "category": "religious",
+  "institution": "Grace Pointe Church (St. Cloud)",
+  "summary": "St. Cloud police arrested a Grace Pointe Church pastor on a charge of sexual battery by a person in custodial authority and arrested his wife on a neglect charge, alleging she knew and failed to act. Police say more charges are possible.",
+  "status": "charges",
+  "location": "United States, Florida",
+  "added": "2026-11-20T02:33:53Z"
+ },
+ {
+  "title": "Nevada plastics maker Tripp Enterprises to pay $250,602 to resolve EEOC sexual harassment findings",
+  "source": "U.S. EEOC",
+  "url": "https://www.eeoc.gov/newsroom/nevada-manufacturer-pay-over-250600-resolve-eeoc-sexual-harassment-charges",
+  "date": "2026-11-19",
+  "category": "company",
+  "institution": "Tripp Enterprises",
+  "summary": "The EEOC found company leaders at a Sparks plant subjected women to sexual harassment from 2022 to 2025 and that complaints led to one firing and one forced resignation. The conciliation deal pays four women and requires policy changes, training and a year of EEOC reporting.",
+  "status": "settlement",
+  "location": "United States, Nevada",
+  "case": "corporate-misconduct",
+  "added": "2026-11-20T02:33:53Z"
+ },
+ {
   "title": "Leaked Deutsche Bank records show $582 million in suspicious Epstein transactions, double earlier estimates",
   "source": "Investigative Journalism Bureau (University of Toronto)",
   "url": "https://ijb.utoronto.ca/news/deutsche-bank-epstein-suspicious-transactions-leak",
@@ -60,6 +122,18 @@
   "status": "charges",
   "location": "South Africa, Gauteng",
   "added": "2026-11-19T14:33:56Z"
+ },
+ {
+  "title": "Queensland government votes down bill to let child abuse survivors sue institutions over non-employee abusers",
+  "source": "Yahoo News Australia (AAP)",
+  "url": "https://au.news.yahoo.com/government-called-cruel-rejecting-sex-054158439.html",
+  "date": "2026-11-18",
+  "category": "government",
+  "institution": "Queensland Government",
+  "summary": "Queensland's government rejected an opposition bill that would have made churches, clubs and other institutions vicariously liable for abusers in employment-like roles, closing a gap left by a 2024 High Court ruling. Survivor advocates and lawyers criticized the decision.",
+  "status": "legislation",
+  "location": "Australia, Queensland",
+  "added": "2026-11-20T02:33:53Z"
  },
  {
   "title": "Bankruptcy judge orders Buffalo diocese to detail each parish's share of $327 million abuse settlement",
@@ -229,6 +303,32 @@
   "status": "lawsuit",
   "location": "United States, Iowa",
   "added": "2026-11-18T14:33:29Z"
+ },
+ {
+  "title": "Utah LDS Primary teacher charged with 40-plus felonies for allegedly recording children at church activities",
+  "source": "East Idaho News / ABC4",
+  "url": "https://eastidahonews.com/2026/11/lds-primary-teacher-charged-with-sex-crimes-for-allegedly-recording-young-children-during-church-meetings",
+  "date": "2026-11-17",
+  "category": "religious",
+  "institution": "Church of Jesus Christ of Latter-day Saints",
+  "summary": "A volunteer children's teacher in a Roy, Utah congregation faces sexual exploitation and child voyeurism charges after police say they found recordings of young girls made during church activities. He is being held without bail; the church had not commented on his status.",
+  "status": "charges",
+  "location": "United States, Utah",
+  "case": "lds-church",
+  "added": "2026-11-20T02:33:53Z"
+ },
+ {
+  "title": "Prosecutors drop 10 time-barred counts against ex-NC State sports medicine director; felony charges remain",
+  "source": "WRAL",
+  "url": "https://www.wral.com/news/local/ncstate-athletics-robert-murphy-former-trainer-some-charges-dismissed-november-2026/",
+  "date": "2026-11-17",
+  "category": "school",
+  "institution": "North Carolina State University",
+  "summary": "Wake County prosecutors dismissed ten misdemeanor sexual battery counts against Robert Murphy, NC State's former director of sports medicine, as outside the limitations period. He still faces nine felony and 13 misdemeanor counts involving former male athletes; a related civil suit against the university is on appeal.",
+  "status": "charges",
+  "location": "United States, North Carolina",
+  "case": "university-doctors",
+  "added": "2026-11-20T02:33:53Z"
  },
  {
   "title": "Four former students sue over alleged sexual abuse at shuttered Glen Mills Schools; state agencies also named",
