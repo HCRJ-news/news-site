@@ -1,5 +1,17 @@
 [
  {
+  "title": "Abraxas Academy guard and teacher charged with institutional sexual assault of a juvenile resident",
+  "source": "Berks Weekly",
+  "url": "https://berksweekly.com/news/crime/reading-woman-charged-with-institutional-sexual-assault-at-abraxas-academy/",
+  "date": "2026-11-20",
+  "category": "company",
+  "institution": "Abraxas Academy",
+  "summary": "A 25-year-old employee who worked as a guard and teacher at the Abraxas Academy juvenile residential facility in New Morgan was arrested and charged with institutional sexual assault of a minor and related offenses. Police say the case began with a ChildLine referral in October; she is presumed innocent.",
+  "status": "charges",
+  "location": "United States, Pennsylvania",
+  "added": "2026-11-21T02:39:20Z"
+ },
+ {
   "title": "Massachusetts Maritime Academy assistant football coach charged with online child sexual exploitation",
   "source": "WPRI 12",
   "url": "https://www.wpri.com/new-england/massachusetts/massachusetts-maritime-coach-charged-with-sexually-exploiting-children/",
@@ -245,6 +257,19 @@
   "added": "2026-11-19T14:33:56Z"
  },
  {
+  "title": "Kansas Bureau of Investigation opens criminal probe into ousted Bishop Miege High School president",
+  "source": "KSHB 41",
+  "url": "https://www.kshb.com/news/local-news/kansas-bureau-of-investigation-launches-probe-into-phil-baniewicz-ousted-catholic-school-administrator",
+  "date": "2026-11-18",
+  "category": "religious",
+  "institution": "Archdiocese of Kansas City in Kansas",
+  "summary": "The KBI has opened an investigation into the former president of Catholic Bishop Miege High School, who was removed in 2025 after an archdiocesan review and later barred from church employment. No arrest or charges have been announced.",
+  "status": "investigation",
+  "location": "United States, Kansas",
+  "case": "catholic-church-us",
+  "added": "2026-11-21T02:39:20Z"
+ },
+ {
   "title": "Queensland government votes down bill to let child abuse survivors sue institutions over non-employee abusers",
   "source": "Yahoo News Australia (AAP)",
   "url": "https://au.news.yahoo.com/government-called-cruel-rejecting-sex-054158439.html",
@@ -424,6 +449,31 @@
   "status": "lawsuit",
   "location": "United States, Iowa",
   "added": "2026-11-18T14:33:29Z"
+ },
+ {
+  "title": "Judge grants ex-priest William Mannion a new trial on 2 of 5 St. Agnes abuse counts; prosecutors drop them",
+  "source": "The Baltimore Banner",
+  "url": "https://www.thebanner.com/community/criminal-justice/william-mannion-trial-HLYK5XAF75DB7OCN5L2RVTXNLI/",
+  "date": "2026-11-17",
+  "category": "religious",
+  "institution": "Archdiocese of Baltimore",
+  "summary": "A Baltimore County judge ordered a new trial on two sex-offense counts against the former Catholic priest, convicted in October of abusing a St. Agnes Catholic School student in the 1990s, after evidence showed he started at the school after the dates alleged. Prosecutors dropped those counts; three convictions stand and sentencing is set for December.",
+  "status": "conviction",
+  "location": "United States, Maryland",
+  "case": "catholic-church-us",
+  "added": "2026-11-21T02:39:20Z"
+ },
+ {
+  "title": "Former Ursuline Academy lacrosse coach pleads guilty in child sexual abuse material case",
+  "source": "FOX19 / Cleveland19",
+  "url": "https://www.cleveland19.com/2026/11/17/former-lacrosse-coach-pleads-guilty-child-porn-charges/",
+  "date": "2026-11-17",
+  "category": "school",
+  "institution": "Ursuline Academy (Cincinnati)",
+  "summary": "Dominic Bellissemo, fired by Ursuline Academy after his arrest, pleaded guilty and was found guilty of possessing child sexual abuse material uncovered after a tip from Dropbox. Seventeen other counts were dismissed under the plea, and sentencing is scheduled for January.",
+  "status": "conviction",
+  "location": "United States, Ohio",
+  "added": "2026-11-21T02:39:20Z"
  },
  {
   "title": "Former Lewisville ISD teacher of the year arrested on child indecency charges",
