@@ -1,5 +1,31 @@
 [
  {
+  "title": "Archdiocese of New York borrows $160 million against six Manhattan parish properties to fund abuse settlement",
+  "source": "Globe (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/york-catholic-church-putting-properties-020932864.html",
+  "date": "2026-11-21",
+  "category": "religious",
+  "institution": "Archdiocese of New York",
+  "summary": "The archdiocese is pledging six properties tied to Manhattan parishes as collateral for $160 million in loans to help pay its roughly $800 million settlement of about 1,300 abuse claims. A spokesperson said no active church buildings are being mortgaged.",
+  "status": "settlement",
+  "location": "United States, New York",
+  "case": "catholic-church-us",
+  "added": "2026-11-21T14:33:39Z"
+ },
+ {
+  "title": "Bisbee abuse survivors ask U.S. Supreme Court to review Arizona ruling shielding LDS church leaders",
+  "source": "12News (via Yahoo News)",
+  "url": "https://yahoo.com/news/us/articles/arizona-child-abuse-victims-challenge-044146144.html",
+  "date": "2026-11-21",
+  "category": "religious",
+  "institution": "Church of Jesus Christ of Latter-day Saints",
+  "summary": "Plaintiffs in the Bisbee lawsuit petitioned the U.S. Supreme Court after Arizona's high court held that church leaders had no duty to report abuse disclosed in a religious confession. They argue the abuse was not confidential because others already knew of it.",
+  "status": "lawsuit",
+  "location": "United States, Arizona",
+  "case": "lds-church",
+  "added": "2026-11-21T14:33:39Z"
+ },
+ {
   "title": "Former teacher charged with historical sexual assaults of a student at a Wyong school",
   "source": "Newcastle Weekly",
   "url": "https://newcastleweekly.com.au/former-teacher-charged-over-alleged-historical-sexual-assaults-at-wyong-school",
@@ -10,6 +36,18 @@
   "status": "charges",
   "location": "Australia, New South Wales",
   "added": "2026-11-21T08:38:28Z"
+ },
+ {
+  "title": "Former Pendleton County, W.Va. teacher and volleyball coach pleads guilty to seducing a minor",
+  "source": "WHSV",
+  "url": "https://www.whsv.com/2026/11/20/former-pendleton-county-teacher-coach-pleads-guilty-seducing-minor/",
+  "date": "2026-11-20",
+  "category": "school",
+  "institution": "Pendleton County Schools",
+  "summary": "Madison Day, a former teacher and volleyball coach at Pendleton County Middle/High School, pleaded guilty to one count of seducing a minor using obscene matter; two other counts were dropped. She must register as a sex offender and awaits sentencing; the school system removed her after her April arrest.",
+  "status": "conviction",
+  "location": "United States, West Virginia",
+  "added": "2026-11-21T14:33:39Z"
  },
  {
   "title": "New York accepts full liability and pays $1.2 million in Adult Survivors Act claim over Bayview prison officer",
