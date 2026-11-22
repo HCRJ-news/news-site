@@ -1,5 +1,31 @@
 [
  {
+  "title": "New Orleans archdiocese abuse survivors begin receiving payouts; about $180 million paid so far",
+  "source": "The Guardian / WWL (via AOL)",
+  "url": "https://www.aol.co.uk/articles/orleans-catholic-clergy-abuse-survivors-110057000.html",
+  "date": "2026-11-21",
+  "category": "religious",
+  "institution": "Archdiocese of New Orleans",
+  "summary": "Payments from the Archdiocese of New Orleans's roughly $305 million bankruptcy settlement have started, with about $180 million distributed to around 450 of some 740 survivors and the remainder targeted by year-end. The case began with the archdiocese's 2020 bankruptcy filing, and professional fees topped $50 million.",
+  "status": "settlement",
+  "location": "United States, Louisiana",
+  "case": "catholic-church-us",
+  "added": "2026-11-22T14:41:10Z"
+ },
+ {
+  "title": "Court records from 2007 Nvidia lawsuit allege Jensen Huang made sexually explicit remarks to staff",
+  "source": "Business Standard (Bloomberg)",
+  "url": "https://www.business-standard.com/world-news/former-nvidia-employees-accused-huang-of-abusive-conduct-in-2007-lawsuit-126112100182_1.html",
+  "date": "2026-11-21",
+  "category": "company",
+  "institution": "Nvidia",
+  "summary": "Filings in a wrongful-termination suit by a former in-house lawyer, settled confidentially in 2009, allege the then-CEO verbally abused employees and made sexually explicit comments; a former HR executive separately alleged being fired after objecting. A representative for Huang called the claims false.",
+  "status": "allegation",
+  "location": "United States, California",
+  "case": "corporate-misconduct",
+  "added": "2026-11-22T14:41:10Z"
+ },
+ {
   "title": "Lawsuit accuses Miami Massage Envy franchise of failing to protect a client allegedly assaulted by a therapist",
   "source": "24-7 Press Release (plaintiff's counsel)",
   "url": "https://www.financialcontent.com/article/247pressrelease-2026-11-21-lawsuit-alleges-miami-massage-envy-franchise-failed-to-protect-client-from-sexual-battery-by-therapist",
@@ -60,6 +86,31 @@
   "status": "charges",
   "location": "Australia, New South Wales",
   "added": "2026-11-21T08:38:28Z"
+ },
+ {
+  "title": "Bishop of Derry orders independent review of diocese's handling of concerns about Fr Edward Gallagher",
+  "source": "BBC News NI (via Yahoo)",
+  "url": "https://www.yahoo.com/news/world/articles/bishop-orders-review-handling-concerns-111813183.html",
+  "date": "2026-11-20",
+  "category": "religious",
+  "institution": "Diocese of Derry",
+  "summary": "Bishop Michael Router has commissioned an external review of how the Diocese of Derry dealt with concerns about the priest, who has pleaded guilty to more than 100 child sex offences and is due to be sentenced in December. The bishop has also asked the Vatican to dismiss him from the priesthood.",
+  "status": "investigation",
+  "location": "United Kingdom, Northern Ireland",
+  "case": "catholic-church-global",
+  "added": "2026-11-22T14:41:10Z"
+ },
+ {
+  "title": "Federal suit says Digital Realty ignored harassment complaints about a director before an alleged assault",
+  "source": "Mortgage Professional America",
+  "url": "https://www.mpamag.com/us/news/general/employee-sues-digital-realty-over-alleged-assault-after-months-of-ignored-warnings/598225",
+  "date": "2026-11-20",
+  "category": "company",
+  "institution": "Digital Realty",
+  "summary": "An assistant property manager at the data center company's Ashburn office alleges in a Title VII lawsuit that months of sexual harassment complaints about a senior director went unaddressed and that she faced retaliation. The allegations have not been proven in court.",
+  "status": "lawsuit",
+  "location": "United States, Virginia",
+  "added": "2026-11-22T14:41:10Z"
  },
  {
   "title": "Former Washington DOC community corrections officer faces added custodial sexual misconduct counts involving two more people",
@@ -240,6 +291,18 @@
   "status": "allegation",
   "location": "India, Uttarakhand",
   "added": "2026-11-20T08:33:49Z"
+ },
+ {
+  "title": "Police probe of Presbyterian Church in Ireland safeguarding failures draws 168 contacts; two arrests made",
+  "source": "The Irish News",
+  "url": "https://www.irishnews.com/news/northern-ireland/psni-investigation-after-presbyterian-church-admitted-safeguarding-failures-contacted-by-168-people-46PRMN33IJG7NKBHLLCVD3QTUY/",
+  "date": "2026-11-19",
+  "category": "religious",
+  "institution": "Presbyterian Church in Ireland",
+  "summary": "The PSNI says 168 people have come forward in its criminal investigation following the church's admission of safeguarding failures, with two arrests over alleged child sexual offences and rape and 10 files sent to prosecutors. A 2025 church review had found serious failings in central safeguarding between 2009 and 2022.",
+  "status": "investigation",
+  "location": "United Kingdom, Northern Ireland",
+  "added": "2026-11-22T14:41:10Z"
  },
  {
   "title": "Baltimore archdiocese and abuse survivors reach conditional tentative deal in bankruptcy case",
