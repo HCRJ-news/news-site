@@ -1,5 +1,17 @@
 [
  {
+  "title": "Zimbabwe police arrest GoodNews Church founder Uebert Angel over indecent assault and sodomy allegations",
+  "source": "Malawi24",
+  "url": "https://malawi24.com/2026/11/22/prophet-uebert-angel-arrested-over-sexual-abuse-allegations/",
+  "date": "2026-11-22",
+  "category": "religious",
+  "institution": "GoodNews Church (Spirit Embassy)",
+  "summary": "Zimbabwe Republic Police said they arrested preacher Uebert Angel, founder of Spirit Embassy, now GoodNews Church, over allegations of indecent assault and sodomy. Police gave no further details, and he had not publicly commented.",
+  "status": "investigation",
+  "location": "Zimbabwe",
+  "added": "2026-11-23T02:39:14Z"
+ },
+ {
   "title": "Government school teacher in Erode, Tamil Nadu arrested under POCSO over harassment of Class 6 girls",
   "source": "Seithi Saral",
   "url": "https://www.seithisaral.in/2026/11/22/sexual-harassment-students-government-teacher-arrested-under-pocso-act/",
@@ -10,6 +22,18 @@
   "status": "charges",
   "location": "India, Tamil Nadu",
   "added": "2026-11-22T20:33:09Z"
+ },
+ {
+  "title": "Paris police open 235 investigations into alleged abuse of children by school after-care aides",
+  "source": "The Washington Post (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/france-reckons-with-rampant-sexual-abuse-of-schoolchildren/",
+  "date": "2026-11-21",
+  "category": "government",
+  "institution": "City of Paris school after-care (périscolaire) service",
+  "summary": "Paris police have opened 235 investigations into alleged physical, psychological and sexual abuse of young children by after-school aides in public preschools and elementary schools, and more than 130 aides have been suspended. A French Senate inquiry in October found the problem extends beyond Paris, though few cases have yet ended in convictions.",
+  "status": "investigation",
+  "location": "France, Paris",
+  "added": "2026-11-23T02:39:14Z"
  },
  {
   "title": "Police send files on 10 people to prosecutors in Presbyterian Church in Ireland abuse investigation",
@@ -122,6 +146,42 @@
   "status": "charges",
   "location": "Australia, New South Wales",
   "added": "2026-11-21T08:38:28Z"
+ },
+ {
+  "title": "Rape allegation at Temple University puts colleges' handling of off-campus assault reports under scrutiny",
+  "source": "The Philadelphia Inquirer",
+  "url": "https://www.inquirer.com/news/temple-university-title-ix-sexual-assault-investigations-20261120.html",
+  "date": "2026-11-20",
+  "category": "school",
+  "institution": "Temple University",
+  "summary": "A Temple student's Title IX complaint alleging rape by a classmate was dismissed because the incident occurred off campus; a later conduct hearing found the accused student responsible only for a nonconsensual recording and suspended him for a semester. He has not been criminally charged, and the case is prompting questions about how colleges handle such reports.",
+  "status": "allegation",
+  "location": "United States, Pennsylvania",
+  "added": "2026-11-23T02:39:14Z"
+ },
+ {
+  "title": "Italian survivors' network Rete L'Abuso launches independent region-by-region probe of clergy abuse",
+  "source": "ANSA (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/italian-victims-of-clerical-abuse-launch-an-independent-investigation/",
+  "date": "2026-11-20",
+  "category": "religious",
+  "institution": "Catholic Church in Italy",
+  "summary": "The survivors' advocacy group Rete L'Abuso says it will publish weekly regional dossiers on sexual abuse by Catholic clergy and church-linked figures in Italy, starting with Lombardy. Its 2025 report counted about 1,250 cases, while Italian courts have issued 155 final convictions.",
+  "status": "investigation",
+  "location": "Italy",
+  "added": "2026-11-23T02:39:14Z"
+ },
+ {
+  "title": "Ex-pastor of River Edge, N.J. Lutheran church gets 180 days in jail after guilty plea involving a teen",
+  "source": "Hoodline (via BishopAccountability.org)",
+  "url": "https://www.bishop-accountability.org/2026/11/ex-river-edge-pastor-faced-21-charges-including-18-sex-offenses-gets-6-months-in-bergen-jail/",
+  "date": "2026-11-20",
+  "category": "religious",
+  "institution": "Grace Evangelical Lutheran Church (River Edge)",
+  "summary": "Stephen E. Sweet, a former pastor of Grace Evangelical Lutheran Church, was originally charged with 21 offenses involving a teenager over several years and pleaded guilty in August to one count of child endangerment. He was sentenced to 180 days in Bergen County Jail and is no longer affiliated with the church.",
+  "status": "conviction",
+  "location": "United States, New Jersey",
+  "added": "2026-11-23T02:39:14Z"
  },
  {
   "title": "Morehouse College orders outside review of Title IX and misconduct handling after student's rape arrest",
