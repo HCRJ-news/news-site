@@ -1,5 +1,29 @@
 [
  {
+  "title": "Victor Valley Union HSD teacher arrested over alleged abuse of a former student years ago",
+  "source": "Victorville Daily Press (via Yahoo News)",
+  "url": "https://www.yahoo.com/news/us/articles/victorville-teacher-accused-sexual-relationship-035442687.html",
+  "date": "2026-11-24",
+  "category": "school",
+  "institution": "Victor Valley Union High School District",
+  "summary": "A University Preparatory School social studies teacher was arrested on suspicion of two child molestation-related offenses after a former student reported abuse while she was underage. The district placed him on leave, and its police department said there may be additional victims.",
+  "status": "charges",
+  "location": "United States, California",
+  "added": "2026-11-25T20:34:57Z"
+ },
+ {
+  "title": "Northside ISD coach facing federal CSAM charges rearrested over alleged release-condition violation",
+  "source": "KSAT",
+  "url": "https://ksat.com/news/ksat-investigates/2026/11/24/oconnor-hs-football-coach-facing-federal-child-porn-charges-rearrested-accused-of-taking-photos-with-young-relative",
+  "date": "2026-11-24",
+  "category": "school",
+  "institution": "Northside Independent School District",
+  "summary": "An O'Connor High School teacher and assistant football coach under federal indictment was taken back into custody after pretrial officers said he had contact with a minor despite release conditions barring it. The district says he remains on administrative leave and has sought to withhold his personnel file.",
+  "status": "charges",
+  "location": "United States, Texas",
+  "added": "2026-11-25T20:34:57Z"
+ },
+ {
   "title": "Australia's Catholic Church Insurance enters final wind-down phase, pausing payments to church policyholders",
   "source": "EWTN News",
   "url": "https://www.ewtnnews.com/world/asia-pacific/australian-catholic-insurer-to-cut-its-share-of-abuse-payouts-as-wind-down-enters-final-phase",
@@ -1179,6 +1203,19 @@
   "status": "lawsuit",
   "location": "United States, Iowa",
   "added": "2026-11-18T14:33:29Z"
+ },
+ {
+  "title": "ProPublica/Marshall Project: abuse spread across federal women's prisons after FCI Dublin's closure",
+  "source": "ProPublica",
+  "url": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+  "date": "2026-11-17",
+  "category": "government",
+  "institution": "Federal Bureau of Prisons",
+  "summary": "A joint investigation counted more than 185 cases since 2021 in which staff were accused of sexually abusing women at 16 federal prisons, involving over 96 officers, of whom only 19 have been arrested or convicted. The Bureau of Prisons cited a zero-tolerance policy and declined to discuss specific cases.",
+  "status": "investigation",
+  "location": "United States",
+  "case": "fci-dublin",
+  "added": "2026-11-25T20:34:57Z"
  },
  {
   "title": "Judge grants ex-priest William Mannion a new trial on 2 of 5 St. Agnes abuse counts; prosecutors drop them",
