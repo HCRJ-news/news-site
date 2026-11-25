@@ -1,5 +1,18 @@
 [
  {
+  "title": "Australia's Catholic Church Insurance enters final wind-down phase, pausing payments to church policyholders",
+  "source": "EWTN News",
+  "url": "https://www.ewtnnews.com/world/asia-pacific/australian-catholic-insurer-to-cut-its-share-of-abuse-payouts-as-wind-down-enters-final-phase",
+  "date": "2026-11-24",
+  "category": "religious",
+  "institution": "Catholic Church Insurance",
+  "summary": "The church-owned insurer, weighed down by abuse-related liabilities, declared a trigger event under its court-approved scheme, pausing policyholder payments for up to 90 days while a payment percentage is set; church bodies must cover the shortfall. The insurer says compensation owed to abuse claimants remains payable in full.",
+  "status": "policy",
+  "location": "Australia",
+  "case": "catholic-church-global",
+  "added": "2026-11-25T14:39:20Z"
+ },
+ {
   "title": "Cherokee County, Alabama school employee indicted on 14 counts including sexual contact with a student",
   "source": "WBRC",
   "url": "https://www.wbrc.com/2026/11/24/school-employee-charged-with-distributing-obscene-material-sexual-contact-with-student/",
@@ -120,6 +133,32 @@
   "status": "lawsuit",
   "location": "United States, Virginia",
   "added": "2026-11-24T08:33:31Z"
+ },
+ {
+  "title": "Fairfield Prep hires independent investigator after a second former student accuses an ex-teacher of abuse",
+  "source": "CT Insider",
+  "url": "https://www.yahoo.com/news/us/articles/fairfield-prep-retains-investigator-second-202305640.html",
+  "date": "2026-11-23",
+  "category": "school",
+  "institution": "Fairfield College Preparatory School",
+  "summary": "The Jesuit boys' school, part of Fairfield University, retained an outside investigator to take complaints after a second former student alleged sexual abuse by a former teacher in the early 2000s. The teacher has not been charged; the university reached a $1.1 million settlement over the first allegation in October.",
+  "status": "investigation",
+  "location": "United States, Connecticut",
+  "case": "catholic-church-us",
+  "added": "2026-11-25T14:39:20Z"
+ },
+ {
+  "title": "Cardinal Fernández says Vatican will not interfere in or set deadlines for Marko Rupnik's canonical abuse trial",
+  "source": "National Catholic Register",
+  "url": "https://www.ncregister.com/news/cardinal-fernandez-speaks-on-status-of-rupnik-trial",
+  "date": "2026-11-23",
+  "category": "religious",
+  "institution": "Dicastery for the Doctrine of the Faith",
+  "summary": "The Vatican's doctrine chief said the five-judge church tribunal hearing allegations of sexual, psychological and spiritual abuse against the ex-Jesuit artist works independently and that the Holy See cannot impose time limits, though it hopes for a prompt resolution. Proceedings remain confidential.",
+  "status": "investigation",
+  "location": "Vatican City",
+  "case": "catholic-church-global",
+  "added": "2026-11-25T14:39:20Z"
  },
  {
   "title": "Rep. Jimmy Gomez to resign after House Ethics Committee finds evidence of unwelcome sexual advances toward a staffer",
