@@ -1,5 +1,17 @@
 [
  {
+  "title": "Police Scotland charge a man in historical abuse probe at Loretto School; other ex-staff reportedly under investigation",
+  "source": "BBC News",
+  "url": "https://www.bbc.com/news/articles/c6d91j4kvq21o",
+  "date": "2026-11-27",
+  "category": "school",
+  "institution": "Loretto School",
+  "summary": "Police Scotland say a man has been charged with sexual assault and assault under Operation Dewdrop, an inquiry into non-recent abuse at the Musselburgh boarding school, and a report has gone to prosecutors. Four other former staff members are reportedly being investigated; the school says it will engage fully with the process.",
+  "status": "charges",
+  "location": "United Kingdom, Scotland",
+  "added": "2026-11-28T14:34:35Z"
+ },
+ {
   "title": "German appeals court holds Archdiocese of Cologne liable for priest's abuse, sets record €550,000 award",
   "source": "Catholic World Report",
   "url": "https://www.catholicworldreport.com/2026/11/27/court-holds-german-archdiocese-liable-for-priests-abuse-awards-record-604000/",
@@ -119,6 +131,18 @@
   "status": "conviction",
   "location": "Malaysia, Sarawak",
   "added": "2026-11-26T14:34:28Z"
+ },
+ {
+  "title": "Lawsuit alleges Connecticut DCF ignored reports that a court-appointed guardian was sexually abusing a child for years",
+  "source": "WFSB",
+  "url": "https://www.wfsb.com/2026/11/25/lawsuit-says-dcf-knew-guardian-impregnated-then-12-year-old-girl-sexually-abused-her-years-failed-act/",
+  "date": "2026-11-25",
+  "category": "government",
+  "institution": "Connecticut Department of Children and Families",
+  "summary": "A woman has sued the State of Connecticut, alleging the Department of Children and Families and the courts received reports of abuse by her court-approved guardian during her childhood but failed to investigate adequately or alert police. The guardian later pleaded guilty to sexual assault; DCF declined to comment on pending litigation.",
+  "status": "lawsuit",
+  "location": "United States, Connecticut",
+  "added": "2026-11-28T14:34:35Z"
  },
  {
   "title": "McDonogh School reaches tentative settlements in 26 lawsuits alleging it covered up decades of child sexual abuse",
